@@ -1,0 +1,855 @@
+DOB,height_in,home_town,player_country,player_id,player_name,resides,total_first,total_forth,total_played,total_points1,total_points2,total_points3,total_second,total_third
+"August 28, 1998 (24 years old)","6'2""",Babol,Iran  ,16934,Alireza Aghajanighasab,Babol,1,1,8,476.0,0,1,1,1
+"September 27, 2002 (20 years old)","6'0""","San Diego, CA",United States  ,18522,Megan Kraft,"San Diego, CA",3,3,22,"4,795.0", ,0,0,0
+"October 1, 1995 (27 years old)","6'3""","Pittsford, NY",United States  ,17069,Terese Cannon,"Pittsford, NY",1,0,29,"6,050.0", ,2,4,3
+"July 5, 1990 (32 years old)","6'2""",Bratislava,Slovakia  ,9532,Natalia Dubovcova Pridalova,Bratislava,0,0,96,"11,170.0", ,0,0,4
+"April 3, 2002 (21 years old)","6'4""",Bergen,Norway  ,19196,Markus Mol,Strandvik,0,0,4,280.0,0,0,0,0
+"May 23, 1992 (31 years old)","6'3""",Turnhout,Belgium  ,19697,Tim Lemmens,"Berchem, Antwerpen",0,1,1,70.0, ,0,0,0
+"February 9, 1989 (34 years old)","6'4""",Czestochowa,Poland  ,19403,Jedrzej Brozyniak,Czestochowa,2,0,4,350.0,0,0,0,0
+"July 14, 1994 (28 years old)","6'0""",Moscow,Russia  ,11691,Ksenia Dabizha,Moscow,2,2,64,"5,269.0", ,0,1,3
+"September 21, 2000 (22 years old)","6'5""",Novo Mesto,Slovenia  ,17987,Crtomir Bošnjak,Ljubljana,0,0,1,60.0,0,0,0,0
+"February 5, 1996 (27 years old)","6'2""","Arendal, Aust-Agder",Norway  ,14738,Mathias Berntsen,Aamli,0,1,62,"8,451.0", ,1,1,3
+"April 15, 1999 (24 years old)","6'1""",Pau,France  ,15406,Timothée Platre,Sete,1,4,17,"1,295.0", ,2,0,1
+"May 1, 1992 (31 years old)","6'3""",Menen,Belgium  ,19698,Anshel Ver Eecke,Zulte,0,1,1,70.0, ,0,0,0
+"April 24, 1981 (42 years old)","5'9""",Brasília (DF),Brazil  ,5834,Ângela Cristina Rebouças Lavalle Vieira,Brasília (DF),2,2,65,"4,900.0", ,4,2,2
+"January 22, 1988 (35 years old)","5'10""",Versailles,France  ,8801,Laura Longuet,Annecy le vieux,0,1,48,"2,272.0", ,2,0,0
+"September 29, 1997 (25 years old)","6'4""",Espinosa,Brazil  ,15329,Ana Patricia Silva Ramos,Fortaleza,10,1,47,"13,740.0", ,0,5,8
+"February 18, 1992 (31 years old)","6'0""",Ostroda,Poland  ,17751,Marcin Ociepski,Ostroda,0,0,2,20.0,0,0,0,0
+"August 2, 1993 (29 years old)","6'6""",Feldbach,Austria  ,11730,Christoph Dressler,Gosdorf,2,2,89,"8,253.0", ,0,2,2
+"September 22, 1979 (43 years old)","6'1""","Davie, FL",United States  ,1931,Nick Lucena,"Tallahassee, FL",9,6,121,"22,236.0", ,3,11,6
+"September 22, 1995 (27 years old)","6'0""",Toronto,Canada  ,13757,Sophie Bukovec,"Toronto, ON",1,1,40,9,0,"$53,873.71",2,0
+"September 26, 2007 (15 years old)",,,Latvia  ,21234,Liva Ebere,,0,0,3,280.0,0,1,0,0
+"October 20, 2000 (22 years old)","6'0""",Sneek,Netherlands  ,17791,Emma Piersma,Den Haas,3,0,29,"3,190.0", ,0,1,0
+"May 17, 1997 (26 years old)","6'9""",Hamburg,Germany  ,15563,Julius Thole,Hamburg,0,2,46,"$120,775.00","6,967.0", ,3,2
+"August 30, 1994 (28 years old)","5'9""",Kelme,Lithuania  ,12330,Monika Povilaityte Paulikiene,Vilnius,2,2,40,"4,069.0", ,0,1,3
+"January 13, 1985 (38 years old)","6'2""",Kaunas,Lithuania  ,12176,Erika Kliokmanaite,Barcelona,0,0,5,820.0,0,0,1,0
+"April 28, 1994 (29 years old)","5'7""",Tokyo,Japan  ,18179,Mayu Sawame,Kanagawa,0,2,3,370.0,0,0,0,1
+"September 8, 1989 (33 years old)","5'10""",Vejle,Denmark  ,12391,Cecilie Køllner Olsen,Copenhagen,0,1,18,857.0, ,0,3,0
+"May 12, 1996 (27 years old)","6'4""",Hyères les Palmiers,France  ,14579,Arnaud Loiseau,HYERES,0,1,16,849.0, ,2,1,0
+"March 6, 1996 (27 years old)","6'0""",Villeurbanne,France  ,14682,Aline Chamereau,FRANCE,0,1,53,"4,674.0", ,0,1,1
+"August 29, 1990 (32 years old)","6'0""",Ravne na Koroškem,Slovenia  ,17032,Tadej Bozenk,Ravne na Koroškem,0,1,7,450.0,0,1,0,0
+"November 3, 1991 (31 years old)","6'2""",Sawiq city-North Batinah Governate,Oman  ,18132,Nouh Al-Jalbubi,SUWAIQ,0,3,7,510.0,1,0,0,0
+"January 9, 1984 (39 years old)","6'6""",Tokyo,Japan  ,17594,"Yusuke ""Gottsu"" Ishijima",Saitama,1,0,22,"1,511.0",0,4,0,0
+"August 19, 1991 (31 years old)","5'9""",Tokyo,Japan  ,16250,Minori Kumada,Kanagawa  ,0,1,27,"1,995.0",2,0,2,0
+"January 31, 1993 (30 years old)","5'11""",Alicante,Spain  ,11614,Paula Soria Gutiérrez,Tenerife,3,4,61,"6,358.0", ,1,2,0
+"January 31, 2005 (18 years old)",,,Latvia  ,20297,Kristians Fokerots,,1,0,11,"1,230.0",0,0,0,1
+"January 21, 1990 (33 years old)","6'3""",Velden,Austria  ,10527,Robin Seidl,Velden am Wörthersee,2,2,128,"16,813.0", ,1,2,2
+"February 11, 2001 (22 years old)","6'1""",Bliedersdorf,Germany  ,20467,Nele Schmitt,,0,0,1,70.0,0,0,0,0
+"December 26, 1990 (32 years old)","6'6""",Cerrito,Argentina  ,13573,Julian Amado Azaad,Mar Del Plata,0,0,63,"5,142.0", ,2,0,1
+"March 28, 1990 (33 years old)","6'6""",Novi Sad,Serbia  ,10658,Stefan Basta,Novi Sad,1,0,21,"2,070.0", ,0,2,0
+"July 23, 1997 (25 years old)","6'8""",Brno,Czech Republic  ,13871,Donovan Dzavoronok,,1,0,3,170.0,0,0,0,0
+"February 18, 1993 (30 years old)","6'3""",Sydney,Australia  ,11836,Nicole Laird,Adelaide,3,1,56,"5,117.0", ,1,1,2
+"March 5, 1997 (26 years old)","6'3""",Babol,Iran  ,17338,Javad Firouzpourbandpei,Babol,1,0,6,325.0,0,1,1,0
+"August 10, 1997 (25 years old)","5'7""",Port Vila,Vanuatu  ,16558,Sherysyn Toko,Port Vila,1,0,4,530.0,0,0,0,0
+"December 16, 1997 (25 years old)","5'6""","New Orleans, LA",United States  ,17607,Kristen Nuss,"Metairie, LA",4,1,14,"4,860.0", ,0,0,0
+"May 3, 1996 (27 years old)","6'1""",Bangkok,Thailand  ,15651,Surin Jongklang,Bangkok,0,1,33,"3,005.0",1,3,0,1
+"September 27, 1993 (29 years old)","6'1""",Tauranga,New Zealand  ,13114,Griffin Muller,Tauranga,1,0,3,120.0,0,0,0,0
+"October 15, 1995 (27 years old)","6'3""",Almelo,Netherlands  ,17321,Thijs Nijeboer,Den Haag,0,0,20,950.0, ,0,0,1
+"September 13, 1987 (35 years old)","5'7""",London,Canada  ,9176,Heather Bansley,Toronto,3,1,111,"17,225.0", ,0,4,7
+"February 26, 2001 (22 years old)","6'4""",Krstiansand,Norway  ,17185,Nils Gunnar Ringøen,Kristiansand,1,3,19,"1,260.0", ,1,0,0
+"February 13, 1996 (27 years old)","5'8""",Belp,Switzerland  ,13745,Dunja Gerson,Belp,1,0,47,"$21,317.86","3,985.0", ,0,1
+"December 1, 2004 (18 years old)","6'4""",Montpellier,France  ,19774,Arthur Canet,Montpellier,1,0,10,"1,545.0",0,1,0,1
+"April 28, 1995 (28 years old)","6'1""","Banjul, Gambia",Qatar  ,15096,Ahmed Tijan,Doha,4,0,68,"13,983.0", ,1,8,5
+"October 30, 1996 (26 years old)","6'2""","Los Alamitos, CA",United States  ,19434,Crissy Jones,"Long Beach, CA",0,0,2,204.0,0,0,0,0
+"July 26, 1990 (32 years old)","6'7""",Bangkok,Thailand  ,17547,Adisorn Khaolumtarn,Roi ET,0,0,21,"1,835.0",1,2,0,1
+"August 19, 1994 (28 years old)","6'2""","Kiev, Ukraine",Canada  ,15315,Sergiy Grabovskyy,Aurora,0,0,18,1,"$2,350.00",881.0,0,1
+"May 26, 1981 (42 years old)","6'0""","Fowler, CO",United States  ,6428,Brittany Hochevar,"Knoxville, TN",0,1,85,0,"$123,175.00","7,499.0",1,0
+"January 12, 1998 (25 years old)","6'6""","London, Ontario, Canada",Australia  ,16902,Paul Burnett,Adelaide,0,1,31,"$34,482.95","5,271.0", ,1,2
+"January 2, 1988 (35 years old)","6'8""",Slov. Bistrica,Slovenia  ,17764,Vid Jakopin,Ljubljana,0,0,4,310.0,0,1,0,0
+"January 4, 1990 (33 years old)","5'10""",Stuttgart,Germany  ,9373,Chantal Laboureur,Stuttgart,3,5,112,"16,854.0", ,0,7,4
+"June 14, 1997 (26 years old)","6'1""","Mooresville, NC",United States  ,19577,Julia Scoles,"Mooresville, NC",0,1,9,"$28,375.00","2,720.0", ,1,1
+"June 19, 1992 (31 years old)","6'2""",Stord,Norway  ,10836,Ane Guro Tveit Hjortland,Hatlestrand,0,0,43,"2,684.0", ,0,1,1
+"August 6, 1986 (36 years old)","6'6""","Big Bend, WI",United States  ,11507,Billy Kolinske,"Redondo Beach, CA",0,0,36,"$21,245.00","3,330.0", ,1,1
+"January 11, 2001 (22 years old)","6'2""",Zakumuizha,Latvia  ,18799,Arturs Rinkevics,Zakumuizhe,0,0,13,"$1,404.68","1,115.0", ,0,1
+"September 2, 1988 (34 years old)","6'0""",Bogotá,Colombia  ,8461,Andrea Carolina Galindo Rodriguez,Bogotá,1,1,35,"$11,375.30","1,831.0", ,0,0
+"June 11, 2002 (21 years old)","5'7""",Riga,Latvia  ,18504,Varvara Brailko,Riga,0,3,21,"1,270.0", ,0,0,0
+"October 24, 1993 (29 years old)","5'9""",Lima Peru,Australia  ,8395,Mariafe Artacho Del Solar,Brisbane,9,3,78,"14,152.0", ,1,5,9
+"July 2, 1997 (25 years old)","6'7""","Stord, Hordaland",Norway  ,14741,Anders Berntsen Mol,Strandvik,22,1,58,"17,653.0", ,3,4,6
+"March 13, 2002 (21 years old)",,,Ukraine  ,20702,Anastasiya Nagorna,,0,1,1,70.0, ,0,0,0
+"April 9, 1999 (24 years old)","6'0""",Moosburg,Austria  ,16875,Arwin Kopschar,Moosburg,0,1,4,145.0,0,1,0,0
+"March 7, 1997 (26 years old)","6'1""",Rome,Italy  ,16166,Alice Gradini,rome,0,1,5,400.0,0,1,0,0
+"January 26, 2002 (21 years old)","6'0""",Tel Aviv,Israel  ,18866,River Day,Tel Aviv,0,0,7,330.0,1,1,0,0
+"December 22, 1996 (26 years old)","6'0""",Brisbane,Australia  ,14447,Phoebe Bell,Adelaide ,1,0,34,"2,803.0",0,5,1,3
+"June 5, 1993 (30 years old)","6'0""",Thessaloniki,Greece  ,16865,Konstantina Tsopoulou,Athens,0,0,16,"1,005.0",1,3,1,2
+"June 29, 1998 (24 years old)","6'1""",Villach,Austria  ,16282,Katharina Holzer,Keutschach,0,0,5,340.0,0,0,0,0
+"March 20, 1982 (41 years old)","6'3""","Carlsbad, CA",United States  ,5237,Lauren Fendrick,"Los Altos, CA",3,4,116,"15,520.0", ,5,1,0
+"April 14, 1997 (26 years old)","6'2""",Lier,Belgium  ,18078,Sarah Cools,Pulle,0,0,2,40.0,0,0,0,0
+"September 24, 1993 (29 years old)","5'11""",Genova,Italy  ,17316,Davide Benzi,Genova,1,0,11,"1,491.0",0,2,0,0
+"September 29, 1997 (25 years old)","6'0""",Vienna,Austria  ,15658,Franziska Friedl,Muenichsthal,0,0,36,"2,265.0", ,3,1,1
+"April 30, 1989 (34 years old)","5'9""",Braunau am Inn,Austria  ,15095,Eva Freiberger,Linz,0,2,35,"2,195.0", ,3,1,0
+"April 5, 1989 (34 years old)","5'6""",Hualien,Chinese Taipei  ,12690,Pi Hsin Liu,Hualien,3,1,24,"1,882.0",1,0,1,1
+"January 27, 1993 (30 years old)","5'10""",Wen Chang,China  ,13682,Lingdi Zhu,Nanjing,1,3,27,"3,544.0", ,0,0,1
+"July 11, 1989 (33 years old)","6'5""","Queilen, Chiloe",Chile  ,12656,Marco Grimalt,Santiago,4,4,96,"14,792.0", ,2,2,0
+"October 15, 1996 (26 years old)","6'3""",Zaporizia,Ukraine  ,14999,Denys Denysenko,Zaporizia,1,0,32,"2,137.0", ,3,1,2
+"October 7, 1998 (24 years old)","5'9""",Izola,Slovenia  ,16304,Tajda Lovsin,SLOVENIA,0,0,27,"3,200.0", ,4,3,1
+"August 6, 1987 (35 years old)","5'10""",Rio de Janeiro,Brazil  ,5887,Carolina Salgado Collet Solberg,Rio de Janeiro,7,13,200,"33,752.0", ,8,14,15
+"October 17, 1996 (26 years old)","6'4""",Guasave,Mexico  ,15326,Jose Luis Rubio Camargo,Mazatlán,0,0,12,2,"$18,900","1,782.0",2,0
+"January 5, 1995 (28 years old)","6'2""",Forde,Norway  ,13785,Bjarne Nikolai Huus,"Long Beach, CA",0,0,5,226.0,0,0,1,0
+"March 11, 1995 (28 years old)","5'9""",Lask,Poland  ,12452,Katarzyna Kociolek,Lask,2,2,64,"8,675.0", ,1,5,0
+"July 30, 2002 (20 years old)",,Chile,Chile  ,20973,Noe Aravena,,0,0,14,"2,390.0",1,0,1,0
+"August 2, 1989 (33 years old)","6'7""",Jilin,China  ,8081,Peng Gao,Beijing,1,0,66,"4,861.0", ,0,0,2
+"March 10, 1994 (29 years old)","6'2""",Strandvik,Norway  ,13275,Hendrik Nikolai Mol,"Honolulu, HI",0,1,54,"7,979.0", ,1,2,2
+"September 23, 1990 (32 years old)","5'10""",Tehran,Iran  ,16552,Arash Vakili,Ag-galla,1,0,17,"1,355.0",0,2,2,1
+"March 21, 1997 (26 years old)","6'1""",Marijampole,Lithuania  ,14675,Matas Navickas,Marijampole,0,0,2,0.0,0,1,0,0
+"September 2, 1987 (35 years old)","6'1""",Friedrichshafen,Germany  ,8417,Julia Sude,Stuttgart,5,7,160,"24,056.0", ,3,9,7
+"May 24, 1985 (38 years old)","6'4""",Rio de Janeiro,Brazil  ,9594,Oscar Brandão Guimarães,Rio de Janeiro,2,0,34,"3,120.0", ,1,0,0
+"September 16, 1998 (24 years old)","6'0""",Amstetten,Austria  ,19106,Eva Pfeffer,Vienna,0,0,9,450.0,1,0,0,0
+"July 15, 1991 (31 years old)","5'11""",Olpe,Germany  ,10827,Isabel Schneider,Wenden,2,5,88,"14,515.0", ,0,1,2
+"February 1, 1989 (34 years old)","6'3""",Tehran,Iran  ,15996,Abolhamed Mirzaali,Agh Ghala,1,0,16,"1,240.0",0,1,3,3
+"March 11, 1990 (33 years old)","6'2""",Paris,France  ,6955,Alexandra Jupiter,Toulouse,1,0,53,"4,228.0", ,0,0,0
+"March 8, 1995 (28 years old)","6'1""","Westland, MI",United States  ,15598,Katie Horton,"Westland, MI",0,2,7,"1,400.0", ,0,1,1
+"May 15, 1992 (31 years old)","5'11""",Kanagawa,Japan  ,17139,Azusa Futami,Kanagawa,0,1,37,"3,830.0",0,8,1,1
+"July 20, 2000 (22 years old)","6'0""",Brisbane,Australia  ,17335,Mark William Nicolaidis,Brisbane,1,0,20,"3,460.0",0,7,0,0
+"May 29, 1991 (32 years old)","6'0""","Laguna Niguel, CA",United States  ,16657,Chase Frishman,"Redondo Beach, CA",1,0,2,150.0, ,0,0,0
+"July 3, 1995 (27 years old)","6'0""",Steinhausen,Switzerland  ,13150,Nicole Eiholzer,Zug,1,1,38,"2,450.0", ,0,0,1
+"July 6, 2000 (22 years old)","6'3""",Sliedrecht,Netherlands  ,17881,Yorick de Groot,Sliedrecht,1,2,26,"3,970.0", ,2,2,1
+"November 13, 1996 (26 years old)","5'11""",Nakhon Sawan,Thailand  ,17548,Narongdet Kangkon,Bangkok,1,0,12,635.0,2,0,0,0
+"September 12, 1990 (32 years old)","5'9""",Rio de Janeiro,Brazil  ,18275,Diana Bellas Romariz Silva,Rio de Janeiro,1,0,2,190.0,0,0,1,0
+"April 18, 1990 (33 years old)","6'0""",Münster,Germany  ,9372,Teresa Mersmann,Münster,2,1,39,"3,679.0", ,0,1,0
+"October 10, 1992 (30 years old)","5'9""","Toronto, ON",Canada  ,10798,Melissa Humana-Paredes,"Hermosa Beach, CA",8,7,84,"18,724.0", ,0,8,5
+"April 12, 1994 (29 years old)","5'10""",Ceske Budejovice,Czech Republic  ,12388,Michaela Kubícková,Ceske Budejovice,0,0,20,"2,350.0",0,3,1,0
+"July 18, 2000 (22 years old)","6'4""",Chelm,Poland  ,18455,Mikolaj Miszczuk,SpaÅ‚a,0,0,30,"1,805.0", ,4,0,2
+"April 29, 2001 (22 years old)","6'4""",Augst BL,Switzerland  ,18720,Leo Dillier,Aarau,0,1,23,"2,845.0", ,1,0,0
+"July 7, 1994 (28 years old)","6'6""",Amrisuil,Switzerland  ,14651,Marco Krattiger,Amrisuil,2,1,66,"8,701.0", ,0,0,1
+"May 9, 1992 (31 years old)","5'11""",Etten-Leur,Netherlands  ,10777,Erik Nijland,,0,0,3,0.0,0,0,0,0
+"January 18, 1988 (35 years old)","6'3""",Almaty,Kazakhstan  ,9192,Dmitriy Yakovlev,Almaty,0,1,58,"1,911.0", ,1,0,1
+"May 22, 1992 (31 years old)","5'7""",Carabobo,Venezuela  ,11696,Norisbeth Isais Agudo Gonzalez,Guacara,0,0,36,"2,100.0", ,0,2,0
+"July 28, 1975 (47 years old)","5'8""",Saitama,Japan  ,5413,Shinako Tanaka,Kanagawa,1,1,119,"3,287.0", ,4,0,1
+"June 18, 1998 (25 years old)","5'11""","Arroyo Grande, CA",United States  ,18607,Emily Sonny,"San Luis Obispo, CA",1,0,1,100.0,0,0,0,0
+"February 7, 1990 (33 years old)","6'3""",Ishikawa,Japan  ,17110,Masato Kurasaka,Tokyo,1,0,21,"1,165.0",2,1,0,0
+"June 24, 1987 (35 years old)","6'0""",Coucy,France  ,16163,Florian Gosselin,Lille,0,0,1,15.0,0,0,0,0
+"January 4, 1985 (38 years old)","6'8""","Andover, MN",United States  ,10939,Stafford Slick,"Hermosa Beach, CA",0,1,48,6,"$61,425.00","5,905.0",0,3
+"February 4, 1994 (29 years old)","6'11""",Berlin,Germany  ,17592,Nils Ehlers,Hamburg,0,0,43,"8,820.0", ,0,2,3
+"June 9, 1989 (34 years old)","5'9""",Lugo,Spain  ,9523,Nuria Bouza,Lugo,0,0,3, ,0,3,0,0
+"September 14, 1985 (37 years old)","5'5""",Fukui,Japan  ,13080,Megumi Murakami,Shibuya-ku,1,1,63,"7,304.0", ,1,0,1
+"January 25, 1976 (47 years old)","6'1""","High Point, NC",United States  ,182,Adam Roberts,"Myrtle Beach, SC",0,1,46,"$7,088.90","1,918.0", ,0,1
+"September 13, 1996 (26 years old)","6'1""","St. Amant, LA",United States  ,19441,Toni Rodriguez,"Torrance, CA",0,0,7,"1,310.0",0,2,1,1
+"September 25, 1996 (26 years old)","6'0""",Mendoza,Argentina  ,14507,Leo Aveiro,Tyan,0,0,6,386.0,0,1,0,1
+"December 1, 1995 (27 years old)","5'7""",Kyoto,Japan  ,14437,Satono Ishitsubo,Kanagawa,1,0,4,290.0,0,0,0,1
+"May 5, 1990 (33 years old)","6'2""","Austin, TX",United States  ,14159,Amanda Dowdy Lawson,"Redondo Beach, CA",1,0,32,"2,625.0", ,0,1,1
+"October 15, 1990 (32 years old)","5'8""",Tokyo,Japan  ,10991,Sakurako Fujii,"Shibuya-ku, Tokyo",0,2,51,"3,259.0", ,3,1,1
+"November 26, 1993 (29 years old)","5'8""",Carabobo,Venezuela  ,14540,Gabriela Brito,Carabobo,0,0,15,710.0,0,4,0,0
+"March 5, 2002 (21 years old)",,,Czech Republic  ,18823,Jakub Sepka,Praha,0,1,14,"2,150.0",1,0,0,0
+"September 7, 1986 (36 years old)","6'5""","Redlands, CA",United States  ,10329,James Avery Drost,"Redondo Beach, CA",1,0,13,"$8,950.00",775.0, ,0,0
+"April 3, 1996 (27 years old)","6'0""",La Teste de Buch,France  ,15656,Alexia Richard,Toulon,0,1,45,"$36,427.25","6,001.0", ,0,0
+"July 27, 1994 (28 years old)","6'4""",Vilnius,Lithuania  ,12438,Robert Juchnevic,Vilnius,0,0,9,635.0,0,0,0,0
+"October 19, 1988 (34 years old)","6'0""",Klagenfurt,Austria  ,9809,Simon Frühbauer,Klagenfurt,1,0,28,"1,450.0", ,0,1,0
+"August 13, 1992 (30 years old)","5'10""","Phoenix, AZ",United States  ,12974,Betsi Metter Flint,"Los Angeles, CA",5,2,43,"8,044.0", ,2,3,1
+"October 20, 1992 (30 years old)","6'4""",St. Petersburg,Russia  ,10787,Ruslan Bykanov,St. Petersburg,2,3,45,"3,833.0", ,0,1,1
+"February 27, 1995 (28 years old)","6'8""",Durklens,France  ,17129,Quincy Aye,Montpellier,3,0,57,"6,674.0", ,1,4,1
+"May 30, 2001 (22 years old)","6'2""",Tallinn,Estonia  ,18671,Timo Ander Lõhmus,Tallinn,0,0,2,150.0,0,0,0,0
+"June 7, 1996 (27 years old)","6'3""",Berlin,Germany  ,14809,Eric Stadie,Berlin,0,3,15,"$4,767.01","1,025.0", ,0,1
+"February 8, 1994 (29 years old)","6'2""",Umbazi,Latvia  ,12435,Alise Lece,Riga,0,0,20,"1,189.0", ,0,0,1
+"November 23, 1999 (23 years old)",,Tokyo,Japan  ,20603,Non Matsumoto,,0,0,7,910.0,0,0,1,0
+"December 14, 1993 (29 years old)","5'8""",Hamiton,New Zealand  ,15017,Shaunna Marie Polley,Hamilton,2,3,26,"2,775.0", ,0,0,1
+"June 23, 2000 (22 years old)","6'3""",La Florida,Chile  ,18426,Vicente Orlando Droguett Torrealba,Santiago,0,0,16,"2,400.0",1,2,1,0
+"October 30, 1995 (27 years old)","6'0""",Fortaleza,Brazil  ,18268,Hegeile Almeida dos Santos,Fortaleza,0,2,16,"4,105.0",1,5,1,0
+"March 6, 1988 (35 years old)","6'2""",Almaty,Kazakhstan  ,6063,Tatyana Mashkova,Almaty,0,0,86,"5,119.0", ,0,1,0
+"July 1, 1993 (29 years old)","6'2""",Athens,Greece  ,14314,Panagiota Karagkouni,Athens,2,0,49,"5,255.0", ,0,0,1
+"December 18, 2001 (21 years old)","6'2""","Pacific Palisades, CA",United States  ,17561,Miles Partain,"Pacific Palisades, CA",1,1,8,"2,110.0", ,0,0,1
+"February 20, 1999 (24 years old)","6'3""",Phetchabun ,Thailand  ,18155,Worapeerachayakorn Kongphopsarutawadee,Bangkok,0,1,30,"3,765.0",2,4,0,1
+"October 1, 1977 (45 years old)","6'4""","Richmond, VA",United States  ,1171,Reid Priddy,"Huntington Beach, CA",0,0,16,"1,940.0", ,0,1,0
+"October 23, 1990 (32 years old)","6'2""",Prague,Czech Republic  ,11785,David Lenc,Prague,0,0,33,"1,220.0", ,2,0,1
+"June 11, 1988 (35 years old)","5'9""",Port Vila,Vanuatu  ,8951,Miller Pata,Port Vila,3,2,71,"5,395.0", ,0,1,0
+"July 27, 1997 (25 years old)","6'1""",Gouda,Netherlands  ,13779,Joy Stubbe,'s Gravenhage,1,2,40,"6,040.0", ,0,0,0
+"January 15, 1998 (25 years old)","5'7""",Tel Aviv,Israel  ,17426,Noy Chorin,Ramut Hashavi ,0,2,14,940.0,0,2,0,0
+"August 30, 1996 (26 years old)","6'2""",Maribor,Slovenia  ,16442,Alan Košenina,,0,0,2,90.0,0,0,1,0
+"June 29, 1982 (40 years old)","6'4""",Castellon de la Plana,Spain  ,2077,Pablo Herrera Allepuz,Castellon de la Plana,7,8,203,"34,518.0", ,5,10,12
+"July 16, 1990 (32 years old)","5'9""",Tokyo,Japan  ,10212,Sayaka Mizoe,Tokyo,2,0,125,"11,425.0", ,1,4,1
+"July 7, 1995 (27 years old)","6'1""",Taipei,Chinese Taipei  ,18177,Ya-Jen Hsieh,New Taipei City,0,0,9,590.0,1,1,1,1
+"May 15, 1989 (34 years old)","5'6""",Sodertalje,Sweden  ,10993,Tadva Yoken,Sodertalje,0,2,27,"1,419.0", ,2,0,0
+"August 19, 1994 (28 years old)","6'7""",Vila Velha ,Brazil  ,15355,Andre Loyola Stein,Paraiba ,7,1,71,"16,234.0", ,1,6,4
+"March 9, 1998 (25 years old)","6'0""","Riga, Latvia",Latvia  ,14462,Tina Graudina,"Los Angeles, CA",0,5,47,"9,686.0", ,3,2,2
+"September 15, 1995 (27 years old)","5'10""",Montpellier,France  ,14341,Ophélie Lusson,Toulouse,0,1,26,"1,233.0", ,0,0,1
+"April 6, 1995 (28 years old)","5'7""",Koper,Slovenia  ,13360,Tjasa Jancar,Koper,1,1,16,940.0, ,2,0,0
+"September 12, 1991 (31 years old)","5'11""",Brasilia,Brazil  ,16084,Leonardo Gomes Vieira,Rio de Janeiro,0,1,4,210.0,0,0,0,0
+"January 16, 1999 (24 years old)","6'6""",Kaunas,Lithuania  ,17181,Patrikas Stankevicius,Kaunas,3,2,17,"2,310.0", ,1,2,0
+"September 11, 1993 (29 years old)","6'5""",Nice,France  ,17320,Olivier Barthelemy,Montpellier,0,0,22,"$5,590","1,420.0",0,0,1
+"August 28, 1993 (29 years old)","6'0""",Mie,Japan  ,17318,Suzuka Hashimoto,"Shibuya-ku, Tokyo",2,1,51,"5,059.0", ,1,1,2
+"December 21, 1992 (30 years old)","6'9""",Zaporizhia,Ukraine  ,11533,Vladyslav Iemelianchyk,Zaporizhia,2,0,38,"2,491.0", ,3,1,2
+"June 29, 1985 (37 years old)","6'2""",Sao Joaquim da Barra,Brazil  ,14583,Fernanda Alves,Rio de Janeiro,4,3,59,"12,485.0", ,2,3,1
+"June 23, 1999 (23 years old)","5'9""",Parma,Italy  ,16294,Chiara They,Parma,0,0,3,$0,136.0,0,0,0
+"December 30, 2000 (22 years old)","6'5""",Munich,Germany  ,19549,Benedikt Sagstetter,,0,0,2,180.0,0,0,0,0
+"December 18, 1991 (31 years old)","6'7""",Gothenburg,Sweden  ,17376,Alexander Herrmann,Gothenburg,0,0,11,480.0,0,2,0,0
+"May 25, 1994 (29 years old)","6'0""",Montpellier,France  ,13338,Romain Di Giantommaso,Montpellier,1,0,34,"$13,281.42","2,330.0", ,0,2
+"June 17, 1992 (31 years old)","5'11""",Warsaw,Poland  ,17223,Aleksandra Wachowicz,"Queens County, NY",0,0,34,"4,124.0", ,0,0,1
+"February 6, 1976 (47 years old)","6'7""","Bountiful, UT",United States  ,190,Jake Gibb,"Huntington Beach, CA",7,8,149,0,"$825,687.50","28,672.0",8,8
+"June 6, 1988 (35 years old)","6'0""","Colorado Springs, CO",United States  ,10583,Emily Stockman,"Hermosa Beach, CA",3,4,71,"$125,740.20","13,055.0", ,1,1
+"January 7, 1988 (35 years old)","5'11""",Breda,Netherlands  ,6760,Marleen Ramond-van Iersel,GOIRLE,4,12,156,"22,601.0", ,0,6,10
+"October 2, 2002 (20 years old)",,,Israel  ,19879,Yahli Ashush,,0,1,4,430.0,1,0,0,0
+"November 30, 1985 (37 years old)","5'9""",Tokyo,Japan  ,16035,Akiko Hasegawa,"Shibuya-ku, Tokyo",0,1,56,"6,805.0", ,1,1,1
+"December 26, 1999 (23 years old)","6'4""",Salzburg,Austria  ,16874,Paul Pascariuc,Salzburg,0,0,6,450.0,0,2,0,0
+"March 27, 2003 (20 years old)","5'10""",London,Australia  ,19370,Alisha Stevens,Gold Coast,0,1,8,930.0,1,2,0,0
+"September 18, 2000 (22 years old)","6'7""","Swinoujscie
+",Poland  ,17919,Milosz Kruk,"Swinoujscie
+",0,0,31,"1,745.0", ,5,1,1
+"March 22, 1987 (36 years old)","6'2""",Artyin,Türkiye  ,11531,Volkan Gögtepe,Ä°stanbul,0,1,64,"5,916.0", ,0,2,1
+"February 14, 1995 (28 years old)","5'10""","Costa Mesa, CA",United States  ,13154,Sara Hughes,"Costa Mesa, CA",8,4,65,"13,178.0", ,1,0,5
+"March 20, 1991 (32 years old)","5'10""",Køge,Denmark  ,16979,Simone Marie Okholm Hansen,Copenhangen,0,0,12,585.0,0,0,0,0
+"December 20, 1992 (30 years old)","6'1""","San Diego, CA",United States  ,9309,Summer Ross,"Fort Worth, TX",3,4,85,"$252,600.00","12,695.0", ,2,4
+"February 8, 1990 (33 years old)","6'0""",Liberec,Czech Republic  ,9360,Michala Kvapilová Frank,Prague,0,1,59,"6,576.0", ,0,1,0
+"January 29, 2002 (21 years old)","5'9""",Madrid,Spain  ,16286,Tania Moreno Matveeva,Madrid,0,0,19,"2,130.0", ,0,0,2
+"July 12, 2000 (22 years old)","6'1""",Chieti,Italy  ,17903,Alberto Di Silvestre,Pescara,0,0,3,150.0,0,0,1,0
+"May 15, 1996 (27 years old)","6'4""",Tampere,Finland  ,15009,Santeri Siren,FINLAND,2,2,29,"3,180.0", ,0,0,3
+"May 27, 2002 (21 years old)","6'2""",Odense,Denmark  ,17202,Sofia Nørager Bisgaard,DENMARK,0,1,21,"1,530.0", ,0,2,0
+"April 5, 2000 (23 years old)","5'10""",Vasto,Italy  ,17144,Claudia Scampoli,ITALY,4,1,32,"3,650.0", ,0,1,2
+"November 18, 1993 (29 years old)","5'7""",Tokyo,Japan  ,13075,Chiyo Suzuki,"Shibuya-ku, Tokyo",3,2,35,"3,640.0", ,0,1,5
+"October 15, 1981 (41 years old)","6'2""","Fallbrook, CA",United States  ,6042,Billy Allen,"Rathdrum, ID",0,0,30,"$46,300.00","4,090.0", ,0,2
+"January 4, 1991 (32 years old)","6'6""",Osnabrück,Germany  ,10764,Philipp Arne Bergmann,Stuttgart,1,1,37,"3,984.0", ,0,1,0
+"September 19, 1988 (34 years old)","6'5""",Barrie,Canada  ,11251,Cameron Wheelan,Toronto,0,0,25,0,"$8,200.00","1,389.0",0,1
+"February 8, 1997 (26 years old)","5'10""","Buzuluk citi, Orenburgskiy reg.",Russia  ,14717,Daria Mastikova,Moscow,1,0,12,975.0,0,0,1,1
+"July 3, 1990 (32 years old)",,,Italy  ,20869,Giulia Rubini,,0,2,3,260.0,0,1,0,0
+"April 2, 1998 (25 years old)","6'2""",DeZhou,China  ,15010,Xinxin Wang,Beijing,1,1,66,"7,550.0", ,2,2,0
+"July 23, 1996 (26 years old)","6'2""",Rio de Janeiro,Brazil  ,14457,Matheus Maia Terra de Faria,Rio de Janeiro,0,0,4,216.0,0,1,0,0
+"January 29, 1996 (27 years old)","6'0""",Pio Pio,New Zealand  ,14465,Olivia MacDonald,Auckland,0,1,11,515.0,1,0,0,0
+"August 20, 1987 (35 years old)","6'5""",Rio de Janeiro,Brazil  ,10105,Rodrigo Vieira Bernat,Fundos Maracana,0,0,5,210.0,0,1,1,0
+"February 27, 1995 (28 years old)","5'10""",Carrara,Italy  ,13904,Agata Zuccarelli,Rome,0,1,35,"$12,593.01","2,625.0", ,2,0
+"September 4, 1996 (26 years old)",,,Philippines  ,18252,Cherry Ann Rondina,,1,0,3,320.0,0,0,0,0
+"October 30, 1986 (36 years old)","6'2""",Hamburg,Germany  ,17317,Margareta Kozuch,"Milan, Italy",1,0,35,"6,850.0",0,10,0,1
+"March 21, 1982 (41 years old)","5'8""",Taipei County,Chinese Taipei  ,11249,Nai-Han Kou,Taipei ,3,1,24,"1,897.0",1,0,1,1
+"August 22, 1992 (30 years old)","6'4""",Jerusalem,Israel  ,11958,Netanel Amiram Ohana,Jerusalem,0,1,38,"3,135.0", ,1,2,2
+"March 20, 1998 (25 years old)","5'10""",Pogwizdow,Poland  ,15439,Martyna Kloda,Cieszyn,0,2,28,"$7,806.84","1,742.0", ,1,0
+"April 3, 1990 (33 years old)","6'1""",Frankenberg,Germany  ,9419,Paul Becker,Frankenberg,0,1,7,433.0,0,2,0,0
+"August 31, 1992 (30 years old)","6'5""",Kortrijk,Belgium  ,13389,Louis Vandecaveye,Kortrijk,0,0,12,935.0,1,1,2,0
+"April 29, 1990 (33 years old)","6'2""",Arboga,Sweden  ,15707,Martin Appelgren,Gothenburg,0,2,49,"2,269.0", ,5,0,0
+"December 27, 1994 (28 years old)","5'8""",Riga,Latvia  ,13356,Marta Ozolina,Riga,0,1,31,"1,732.0", ,3,1,0
+"January 29, 2002 (21 years old)","6'2""",Chalon,France  ,20347,Tom Altwies,Toulouse,1,0,9,675.0,2,1,1,0
+"March 4, 1987 (36 years old)","6'9""",Khakrov,Russia  ,7738,Alexander Likholetov,Belgrad,1,1,45,"1,784.0", ,0,0,0
+"November 7, 1989 (33 years old)","5'8""",Kanagawa,Japan  ,16036,Miki Ishii Koshikawa,Tokyo ,1,1,65,"10,140.0", ,0,1,1
+"January 18, 1998 (25 years old)","6'3""","Adeje, Tenerife",Spain  ,15403,Óscar Jiménez Gutiérrez,,0,0,5,"$1,000",480.0,0,1,0
+"May 27, 1984 (39 years old)","5'9""",Fortaleza - CE,Brazil  ,6751,Taiana de Souza Lima,Rio de Janeiro,9,8,128,"23,041.0", ,3,10,4
+"November 6, 1991 (31 years old)","6'2""",Tallinn,Estonia  ,16548,Kusti Nõlvak,Tallinn,1,2,54,"7,429.0", ,1,2,1
+"August 11, 2000 (22 years old)","6'5""",Gazit,Israel  ,18496,Eylon Elazar,Gazit,0,0,25,"2,565.0", ,1,2,2
+"April 20, 1980 (43 years old)","6'6""","Manhattan Beach, CA",United States  ,5327,Casey Patterson,"Huntington Beach, CA",2,4,85,24,"$362,712.50","13,744.0",2,3
+"June 16, 1990 (33 years old)","6'5""",Kirchdorf,Austria  ,9338,Peter Eglseer,Kremsmünster,0,2,40,"2,126.0", ,0,2,1
+"May 20, 1994 (29 years old)","5'8""",,Argentina  ,15957,Cecilia Peralta,,0,1,7,890.0,1,0,0,2
+"May 29, 1998 (25 years old)","6'3""","Napa, CA",United States  ,16631,Torrey Van Winden,"Napa, CA",0,1,2,103.0,0,0,0,0
+"June 27, 1993 (29 years old)","6'5""",Cesena,Italy  ,14706,Enrico Rossi,ITALY,2,5,58,"10,685.0", ,1,1,0
+"April 6, 1985 (38 years old)","6'5""",Riga,Latvia  ,6770,Aleksandrs Samoilovs,Jurmala,15,6,200,"31,133.0", ,11,6,8
+"October 5, 1998 (24 years old)","6'0""",Aydin,Türkiye  ,16456,Aleyna Vence,Antalya,0,0,6,330.0,1,0,1,0
+"December 21, 1993 (29 years old)","6'4""","Laguna Beach, CA",United States  ,17820,Troy Field,"Laguna Beach, CA",1,0,16,"2,331.0", ,1,3,0
+"April 8, 1995 (28 years old)","6'6""",Thionville,France  ,18144,Jérémy Silvestre,Bertrange,0,0,11,951.0,0,1,0,0
+"September 9, 1995 (27 years old)","5'11""","Saratoga, CA",United States  ,15673,Allie Wheeler,"Saratoga, CA",2,0,11,"1,150.0", ,0,0,1
+"June 19, 1996 (27 years old)","6'3""","s. Poltavka, Omskiy reg.",Russia  ,14261,Maxim Sivolap,Obninsk,2,1,34,"3,108.0", ,0,3,1
+"October 28, 1992 (30 years old)","6'6""",,Brazil  ,16495,Vinícius Gomes Cardoso de Araújo,Rio de Janeiro,0,1,3,220.0,0,1,0,0
+"September 7, 1998 (24 years old)","6'0""",Herentals,Belgium  ,18400,Lisa Van Den Vonder,Antwerp,0,0,2,40.0,0,0,0,0
+"November 1, 1991 (31 years old)","5'11""",Havgesund,Norway  ,15024,Ingrid Lunde,Oslo,0,1,45,"3,377.0", ,0,0,0
+"September 16, 1999 (23 years old)","5'10""","Ivinhema, Mato Grosso",Brazil  ,15283,Victoria Lopes Pereira Tosta,"São Cristovão, Sergipe",2,2,35,"5,805.0",2,3,1,2
+"November 7, 1990 (32 years old)","5'11""",Ostrava,Czech Republic  ,9361,Barbora Hermannová,Prague,6,2,124,"17,723.0", ,2,4,1
+"November 14, 2000 (22 years old)","6'0""",Wiesbaden,Germany  ,17810,Chenoa Christ,,0,0,5,480.0,0,0,0,0
+"May 8, 1995 (28 years old)","6'6""",Geneva,Switzerland  ,13743,Quentin Métral,Troinex,2,0,64,"6,895.0", ,0,2,2
+"July 8, 1995 (27 years old)","6'8""",Zurich,Switzerland  ,14587,Michiel Zandbergen,Zurich,0,0,36,"2,322.0", ,0,0,1
+"October 7, 1972 (50 years old)","6'5""","San Diego, CA",United States  ,1981,John Hyden,"Sherman Oaks, CA",1,1,72,"$264,832.50","10,723.0", ,2,4
+"June 2, 1990 (33 years old)","5'10""",Lublin,Poland  ,8220,Kinga Kolosinska Wojtasik,Lublin,1,1,109,"12,944.0", ,1,2,1
+"July 17, 1990 (32 years old)","6'11""",Rio de Janeiro,Brazil  ,11854,Evandro Gonçalves Oliveira Júnior,Rio de Janeiro,8,6,111,"23,305.0", ,1,11,3
+"October 4, 1989 (33 years old)","6'0""",Unterach,Austria  ,13012,Florian Schnetzer,Unterach,0,3,65,"3,573.0", ,2,3,1
+"March 18, 1985 (38 years old)","6'0""",Rio de Janeiro,Brazil  ,9972,Rachel Nunes,Rio de Janeiro,0,1,6,520.0,0,0,0,0
+"August 7, 1987 (35 years old)","6'6""",Ekeren,Belgium  ,11601,Tom van Walle,TEMSE,1,1,65,"6,996.0", ,1,0,1
+"October 6, 1986 (36 years old)","6'1""",Brasilia,Brazil  ,8539,Bruno Oscar Schmidt,"Vila Velha, ES",17,11,149,"29,325.0", ,1,10,7
+"March 4, 1996 (27 years old)",,,New Zealand  ,21138,Thomas Reid,,0,0,6,740.0,0,0,0,1
+"August 16, 1995 (27 years old)","5'10""","Valencia, CA",United States  ,14113,Delaney Knudsen Mewhirter,"Hermosa Beach, CA",1,0,8,450.0, ,0,0,0
+"January 8, 1985 (38 years old)","6'6""",Victoria,Brazil  ,11120,Luciano Ferreira de Paula,Vila Velha,2,1,19,"1,298.0", ,0,0,0
+"October 4, 1990 (32 years old)",,Santiago,Chile  ,20198,Chris Vorpahl Villablanca,,0,0,9,"1,310.0",1,0,0,0
+"November 3, 1999 (23 years old)","6'0""",Hasle,Switzerland  ,16241,Esmée Böbner,Hasle,1,2,42,"5,895.0", ,3,3,0
+"July 27, 2001 (21 years old)","5'10""",Malaga,Spain  ,18513,Sofía González Racero,Murcia,1,1,17,"$5,896.30","1,790.0", ,1,0
+"September 7, 1981 (41 years old)","5'5""",Fukui,Japan  ,15891,Erika Habaguchi,Kanagawa,0,0,9,605.0,0,0,0,0
+"September 10, 1997 (25 years old)","6'0""",Trento,Italy  ,17259,Francesca Michieletto,Castiglione delle Stiviere,1,0,2,160.0,0,0,0,0
+"November 18, 1995 (27 years old)","5'10""",Mödling,Austria  ,13351,Nadine Strauss,Vienna,0,1,39,"2,678.0", ,1,0,2
+"August 29, 1982 (40 years old)","5'11""",Aquidauana,Brazil  ,5146,Talita Da Rocha Antunes ,Rio de Janeiro,36,20,201,"46,266.0", ,4,20,19
+"June 4, 1990 (33 years old)","5'9""",Curitiba,Brazil  ,18274,Aline Lebioda,Rio de Janeiro,0,1,4,300.0,0,0,1,0
+"June 1, 1989 (34 years old)","5'10""",Auckland,New Zealand  ,9496,Julia Tilley,Tauranga ,0,1,20,"1,014.0",0,2,1,0
+"September 5, 2001 (21 years old)","6'6""",Brno,Czech Republic  ,17150,Matyas Dzavoronok,"Cantu, Italy",1,0,18,"1,600.0", ,1,0,0
+"July 23, 1999 (23 years old)","5'6""",Brno,Czech Republic  ,19252,Miroslava Dunarova,Brno,0,0,4,290.0,0,0,0,0
+"January 10, 1996 (27 years old)","6'4""",Wroclaw,Poland  ,19655,Pawel Lewandowski,Wroclaw,0,1,15,"1,350.0",0,3,0,0
+"May 22, 1991 (32 years old)","5'9""",Riga,Latvia  ,9378,Ilze Liepinlauska,Riga,0,0,10,715.0,0,0,0,1
+"August 3, 1987 (35 years old)","5'10""",Rio de Janeiro,Brazil  ,8022,Bárbara Seixas De Freitas,Rio de Janeiro,12,3,114,"25,544.0", ,2,13,9
+"April 22, 1997 (26 years old)","6'0""",Cagliari,Italy  ,20171,Valentina Cali,Cagliari,0,0,1,80.0,0,0,0,0
+"January 26, 1992 (31 years old)","6'0""","Honolulu, HI",United States  ,13454,Taylor Crabb,"Redondo Beach, CA",1,2,49,"10,285.0", ,0,0,2
+"February 1, 1994 (29 years old)","6'2""",Hamburg,Germany  ,13440,Max-Jonas Karpa,Hamburg,1,0,10,489.0,0,0,0,0
+"December 20, 1982 (40 years old)","6'1""",Vienna,Austria  ,5718,Alexander Horst,Vienna,4,6,163,"22,520.0", ,6,4,3
+"November 29, 1989 (33 years old)","6'0""",Rhenen,Netherlands  ,9485,Madelein Meppelink,The Hague,2,5,122,"18,735.0", ,0,6,7
+"September 15, 1989 (33 years old)","6'4""","Honolulu, HI",United States  ,13453,Trevor Crabb,"Redondo Beach, CA",3,3,57,"10,290.0", ,2,0,1
+"October 21, 1987 (35 years old)","6'3""",Nova Londrina,Brazil  ,16695,Felipe Cavazin Numasawa,Maringá,0,1,2,130.0,0,0,0,0
+"October 13, 1998 (24 years old)","5'11""","Croyde, England",England  ,15428,Anaya Evans,"Phoenix, AZ",0,0,13,720.0, ,2,0,1
+"February 2, 1984 (39 years old)","7'1""","Toms River, NJ",United States  ,11268,Ryan Doherty,"Hermosa Beach, CA",0,2,54,"$168,050.00","8,205.0", ,2,2
+"August 14, 1990 (32 years old)","6'1""",Budapest,Italy  ,11826,Viktoria Orsi Toth,Roma,2,4,80,"12,538.0", ,1,4,4
+"March 14, 1986 (37 years old)","6'2""",Nizwa,Oman  ,9620,Haitham Khalfan Abdulla Alshereiqi,Nizwa,0,0,15,673.0,1,0,1,0
+"March 2, 1994 (29 years old)","6'5""",Keuozug,Germany  ,13439,Max Betzien,Berlin,0,1,24,"1,504.0", ,0,0,0
+"December 3, 1995 (27 years old)","6'4""",Oslo,Norway  ,13274,Christian Sandlie Sørum,Fjerdingby,21,2,74,"18,919.0", ,3,6,4
+"September 4, 1990 (32 years old)","6'2""",Kortrijk,Belgium  ,19685,Maud Catry,Oostakker,0,2,2,140.0,0,0,0,0
+"July 9, 1992 (30 years old)",,,Brazil  ,16489,Álvaro Marcelino Santos Andrade,,0,0,2,110.0,0,0,0,1
+"July 20, 1988 (34 years old)","6'3""",Mauguio,France  ,13724,Edouard Rowlandson,Montpellier,2,2,49,"5,877.0", ,1,0,3
+"October 1, 1991 (31 years old)","5'10""",Saitama,Japan  ,15908,Takumi Takahashi,Tokyo,1,0,31,"2,445.0", ,0,0,0
+"January 10, 1992 (31 years old)","6'3""",Kiel,Germany  ,11635,Lorenz Schümann,Hamburg,0,1,29,"2,037.0", ,0,1,1
+"August 18, 2003 (19 years old)","5'11""",Zaporozhye,Ukraine  ,19531,Tetiana Lazarenko,Zaporozhye,4,0,19,"2,150.0", ,0,2,4
+"August 23, 1980 (42 years old)","6'1""",Agh Ghala,Iran  ,11805,Aghamohammad Salagh,Agh Ghala,0,0,10,574.0,0,1,0,1
+"August 1, 1995 (27 years old)","6'3""",Vladivostok,Russia  ,13720,Igor Velichko,Obninsk,3,0,29,"4,318.0", ,0,1,2
+"August 20, 1993 (29 years old)","6'1""",Rio de Janeiro,Brazil  ,11727,"Gustavo ""Guto"" Albrecht Carvalhaes",Rio de Janeiro,3,2,69,"12,922.0", ,1,3,5
+"May 11, 1997 (26 years old)","5'10""","Ponte Vedra Beach, FL",United States  ,16376,Corinne Quiggle,"Manhattan Beach, CA",1,0,24,"3,820.0", ,1,2,1
+"April 27, 1994 (29 years old)","5'11""",Havana,Cuba  ,13741,Leila Consuelo Martinez Ortega,Havana,1,0,16,"1,580.0", ,0,0,0
+"December 23, 1995 (27 years old)","6'6""",Loxton,Australia  ,14444,Zachery Schubert,Ascot Park,1,1,43,"6,036.0", ,0,3,2
+"February 1, 1988 (35 years old)","6'2""",Maribor,Slovenia  ,10129,Nejc Zemljak,Ljubljana,2,3,47,"3,728.0", ,1,2,0
+"August 25, 1987 (35 years old)","5'11""",Zaporizhia,Ukraine  ,8506,Valentyna Zmiyevska Davidova,Zaporizhia,1,2,39,"4,372.0", ,0,1,0
+"September 14, 1987 (35 years old)","6'3""",Aktau,Kazakhstan  ,8640,Alexey Kuleshov,Aktau,0,1,55,"1,833.0", ,1,0,0
+"February 5, 1986 (37 years old)","6'2""",Milan,Italy  ,16546,Andrea Abbiati,Cusano Milanino (MI),1,0,21,"2,230.0",0,2,0,1
+"June 30, 1994 (28 years old)","5'9""",Bangkok,Thailand  ,11932,Rumpaipruet Numwong,Bangkok,0,2,58,"3,797.0", ,1,0,2
+June 27th,"6'0""","Zaporozhye
+",Ukraine  ,19530,Anhelina Khmil,Zaporozhye,1,0,3,230.0,0,0,0,1
+"March 5, 1993 (30 years old)","6'3""",Kumamoto,Japan  ,18096,Jumpei Ikeda,Tokyo,0,0,17,"1,040.0",1,0,1,1
+"April 8, 1992 (31 years old)","6'0""","San Diego, CA",United States  ,16319,Kelly Reeves,"San Diego County, CA",0,0,15,"1,380.0", ,0,1,0
+"July 21, 1993 (29 years old)","5'9""",Kaunas,Lithuania  ,16762,Vytene Vitkauskaite,Kaunas,0,0,4,215.0,0,0,0,0
+"January 13, 1986 (37 years old)","5'10""",Berlin,Germany  ,6704,Laura Ludwig,Hamburg,13,6,162,"28,620.0", ,3,11,10
+"March 10, 1997 (26 years old)","6'1""",Xinjiang,China  ,19002,Jingzhe Wang,Chang Ji,5,0,7,"1,320.0",0,0,0,1
+"January 19, 1997 (26 years old)","5'10""",Daugavpils,Latvia  ,14774,Anastasija Kravcenoka Samoilova,Daugavpils,0,5,45,"9,590.0", ,3,2,1
+"April 8, 1992 (31 years old)","5'8""",Wels,Austria  ,16988,Stephanie Wiesmeyr,Graz,0,0,24,"1,450.0", ,2,1,0
+"June 23, 2004 (18 years old)","6'0""",Helsinki,Finland  ,19512,Sara Sinisalo,,0,1,18,"1,805.0", ,1,0,1
+"March 4, 1992 (31 years old)","6'5""",Saalfelden,Austria  ,13301,Julian Hörl,Wien,2,3,67,"7,033.0", ,0,1,1
+"May 30, 1987 (36 years old)","6'1""",Brugge,Belgium  ,11595,Els Vandesteene,Nieuwpoort,0,2,3,210.0,1,0,0,0
+"February 20, 1993 (30 years old)","6'7""",Mangistauskaya,Kazakhstan  ,10773,Sergey Bogatu,Aktau,0,1,20,777.0,0,4,0,1
+"April 23, 2004 (19 years old)","6'7""",Martigues,France  ,19775,Téo Rotar,Martigues,1,0,10,"1,545.0",0,1,0,1
+"October 15, 1993 (29 years old)","5'11""",The Hague,Netherlands  ,18617,Casper Haanappel,,0,0,1,80.0,0,0,0,1
+"January 17, 1997 (26 years old)","6'2""",Tenerife,Spain  ,14800,Javier Huerta Pastor,Lorca,1,2,26,"$9,473.00","2,745.0", ,0,2
+"March 13, 2001 (22 years old)",,,Austria  ,18859,Laurenc Grössig,,0,0,1,$0,70.0,0,0,0
+"January 10, 2004 (19 years old)",,	Wiener Neustadt,Austria  ,20388,Timo Hammarberg,Wiener Neustadt,0,0,2,$0,110.0,0,0,0
+"May 1, 1987 (36 years old)","5'8""","Muyinga, Burundi",Rwanda  ,12809,Judith Hakizimana,Kigali,0,1,2,150.0,0,0,0,0
+"August 27, 1992 (30 years old)","6'3""",Reichenburg,Switzerland  ,11625,Tanja Hüberli,Reichenburg,1,3,99,"17,805.0", ,2,3,6
+"December 5, 1998 (24 years old)","6'1""",Basel,Switzerland  ,14784,Florian Breer,Basel,2,2,46,"6,024.0", ,1,2,2
+"April 1, 1988 (35 years old)","5'10""",Babite,Latvia  ,16793,Agnese Caica,BabÄ«te,0,0,9,545.0,0,0,0,0
+"December 7, 1995 (27 years old)","5'11""",Riga,Latvia  ,20189,Luize Skrastina,Riga,0,0,4,390.0,1,0,0,0
+"November 4, 1992 (30 years old)","6'3""",Beil,Switzerland  ,11642,Gabriel Kissling,Kappelen,0,0,44,"2,483.0", ,0,1,1
+"August 3, 1994 (28 years old)","5'8""",Oslo,Norway  ,13279,Victoria Faye Kjølberg,Oslo,0,0,44,"3,162.0", ,0,1,1
+"June 9, 1990 (33 years old)","6'2""","Phelan, CA",United States  ,8129,Caitlin Ledoux,"Phelan, CA",1,1,28,"2,161.0", ,1,2,1
+"September 8, 1998 (24 years old)","5'10""","Rancho Santa Fe, CA",United States  ,17552,Savvy Simo,"Rancho Santa Fe, CA",1,0,12,"2,375.0", ,0,1,0
+"August 16, 1990 (32 years old)","5'11""",Rovigo,Italy  ,7849,Marta Menegatti,Ariano Polesine,3,10,148,"23,585.0", ,7,11,8
+"February 12, 1999 (24 years old)","5'10""",Budapest,Italy  ,15434,Reka Orsi Toth,Rome,0,1,16,"$3,346.67","1,496.0", ,0,2
+"December 6, 1992 (30 years old)","6'1""",Saint Petersburg,Russia  ,19111,Vladislav Ermilov,Saint Petersburg,0,0,2,130.0,0,1,1,0
+"November 19, 2000 (22 years old)","6'6""",Pietra Ligue,Netherlands  ,20203,Leon Luini,The Hague,0,0,17,"3,825.0",1,2,0,1
+"November 13, 2000 (22 years old)","6'4""",Leidschendam,Netherlands  ,18143,Matthew Immers,The Hague,1,2,25,"4,905.0", ,1,2,3
+"May 22, 2002 (21 years old)","6'9""",Hamburg,Germany  ,20455,Philipp Huster,,1,0,8,740.0,0,0,0,0
+"October 13, 1995 (27 years old)","6'3""",Tauranga,New Zealand  ,13751,Bradley Fuller,,1,0,6,750.0,1,0,1,0
+"September 11, 1997 (25 years old)","6'6""",Arnhem (Gelderland),Netherlands  ,14713,Ruben Penninga,Den Haag (Zuid-Holland),0,1,47,"6,070.0", ,3,1,2
+"November 13, 1996 (26 years old)","6'2""",Sperlonga,Italy  ,17576,Arianna Barboni,Sperlonga,0,0,10,670.0,0,0,0,0
+"December 23, 1993 (29 years old)","5'6""","Musanga, Nyange, North",Rwanda  ,12810,Charlotte Nzayisenga,Kigali ,0,1,5,332.0,0,0,0,0
+"September 8, 1993 (29 years old)","6'8""",Mato Grosso,Brazil  ,14052,Saymon Barbosa Santos,Rio de Janeiro,2,2,61,"10,294.0", ,1,1,5
+"June 4, 2001 (22 years old)","6'4""",Kedzierzyn-Kozle,Poland  ,18903,Mateusz Florczyk,Kedzierzyn-Kozle,2,1,19,"1,455.0", ,3,1,0
+"January 8, 1994 (29 years old)","5'6""",Gianyar ,Indonesia  ,17366,Putu Utami,Mataram,0,1,7,610.0,0,1,0,1
+"July 1, 1992 (30 years old)","5'10""","Lausanne, Switzerland",Canada  ,14956,Brandie Wilkerson,"Redondo Beach, CA",4,0,64,16,"$224,075.00","13,435.0",2,5
+"January 27, 1994 (29 years old)","6'2""",Hebei,China  ,11612,Fan Wang,Baoding,1,6,120,"16,652.0", ,0,8,0
+"July 4, 1998 (24 years old)","5'10""",Dornbirn,Austria  ,18523,Jakob Reiter,Klagenfurt,0,0,4,175.0,1,0,0,0
+"October 9, 1994 (28 years old)","6'6""",Lask,Poland  ,13340,Michal Bryl,Lask,7,4,80,"15,814.0", ,1,5,3
+"July 22, 1990 (32 years old)","6'0""",Prevalje,Slovenia  ,17617,Ana Skarlovnik Petric,Prevalje,0,0,1,80.0,0,0,0,1
+"August 30, 1991 (31 years old)","6'2""",Oslo,Norway  ,10779,Svein Oddmund Solhaug,Oslo,0,2,43,"2,290.0", ,0,0,0
+"November 16, 1992 (30 years old)","6'3""",Roma,Italy  ,16986,Carlo Bonifazi,Roma,1,0,11,"1,470.0",0,2,0,0
+"April 8, 1991 (32 years old)","5'11""",Calgary,Canada  ,14937,Camille Saxton,Rocky View County,0,0,1,€ 350,90.0,0,1,0
+"April 25, 1986 (37 years old)","6'3""",Kuldiga,Latvia  ,6875,Toms Smedins,Riga,0,1,73,"3,215.0", ,1,2,2
+"May 2, 1996 (27 years old)","5'11""",Dordrecht,Netherlands  ,14716,Julia Wouters,Dordrecht,0,2,22,"1,310.0", ,0,2,2
+"July 4, 1990 (32 years old)","5'5""",Oslo,Norway  ,10983,Janne Pedersen,Askim,0,0,26,"1,229.0", ,0,0,1
+"November 14, 1994 (28 years old)","6'6""",Ankara,Türkiye  ,15049,Hasan Huseyin Mermer,Ankara,0,1,47,"3,937.0", ,1,0,1
+"June 20, 1999 (24 years old)","5'8""",Vilnius,Lithuania  ,17582,Gerda Grudzinskaite,Vilnius,0,0,26,"1,965.0", ,2,0,1
+"February 24, 1999 (24 years old)","6'4""",Odense,Denmark  ,16819,Jacob Stein Brinck,Odense,0,1,22,"2,290.0", ,0,0,2
+"October 19, 1988 (34 years old)","6'5""",Shanghai,China  ,10185,Yang Li,Beijing,1,0,33,"3,573.0",0,7,0,1
+"April 18, 1993 (30 years old)","6'0""","Winnipeg, MB",Canada  ,14046,Taylor Pischke,"Winnipeg, MB",0,1,50,"5,974.0", ,0,0,2
+"May 4, 1991 (32 years old)","6'4""",Sumy,Russia  ,9443,Valeriy Samoday,Krasnodar ,5,0,34,"2,878.0", ,0,1,2
+"July 23, 2000 (22 years old)","6'7""",London,England  ,18673,Frederick Bialokoz,London,0,0,13,"1,285.0",1,1,0,0
+"March 16, 1998 (25 years old)","6'2""",Utrecht,Netherlands  ,17260,Pleun Ypma,Den Haag,1,1,24,"$9,708.72","2,550.0", ,0,0
+"October 18, 1996 (26 years old)","6'0""",Asunción,Paraguay  ,15076,Erika Sofia Mongelos Bobadilla,ASU,0,1,20,"1,495.0",0,1,0,1
+"January 12, 1993 (30 years old)","5'9""","Hermosa Beach, CA",United States  ,8579,Lara Dykstra,"Redondo Beach, CA",3,0,13,908.0, ,0,1,0
+"August 28, 1997 (25 years old)","5'11""",Satu-Mare,Romania  ,16451,Beata Vaida,Satu-Mare,1,1,25,"1,249.0", ,0,1,0
+"July 13, 1991 (31 years old)","5'9""",Sneden,Germany  ,11838,Cinja Tillmann,Senden GER,3,1,45,"7,732.0", ,1,1,3
+"December 12, 2000 (22 years old)","5'10""",Karendal,Norway  ,16300,Emilie Olimstad,Amli,0,0,26,"3,300.0", ,0,0,2
+"April 5, 1989 (34 years old)","6'2""",Shiga,Japan  ,10957,Hitoshi Murakami,"Shibuya-ku, Tokyo",0,4,32,"1,500.0", ,5,0,1
+"June 9, 2000 (23 years old)","6'4""",Wien,Austria  ,17148,Laurenz Leitner,Salzburg,0,1,18,"1,470.0", ,2,0,2
+"November 1, 2000 (22 years old)","5'9""",Grenoble,France  ,17884,Clémence Vieira,Toulouse,0,1,21,"1,725.0", ,0,1,0
+"July 12, 2000 (22 years old)","6'0""",Espirito Santo,Brazil  ,18464,Thamela Coradelli Galil,BRAZIL,1,0,18,"4,020.0",1,1,0,1
+"December 15, 1989 (33 years old)","6'7""",Ravne na Koroškem,Slovenia  ,11750,Jan Pokeršnik,Ljubljana,1,3,43,"3,575.0", ,1,2,0
+"July 20, 2000 (22 years old)","6'1""","Madrid, Spain",England  ,16820,Joaquin Bello,London,1,0,38,"$9,471.00","2,760.0", ,0,3
+"July 28, 2000 (22 years old)","6'6""",Vilnius,Lithuania  ,19561,Aine Raupelyte,,0,1,6,"1,220.0",0,1,0,0
+"April 9, 1996 (27 years old)","5'9""",Surrey,England  ,16354,Issa Batrane,East Sussex,0,0,29,"2,452.0", ,2,0,2
+"October 20, 1984 (38 years old)","6'0""",Vitória ,Brazil  ,9593,Elize Maia Secomandi,Vitoria-ES,3,1,50,"7,500.0", ,0,1,3
+"August 16, 1986 (36 years old)","6'5""","Kitchener, ON",Canada  ,14304,Sarah Pavan,"Hermosa Beach, CA",7,8,87,"20,795.0", ,0,10,5
+"April 9, 1987 (36 years old)","6'6""",Santiago Ixcuintla,Mexico  ,8011,Juan Virgen,Mazatlan,0,1,131,20,"$191,750.00","13,651.0",2,4
+"October 29, 1976 (46 years old)","6'3""",Saitama,Japan  ,2119,Katsuhiro Shiratori,Tokyo,0,1,140,"5,460.0", ,5,0,1
+"August 20, 1996 (26 years old)","6'7""",Beijing,China  ,15470,Chaowei Zhou,Beijing,0,0,28,"1,652.0",0,2,0,0
+"September 9, 1988 (34 years old)","6'6""",Lodz,Poland  ,9144,Piotr Janiak,Ozorkow,2,0,9,586.0,0,0,0,1
+"March 16, 1988 (35 years old)","6'0""","Montevideo, Uruguay",Italy  ,8338,Adrian Ignacio Carambula Raurich,Rome,2,8,70,"13,315.0", ,2,2,3
+"March 15, 1999 (24 years old)","6'3""",Madrid,Spain  ,16287,María Belén Carro Márquez de Acuña,Murcia,1,1,41,"5,825.0", ,0,2,1
+"March 12, 1988 (35 years old)","6'4""",Berlin,Germany  ,8227,Jonathan Erdmann,Berlin,1,6,116,"14,209.0", ,3,1,4
+"May 21, 1996 (27 years old)","6'8""",Tashkent,Russia  ,14266,Ivan Golovin,Obrinsk,0,0,2,90.0,0,0,0,0
+"June 9, 2004 (19 years old)",,,Czech Republic  ,20572,Krystof Jan Oliva,,0,0,7,760.0,1,0,0,0
+"August 17, 1983 (39 years old)","5'8""",Yamanashi,Japan  ,14562,Samaa Miyagawa,Chigasaki,0,1,10,585.0,1,0,0,0
+"September 5, 1987 (35 years old)","6'5""",Okazabi,Japan  ,15909,Keisuke Shimizu,"Shibuya-ku, Tokyo",0,1,28,"1,345.0", ,5,0,0
+"July 7, 1993 (29 years old)","5'7""",Bima,Indonesia  ,17365,Dhita Juliana,Mataram,0,2,8,750.0,0,1,0,1
+"June 5, 1994 (29 years old)","5'8""",Bangkok,Thailand  ,13873,Taravadee Naraphornrapat,Bangkok,0,2,65,"6,503.0", ,1,0,2
+"October 27, 2000 (22 years old)",,,Germany  ,21275,Melanie Paul,,1,0,5,560.0,0,0,1,0
+"April 30, 1984 (39 years old)","5'8""",Söderala,Sweden  ,7298,Camilla Nilsson,Stockholm,0,1,46,"1,139.0", ,3,0,1
+"April 23, 1986 (37 years old)","6'5""","Red Deer, Alberta",Canada  ,11005,Chaim Schalk,"Gardena, CA",1,2,90,"$302,087.50","13,055.0", ,1,4
+"September 6, 1998 (24 years old)","6'0""","Ft. Lauderdale, FL",United States  ,16670,Brook Bauer,"Ft. Lauderdale, FL",0,0,1,150.0,0,0,0,0
+"September 30, 1983 (39 years old)","6'3""","Fujisawa City, Kanagawa-ken",Japan  ,14279,Yuya Ageba,"Fujisawa City, Kanagawa-ken",0,0,19,925.0,0,0,1,0
+"November 5, 1991 (31 years old)","6'9""",Rapla,Estonia  ,16549,Mart Tiisaar,Tallinn,1,2,55,"7,459.0", ,1,2,1
+"November 8, 1991 (31 years old)","6'6""",Perth,Australia  ,10757,Cole Durant,Adelaide,0,1,39,"3,867.0", ,0,1,1
+"December 29, 1992 (30 years old)","6'1""",Belp,Switzerland  ,11641,Mirco Gerson,Bern,1,1,85,"10,341.0", ,0,2,3
+"April 23, 1996 (27 years old)","6'2""",Odense,Denmark  ,15557,Martin Trans Hansen,Odense,0,0,16,"$3,467.14","1,190.0", ,1,0
+"June 25, 1993 (29 years old)","6'11""","Vancouver, BC",Canada  ,19884,Alexander William Russell,"Surrey, BC",0,0,14,$950,"1,420.0",0,1,0
+"October 2, 1991 (31 years old)","6'3""",Zürich,Switzerland  ,10716,Joana Heidrich Mäder,Kloten,4,4,107,"17,730.0", ,0,6,3
+"August 29, 1994 (28 years old)",,,Philippines  ,19337,Floremel Rodriguez,,0,0,2,230.0,0,0,1,0
+"April 23, 1996 (27 years old)","5'5""",Kanagawa,Japan  ,19954,Harumi Sakai,Kanagawa,0,0,8,980.0,0,0,1,0
+"January 31, 1988 (35 years old)","6'2""",Amsterdam,Netherlands  ,8638,Sven Vismans,Amstelveen/Aalsmeer,0,0,24,717.0, ,0,0,1
+"October 27, 1994 (28 years old)","5'11""",Vredenheim,Netherlands  ,19373,Iris Reinders,Breda,1,0,2,120.0,0,0,0,0
+"August 22, 1997 (25 years old)","6'5""",Moscow,Russia  ,16748,Aleksandr Kramarenko,Moscow,1,1,16,"1,240.0", ,3,1,2
+"June 24, 1986 (36 years old)","5'10""",Poole,England  ,8627,Victoria Palmer,Bath,0,0,31,"1,475.0", ,0,0,1
+"September 7, 1994 (28 years old)","6'0""",Klaipeda,Lithuania  ,11840,Ieva Dumbauskaite,Vilnius,1,1,65,"4,899.0", ,1,1,3
+"July 3, 1996 (26 years old)","5'9""",,Italy  ,14804,Federica Frasca,Rome,0,0,2,$0,126.0,0,0,0
+"September 5, 1998 (24 years old)","6'7""",Tuitjenhorn (Noord-Holland),Netherlands  ,15413,Mees Blom,Den Haag (Zuid-Holland),0,0,11,546.0,1,1,0,0
+"February 9, 1992 (31 years old)","6'3""",Shanxi,China  ,11655,Chunxia Chen,Beijing,0,0,17,850.0,0,0,0,1
+"November 24, 1990 (32 years old)","6'6""",Tauranga,New Zealand  ,9436,Sam O'Dea,Tauranga,2,1,45,"2,703.0", ,1,2,1
+"October 12, 1994 (28 years old)","6'4""",Novi Sad,Serbia  ,15915,Lazar Kolaric,Novi Sad,2,5,42,"3,815.0", ,1,3,1
+"January 28, 1992 (31 years old)","6'4""",Trento,Italy  ,10736,Tiziano Andreatta,Milan,2,0,33,"2,639.0", ,1,0,2
+"February 11, 1992 (31 years old)","6'1""",Bern,Switzerland  ,10813,Anouk Vergé-Dépré,Bern,3,6,107,"17,486.0", ,0,5,4
+"January 31, 1979 (44 years old)","5'8""",Itapema,Brazil  ,16155,Josemari Alves,Rio de Janeiro,2,1,38,"4,118.0", ,1,0,1
+"August 13, 1996 (26 years old)","5'11""",Oinawa,Japan  ,19083,Nobuaki Taira,Shizuoka,0,0,12,510.0,0,0,1,0
+"June 14, 1989 (34 years old)","6'9""",Odessa,Ukraine  ,14271,Eduard Reznik,,0,1,7,"1,650.0",0,0,1,0
+"November 7, 1998 (24 years old)","6'3""",Moscow,Russia  ,18605,Anastasia Petrunina,Moscow,0,0,1,80.0,0,0,0,0
+"December 18, 1996 (26 years old)","6'1""",Kaunas,Lithuania  ,13829,Urte Andriukaityte,Vilnius,0,0,27,"1,715.0", ,1,1,0
+"May 7, 1998 (25 years old)","5'7""",Fernando de la Mora,Paraguay  ,14290,Michelle Sharon Valiente Amarilla,Asunción,0,0,27,"1,941.0", ,0,0,1
+"February 14, 1988 (35 years old)","6'2""",Sawiq city-North Batinah Governate,Oman  ,18133,Mazin Alhashmi,SUWAIQ,0,3,13,"1,310.0",0,0,1,0
+"September 25, 1990 (32 years old)","6'1""",Belgrade,Serbia  ,18331,Marko Plavsic,Beograd,0,0,2,105.0,1,0,0,0
+"May 21, 2000 (23 years old)","6'0""","Lörrach, Germany",Switzerland  ,18577,Jonathan Jordan,Riehen,0,0,11,920.0,0,0,0,0
+"October 26, 1987 (35 years old)","6'0""",Vitória ,Brazil  ,9923,"Liliane ""Lili"" Simões Maestrini","Winter Garden, FL",4,1,89,"10,459.0", ,4,1,4
+"August 2, 1997 (25 years old)","5'9""",Czestochowa,Poland  ,16352,Kinga Legieta,Czestochowa,0,0,6,$0,120.0,0,0,0
+"January 9, 2001 (22 years old)","6'8""",,Italy  ,20220,Gianluca Dal Corso,,0,0,10,"1,090.0",0,0,1,0
+"October 15, 1996 (26 years old)","6'1""",Cieszyn,Poland  ,13891,Mateusz Lysikowski,Warsaw,0,1,2,130.0,0,0,0,0
+"August 6, 1988 (34 years old)","6'8""",Ortona,Italy  ,9059,Paolo Nicolai,Ortona,6,4,137,"25,442.0", ,3,11,12
+"November 26, 1997 (25 years old)","6'1""",Beijing,China  ,14923,Meimei Lin,Haikou ,1,3,47,"5,826.0", ,0,2,2
+"March 14, 1998 (25 years old)","6'8""",Kiel,Germany  ,15723,Milan Sievers,Hamburg,1,0,10,494.0,0,0,0,0
+"December 11, 1991 (31 years old)","6'10""",Voorhout,Netherlands  ,9433,Mart van Werkhoven,Voorhout,0,0,7,710.0,0,1,0,0
+"December 4, 1994 (28 years old)","6'2""","Rio Rancho, NM",United States  ,17741,Cassie House,"Redondo Beach, CA",2,0,3,240.0,0,1,0,0
+"December 8, 1994 (28 years old)","5'10""",Frauenfeld,Switzerland  ,16745,Elena Steinemann,Bern,0,0,15,"1,052.0",0,1,0,0
+"October 23, 1989 (33 years old)","6'4""",Beijing,China  ,13018,Zhuoxin Li,Jinan,0,0,51,"3,244.0", ,3,1,0
+"June 10, 1997 (26 years old)","6'0""",Frauental,Austria  ,15752,Dorina Klinger,Frauental,1,3,39,"3,800.0", ,1,1,1
+"November 26, 2001 (21 years old)","5'11""",Immenstadt,Switzerland  ,19554,Menia Bentele,Riehen,0,0,9,"1,050.0",0,0,0,1
+"December 27, 1996 (26 years old)","6'3""",Bergambacht,Netherlands  ,15089,Jasper Bouter,The Hague,0,3,33,"$33,578.23","3,910.0", ,1,1
+"October 29, 1995 (27 years old)","6'7""","Grand Rapids, MI",United States  ,16472,Logan Webber,"Grand Rapids, MI",0,1,11,"1,525.0", ,2,1,0
+"April 28, 1995 (28 years old)","6'3""",Starnberg,Germany  ,13767,Clemens Wickler,Berlin,1,1,58,"10,801.0", ,0,3,5
+"January 26, 1980 (43 years old)","6'9""","Baden, Switzerland",United States  ,5214,Phil Dalhausser,"Orlando, FL",38,7,131,"$1,343,400.00","33,954.0", ,16,14
+"October 15, 1994 (28 years old)","5'10""",Kremenchug,Ukraine  ,11602,Iryna Makhno,Kyiv,2,0,43,"3,183.0", ,0,3,0
+"May 25, 1988 (35 years old)","6'3""",Herk-de-Stad,Belgium  ,11600,Dries Koekelkoren,Vilvoorde,1,1,58,"6,980.0", ,0,0,1
+"August 1, 1995 (27 years old)","6'2""",Auckland,New Zealand  ,17326,Alani Nicklin,Auckland,0,0,8,485.0,1,3,0,1
+"June 13, 1996 (27 years old)","4'11""",Carabobo,Venezuela  ,14408,Rolando Peter Hernandez,Valencia,1,0,4,490.0,0,1,0,0
+"August 4, 1998 (24 years old)",,,Oman  ,17508,Hood Al Jalaboubi,,0,0,9,895.0,2,0,1,0
+"January 14, 1994 (29 years old)","6'5""",Kandel,Germany  ,16355,Yannick Harms,Hamburg,1,1,38,"4,150.0", ,0,1,0
+"March 23, 1992 (31 years old)","5'11""",Bangkok,Thailand  ,17546,Nuttanon Inkiew,Chiang Rai,2,0,25,"2,376.0",0,1,0,1
+"March 27, 1986 (37 years old)","5'8""","Fort Myers, FL",United States  ,8047,Brooke Youngquist Sweat,"Estero, FL",1,2,83,"14,769.0", ,0,3,6
+"July 13, 1991 (31 years old)","6'6""",Gothenburg,Sweden  ,19197,Martin Johansson,Gothenburg,0,0,2,140.0,0,0,1,0
+"November 10, 1988 (34 years old)","6'1""","Fort Worth, TX",United States  ,13811,Irene Hester Pollock,"Hermosa Beach, CA",1,1,37,"2,959.0", ,0,0,1
+"August 2, 1989 (33 years old)","5'11""","Los Alamitos, CA",United States  ,7546,Geena Urango,"Los Alamitos, CA",0,0,5,"$5,250.00",520.0, ,1,0
+"March 5, 1987 (36 years old)","6'7""",Pescara,Italy  ,11220,Francesco Vanni,Pescara,0,0,4,180.0,0,0,0,0
+"April 11, 1997 (26 years old)","6'0""",Imatra,Finland  ,14008,Niina Ahtiainen,Prague,1,0,48,"7,346.0", ,1,0,0
+"February 23, 1998 (25 years old)","5'11""",Bern,Switzerland  ,16243,Zoé Vergé-Dépré,Bern,1,2,41,"5,835.0", ,3,3,0
+"December 2, 1995 (27 years old)","6'2""",Graz,Austria  ,15826,Maximilian Trummer,Vienna,0,4,35,"2,605.0", ,1,0,1
+"October 3, 1987 (35 years old)","5'11""",Tokyo,Japan  ,17403,Takashi Tsuchiya,"Shibuya-ku, Tokyo",0,3,18,"1,080.0",2,3,0,1
+"October 14, 1995 (27 years old)","5'9""",Cham,Switzerland  ,13151,Nina Betschart Brunner,Bellmund,3,4,78,"14,991.0", ,2,3,6
+"July 21, 1988 (34 years old)","6'4""",Edgia,Poland  ,19116,Piotr Ilewicz,Warsaw,0,1,8,370.0,1,3,0,1
+"December 18, 2001 (21 years old)","6'1""",Varel,Germany  ,18477,Lea Sophie Kunst,Hamburg,0,0,5,840.0,0,0,0,0
+"June 16, 1995 (28 years old)","6'4""",Novi Sad,Serbia  ,13763,Djordje Klasnic,"Los Angeles County, CA",1,4,32,"2,062.0", ,3,1,0
+"December 25, 1987 (35 years old)","5'11""",Kanagawa,Japan  ,17045,Yukako Suzuki,"Shibuya-ku, Tokyo",0,0,28,"1,790.0",1,3,1,2
+"July 28, 1999 (23 years old)",,,Philippines  ,19333,Genesa Jane Eslapor,,0,0,2,220.0,0,1,1,0
+"June 18, 2001 (22 years old)","5'4""",Satun,Thailand  ,19184,Poravid Taovato,Kalasin,1,0,11,"1,165.0",1,1,1,0
+"December 16, 1997 (25 years old)","6'0""",Izmir,Türkiye  ,14669,Merve Nezir,ANKARA,0,0,22,"$4,122.84","1,038.0", ,0,2
+"March 31, 1998 (25 years old)","6'0""",Kuldiga,Latvia  ,16267,Kristaps Smits,Hujani,0,0,9,607.0,1,1,0,2
+"June 9, 1993 (30 years old)","5'10""","Manhattan Beach, CA",United States  ,13300,Jace Pardon,"Manhattan Beach, CA",0,0,10,"$3,250.00",776.0, ,2,0
+"December 24, 1992 (30 years old)","6'1""",Hulst,Netherlands  ,10778,Dirk Boehlé,Den Haag,2,0,35,"2,706.0", ,2,0,1
+"February 18, 2000 (23 years old)","5'6""",Anapa,Russia  ,16130,Maria Voronina,Obninsk,3,0,21,"2,400.0", ,0,1,0
+"January 9, 1991 (32 years old)","6'3""",Santiago de Chile,Chile  ,12583,Esteban Grimalt,Santiago,4,4,96,"14,792.0", ,2,2,0
+"June 1, 1994 (29 years old)","6'7""",Prague,Czech Republic  ,16538,David Schweiner,Prague,3,2,52,"11,725.0", ,0,8,1
+"December 7, 2002 (20 years old)","6'5""",Arles,France  ,20348,Liam Patte,Toulouse,0,0,3,290.0,0,0,0,0
+"October 4, 1993 (29 years old)","6'0""",Graz,Austria  ,11650,Lena Maria Plesiutschnig,Vienna,2,0,88,"10,093.0", ,0,3,3
+"June 21, 1998 (25 years old)","6'6""",Freiburg,Germany  ,15725,Sven Winter,Hamburg,0,2,32,"4,484.0", ,0,2,2
+"June 22, 1995 (27 years old)","6'5""",Raseiniai,Lithuania  ,13422,Arnas Rumsevicius,Vilnius,0,2,45,"3,633.0", ,1,0,0
+"January 24, 1999 (24 years old)","5'11""",Praha,Czech Republic  ,16946,Martina Maixnerova,Praha,1,0,13,874.0,0,1,0,0
+"October 16, 1993 (29 years old)","6'4""",Aschbach,Austria  ,12379,Tobias Winter,Aschbach,0,1,59,"$47,433.04","4,736.0", ,1,1
+"September 28, 1990 (32 years old)","6'8""",Dachau,Germany  ,10963,Armin Dollinger,Geislingen ,1,4,52,"3,290.0", ,1,0,0
+"August 19, 1999 (23 years old)","6'0""",Nuernberg,Germany  ,16916,Sarah Schulz,GERMANY,1,1,23,"3,845.0", ,0,3,0
+"August 18, 1992 (30 years old)","6'7""",Beijing,China  ,14350,Likejiang Ha,Beijing,4,0,61,"5,480.0", ,0,0,2
+"September 6, 1980 (42 years old)","6'7""",Steyr,Austria  ,2106,Clemens Doppler,Vienna,2,4,202,"21,984.0", ,14,4,2
+"October 22, 1996 (26 years old)","6'5""",Saint Maurice,France  ,15475,Arnaud Gauthier-Rat,Charenton-le-Pont,2,0,57,"8,574.0", ,0,3,1
+"January 8, 1991 (32 years old)","6'2""",Arendal,Norway  ,11752,Lars Tveit Retterholt,Oslo,0,1,22,"1,046.0", ,0,1,0
+"July 25, 1998 (24 years old)","6'2""",Korolev,Russia  ,17126,Polina Tsyganova,,0,0,2,90.0,0,0,0,0
+"July 9, 1991 (31 years old)","6'2""","Santa Ana, CA",United States  ,13414,Christopher Austin,"Redondo Beach, CA",0,0,3,125.0, ,0,1,0
+"May 22, 1988 (35 years old)","6'7""","Encinitas, CA",United States  ,13452,Chase Budinger,"Hermosa Beach, CA",0,0,32,"4,830.0", ,0,3,0
+"February 1, 1995 (28 years old)","5'9""",Wrzsenia,Poland  ,13339,Jagoda Gruszczynska,Wrzesnia,1,2,71,"6,543.0", ,1,0,1
+"September 18, 1995 (27 years old)","6'2""","Placentia, CA",United States  ,14478,Kelly Claes Cheng,"Fullerton, CA",7,4,61,"14,634.0", ,0,3,3
+"July 3, 1995 (27 years old)","5'10""",Tokyo,Japan  ,18662,Kana Motomura,Tokyo,0,0,8,"1,010.0",0,0,1,0
+"September 7, 1996 (26 years old)","6'8""",Adelaide,Australia  ,14442,Maximilian Guehrer,Aldgate,0,0,28,"$5,942.24","2,016.0", ,0,2
+"November 19, 2002 (20 years old)","6'0""",Modena,Italy  ,20460,Valentina Gottardi,,1,1,14,"3,210.0",2,1,0,1
+"October 17, 1998 (24 years old)","6'5""",Moscow,Russia  ,15529,Petr Bakhnar,Moscow,0,0,18,975.0,1,1,3,0
+"January 25, 1991 (32 years old)","6'4""",Innsbruck,Austria  ,13635,Michael Murauer,Vienna,0,2,21,830.0, ,1,0,0
+"July 16, 2002 (20 years old)","5'7""",Riga,Latvia  ,17941,Anete Namike,Manupe,0,4,18,"1,300.0", ,0,0,0
+"November 1, 1999 (23 years old)","5'7""",Petrópolis,Brazil  ,16883,Vitoria De Souza Rodrigues,Rio de Janeiro,1,1,20,"4,628.0",2,0,2,3
+"October 20, 1993 (29 years old)","6'3""",Auckland,New Zealand  ,13113,Thomas Hartles,Auckland,0,0,8,485.0,1,3,0,1
+"March 22, 1995 (28 years old)","5'11""",Jesenik,Czech Republic  ,19391,Anna Pospisilova,Brno,0,0,5,590.0,0,0,0,1
+"September 26, 1996 (26 years old)","6'9""",Moscow,Russia  ,14263,Oleg Stoyanovskiy,Moscow,6,4,62,"12,382.0", ,0,4,5
+"July 31, 1995 (27 years old)","5'9""","Aracaju, Sergipe",Brazil  ,14460,Tainá Silva Bigi,"Aracaju, Sergipe",1,2,37,"5,965.0",2,4,1,2
+"September 11, 1988 (34 years old)","6'3""",Korneuburg,Austria  ,10722,Thomas Kunert,Vienna,0,1,79,"4,910.0", ,1,0,0
+"September 4, 1998 (24 years old)",,Bangkok,Thailand  ,21155,Pithak Tipjan,,1,0,8,"1,020.0",0,1,1,0
+"March 24, 1994 (29 years old)","6'8""",La Habana,Cuba  ,14857,Nivaldo Nadhir Díaz Gomez,Liberec ,1,0,17,"$33,950.00","2,510.0", ,0,2
+"September 21, 2001 (21 years old)",,,France  ,20454,Calvin Aye,,0,0,9,"1,590.0",0,0,0,0
+"November 21, 1988 (34 years old)","6'7""",Calgary,Canada  ,7080,Ben Saxton,Calgary,1,1,129,0,"$330,187.50","14,725.0",2,4
+"December 10, 1997 (25 years old)",,,France  ,21853,Samuel Cattet,,0,0,1,160.0,0,0,0,1
+"May 12, 1997 (26 years old)","6'0""",,Estonia  ,16448,Heleene Hollas,,1,1,15,"1,115.0",0,2,1,0
+"December 1, 1999 (23 years old)","6'4""",Belem,Brazil  ,16878,Renato Andrew Lima de Carvalho,Joao Pessoa,4,2,23,"5,780.0",2,1,2,1
+"May 11, 1987 (36 years old)","6'1""",Wadowice,Poland  ,8758,Grzegorz Fijalek,Lodz,2,7,128,"23,068.0", ,2,8,8
+"July 22, 1994 (28 years old)","6'9""",Copenhagen,Denmark  ,19768,Nicolai Hovmann Overgaard,Copenhagen,0,0,8,730.0,0,0,1,0
+"January 13, 2000 (23 years old)","6'4""",Dachau,Germany  ,17157,Lukas Pfretzschner,Karlsfeld,0,0,31,"3,475.0", ,1,1,1
+"April 27, 2003 (20 years old)",,,Norway  ,19455,Jo Gladsøy Sunde,,0,0,2,140.0,0,0,0,0
+"July 6, 1992 (30 years old)","6'6""",Kraslava,Latvia  ,11711,Haralds Regza,Riga,0,2,56,"4,770.0", ,1,1,3
+"February 20, 1990 (33 years old)","6'3""",Minsk,Belarus  ,9342,Aliaksandr Dziadkou,Bobruisk Mogilev region,2,0,50,"3,432.0", ,0,0,1
+"February 13, 2001 (22 years old)","6'4""",Dortmund,Germany  ,17168,Svenja Müller,GERMANY,1,1,19,"4,320.0", ,1,0,3
+"July 22, 1991 (31 years old)","5'8""",Prague,Czech Republic  ,10974,Martina Bonnerová Williams,Prague,3,4,86,"6,797.0", ,1,3,0
+"October 30, 2001 (21 years old)","5'8""",Giesen,Germany  ,18514,Anna-Lena Grüne,Giesen,1,0,14,"1,510.0", ,1,2,1
+"June 9, 2002 (21 years old)","5'10""","Temecula, CA",United States  ,18794,Delaynie Maple,"San Diego, CA",1,1,2,170.0,0,0,0,0
+"April 21, 2004 (19 years old)",,Ho��e,Slovenia  ,19501,Rok Bracko,,0,0,2,210.0,0,0,1,0
+"June 22, 1983 (39 years old)","6'0""",Curitiba,Brazil  ,6641,Ágatha Bednarczuk,Rio de Janeiro,12,6,139,"24,947.0", ,4,13,14
+"September 18, 1995 (27 years old)","5'5""",Kanagawa,Japan  ,18396,Asami Shiba,"Hiratsuka-city, Kanagawa",1,0,4,290.0,0,0,0,1
+"September 8, 2002 (20 years old)","6'5""",Rosario,Argentina  ,20605,Tomas Capogrosso,"Santa Fe
+",0,0,16,"3,100.0",0,4,1,0
+"May 6, 1991 (32 years old)","6'5""",Rome,Italy  ,9422,Daniele Lupo,"Fiumicino, Fregene (Roma)",4,5,115,"22,417.0", ,0,9,10
+"October 5, 2001 (21 years old)","6'4""",Stockholm,Sweden  ,18278,Jonatan Hellvig,SWEDEN,6,0,32,"6,215.0", ,0,2,3
+"March 27, 1986 (37 years old)","6'4""",Rio de Janeiro,Brazil  ,6767,Pedro Salgado Collett Solberg,Rio de Janeiro,21,14,185,"34,453.0", ,4,13,14
+"May 6, 1983 (40 years old)","5'9""",Rio de Janeiro,Brazil  ,1900,Maria Clara Salgado Solberg Rufino,"Santa Barbara, CA",3,6,163,"20,819.0", ,5,5,14
+"December 3, 1992 (30 years old)","6'2""",Yogyakarta,Indonesia  ,15022,Ade Candra Rachmawan,Yogyakarta,0,1,12,"1,170.0",0,1,1,1
+"March 11, 1999 (24 years old)","6'0""",Horovice,Czech Republic  ,15756,Marie-Sara Stochlova,CZECH REPUBLIC,2,0,31,"$32,283.39","4,984.0", ,2,0
+"September 24, 1997 (25 years old)","5'11""",Lubljana,Slovenia  ,16443,Gasper Plahutnik,Lubljana,0,1,8,385.0,2,0,0,0
+"September 14, 2003 (19 years old)","6'6""","Ashdod
+",Israel  ,19910,Kevin Cuzmiciov,"Ashdod
+",0,0,4,175.0,0,1,0,0
+"July 6, 1994 (28 years old)","6'0""",Uzwil,Switzerland  ,16359,Laura Caluori,Bern,0,0,35,"3,242.0", ,0,0,1
+"September 7, 1998 (24 years old)","5'11""",,Australia  ,15280,Georgia Johnson,,0,0,10,"1,376.0",0,1,1,0
+"May 8, 1985 (38 years old)","6'3""",Riga,Latvia  ,6769,Martins Plavins,Riga,,,,,,,,
+"November 3, 2003 (19 years old)",,,Slovenia  ,20341,Maja Marolt,,0,0,2,250.0,1,0,1,0
+"March 12, 1988 (35 years old)","6'8""",Moledet,Israel  ,14289,Sean Faiga,Moledet,0,1,41,"2,064.0", ,0,0,0
+"March 6, 1996 (27 years old)","6'3""",Graz,Austria  ,14711,Johannes Kratz,Graz,0,0,2,84.0,0,0,0,0
+"February 13, 1996 (27 years old)","6'4""",Paranavaí,Brazil  ,15323,Arthur Diego Mariano Lanci,Maringá,3,2,32,"4,955.0", ,0,2,1
+"June 20, 1989 (34 years old)","6'5""","Honolulu, HI",United States  ,13699,Tri Bourne,"Honolulu, HI",2,3,74,"14,425.0", ,1,1,4
+"May 31, 2000 (23 years old)","6'4""",Porto,Portugal  ,16860,Joao Pedrosa,Espinho,0,1,15,"2,210.0",0,1,0,0
+"February 29, 2000 (23 years old)","6'1""",Tunuyán - Mendoza,Argentina  ,17499,Bautista Amieva,Mendoza,0,1,7,340.0,0,1,0,1
+"September 14, 1999 (23 years old)","6'6""",,Australia  ,20001,Izac Carracher,,1,0,15,"3,320.0",0,5,0,0
+"June 14, 1987 (36 years old)","6'5""","Barrie, Ontario",Canada  ,8789,Sam Pedlow,Toronto,0,1,74,"$117,462.50","9,787.0", ,0,0
+"October 21, 1986 (36 years old)","6'6""",Moscow,Russia  ,7513,Yury Bogatov,Moscow,0,1,72,"3,963.0", ,2,1,0
+"December 22, 1993 (29 years old)","5'11""",Treviso,New Zealand  ,18330,Francesca Kirwan,Auckland,0,0,6,280.0,0,0,0,0
+"August 16, 1996 (26 years old)","5'10""","Phoenix, AZ",United States  ,14959,Sarah Sponcil,"Phoenix, AZ",2,1,46,"11,298.0", ,2,4,4
+"July 26, 1995 (27 years old)","6'0""",Treviso,Italy  ,13903,Margherita Bianchin,Salgareda,4,0,25,"$18,030.62","3,205.0", ,1,1
+"December 10, 1988 (34 years old)","5'8""",Tokyo,Japan  ,15016,Yui Nagata,"Shibuya-ku, Tokyo",0,0,29,"2,160.0",1,1,1,1
+"March 16, 1991 (32 years old)","5'8""","Leeds, Yorkshire",England  ,9517,Jessica Grimson,Bournemouth,0,0,30,"1,599.0", ,0,0,1
+"August 8, 1994 (28 years old)","6'6""",Den Haag,Netherlands  ,13566,Steven van de Velde,Den Haag,0,1,53,"8,976.0", ,0,0,5
+"March 27, 1990 (33 years old)","5'8""",Umea,Sweden  ,18167,Sofia Wahlén,DANDERYD,0,0,4,200.0,0,0,0,0
+"May 19, 1996 (27 years old)","6'1""",Sidoarjo,Indonesia  ,14509,Mohammad Ashfiya,Sidoarjo,0,1,14,"1,226.0",0,2,1,1
+"May 17, 1995 (28 years old)","6'5""",Brisbane,Australia  ,15354,Tim Dickson,Adelaide,0,1,15,776.0,0,2,0,0
+"May 28, 1989 (34 years old)","6'4""",Dabrowa Gornicza,Poland  ,7844,Michal Krzysztof Kadziola,Lodz,4,2,97,"8,882.0", ,2,0,1
+"September 17, 1987 (35 years old)","6'4""",La Línea de la Concepción,Spain  ,7783,Adrián Gavira Collado,Tenerife,4,7,165,"30,487.0", ,2,11,10
+"March 25, 1996 (27 years old)","5'8""",Tokyo,Japan  ,17046,Kaho Sakaguchi,"Shibuya-ku, Tokyo",0,0,24,"1,625.0",0,0,2,2
+"August 9, 1987 (35 years old)","5'11""",Almaty,Kazakhstan  ,9490,Irina Tsimbalova,Almaty,0,0,71,"4,740.0", ,0,1,0
+"September 18, 1992 (30 years old)","5'11""",Suny,Ukraine  ,9397,Maryna Samoday Hladun,Suny,0,0,25,"1,695.0", ,0,2,2
+"June 1, 1994 (29 years old)","5'7""",Russia,Israel  ,17425,Sofia Starikov,Isr-Kata,1,2,44,"2,475.0", ,2,0,0
+"July 10, 1996 (26 years old)","6'4""",Bangkok,Thailand  ,15652,Banlue Nakprakhong,Bangkok,1,1,21,"1,610.0",1,1,0,0
+"October 30, 1991 (31 years old)","5'7""",,Philippines  ,21988,Jovelyn Gonzaga,,1,0,1,200.0, ,0,0,0
+"January 8, 1993 (30 years old)","6'0""",Hamilton,New Zealand  ,10810,Kelsie Wills,Tauranga,0,2,8,400.0,0,2,0,1
+"January 14, 1997 (26 years old)","6'0""",Wulu Mu Qi,China  ,14924,Xinyi Xia,BEIJING,5,2,87,"15,015.0", ,0,8,4
+"March 8, 1994 (29 years old)","6'3""",Antalya,Türkiye  ,15101,Safa Urlu,Ankara,0,1,53,"4,355.0", ,1,1,1
+"July 24, 2001 (21 years old)","6'1""",Zdiby,Czech Republic  ,18816,Tadeas Trousil,,0,0,6,750.0,1,0,0,0
+"June 7, 1997 (26 years old)","5'8""",,Estonia  ,16449,Liisa Soomets,,1,1,15,"1,115.0",0,2,1,0
+"September 2, 1985 (37 years old)",,Koper,Slovenia  ,17618,Jelena Pesic,,0,0,2,115.0, ,0,0,1
+"March 15, 1991 (32 years old)","6'8""",Aalborg,Denmark  ,15013,Mads Rosager,Odense,0,0,11,660.0,0,1,0,1
+"June 20, 1990 (33 years old)","6'4""",Holguin,Cuba  ,9402,Sergio Reynaldo Gonzalez Bayard,LA Habana,1,0,21,"$35,650.00","2,690.0", ,0,2
+"December 11, 1997 (25 years old)","5'11""",Croix,France  ,15613,Lézana Placette,Grenoble,1,1,48,"$36,797.60","6,145.0", ,0,1
+"August 8, 1997 (25 years old)",,,Canada  ,19780,Alina Dormann,,0,0,6,580.0,0,0,0,1
+"December 5, 1991 (31 years old)","6'1""",Vilnius,Lithuania  ,17171,Karole Virbickaite,Vilnius,0,0,2,80.0,0,0,0,0
+"December 3, 1995 (27 years old)","5'10""","Auckland, New Zealand ",Australia  ,13714,Jessyka Ngauamo,Gold Coast Queensland,1,0,34,"2,808.0", ,0,1,2
+"November 27, 2001 (21 years old)","6'2""",Gijon,Spain  ,17937,Daniela Álvarez Mendoza,Asturias,0,0,16,"$11,262.28","2,290.0", ,1,3
+"March 29, 1999 (24 years old)","5'10""",Chiang Rai,Thailand  ,15944,Charanrutwadee Patcharamainaruebhorn,Bangkok,0,0,27,"2,065.0",3,2,0,1
+"July 28, 1999 (23 years old)","5'9""","Bergamo, Italy",Italy  ,17754,Carolina Ferraris,"Rio de Janeiro, Brazil",1,0,2,160.0,0,0,0,0
+"November 14, 2001 (21 years old)","6'4""","Puck
+",Poland  ,18904,Jakub Nowak,"Puck
+",0,0,5,265.0,0,1,1,0
+"May 16, 1993 (30 years old)","6'1""","Sarasota, FL",United States  ,16016,Bree Scarbrough,"Sarasota, FL",1,1,4,410.0, ,0,0,0
+"December 27, 1995 (27 years old)","6'3""",Ekaterinburg,Russia  ,14524,Ilya Leshukov,St. Petersburg,2,0,36,"6,846.0", ,0,2,3
+"January 22, 1996 (27 years old)","6'1""",Frankenberg (Eder),Germany  ,13770,Sarah Schneider,Hamburg,2,1,25,"2,674.0", ,0,2,3
+"April 27, 1988 (35 years old)","6'8""",Ústí nad Labem,Czech Republic  ,9096,Filip Habr,Usti nad Labem,0,0,12,374.0,0,1,0,0
+"August 7, 2000 (22 years old)","6'2""",Tula,Russia  ,17711,Alexey Gusev,Moscow,0,0,6,280.0,0,0,0,2
+"December 9, 1992 (30 years old)","5'10""",Tampere,Finland  ,7914,Taru Lahti-Liukkonen,Vantaa,1,2,80,"11,968.0", ,3,2,1
+"October 15, 1987 (35 years old)","6'6""",Sinop,Türkiye  ,11420,Murat Giginoglu,Ankara,0,2,71,"6,462.0", ,0,1,2
+"July 22, 1983 (39 years old)","5'10""",Santos,Brazil  ,5835,Juliana Felisberta da Silva,Fortaleza,49,8,158,"37,046.0", ,0,26,20
+"September 26, 1994 (28 years old)","6'3""",Prague,Czech Republic  ,13393,Ondrej Perusic,Praha,3,2,57,"11,809.0", ,0,8,1
+"June 22, 1985 (37 years old)","5'9""",Tokyo,Japan  ,9082,Ayumi Kusano Shiratori,Shibuya-ku,1,1,57,"3,609.0", ,0,1,2
+"September 4, 1986 (36 years old)","5'11""",Vöcklabruck,Austria  ,13030,Valerie Teufl,Leonding,0,2,40,"2,032.0", ,3,1,0
+"October 26, 1982 (40 years old)","5'9""",Fortaleza (CE),Brazil  ,8002,Naiana Rodrigues de Araújo,Fortaleza (CE),0,1,3,140.0,0,0,0,0
+"June 25, 1992 (30 years old)","6'0""",Kingaroy,Australia  ,10795,Taliqua Clancy,Adelaide,8,5,95,"19,417.0", ,1,4,11
+"September 7, 2001 (21 years old)","5'11""",Tubbergen,Netherlands  ,18586,Wies Bekhuis,,0,4,11,"1,005.0",3,1,0,2
+"May 20, 1997 (26 years old)","6'8""",Radzy,Poland  ,14418,Mateusz Paszkowski,Warsaw,0,0,12,$700,539.0,1,0,0
+"July 28, 1995 (27 years old)","5'9""",Tauranga ,New Zealand  ,13755,Alice Bain,,0,1,12,600.0,0,0,0,0
+"May 9, 1985 (38 years old)","6'6""",Cape Town,South Africa  ,11155,Leo Williams,Cape Town,0,1,42,"1,863.0", ,3,1,0
+"September 3, 1998 (24 years old)","6'0""",,Australia  ,17512,Caitlin Bettenay,,0,1,7,865.0,1,1,0,0
+"May 6, 1994 (29 years old)","6'3""",Prague,Czech Republic  ,14037,Martin Pihera,Prague,0,0,12,505.0,4,0,0,0
+"November 2, 1993 (29 years old)","6'2""","Scarborough, ON",Canada  ,11725,Grant O'Gorman,"Vancouver, BC",1,0,81,"$98,562.50","9,390.0", ,2,1
+"March 17, 1985 (38 years old)","6'7""","Ridgefield, CT",United States  ,7831,Theo Brunner,"Torrance, CA",1,4,77,"12,710.0", ,3,1,2
+"May 17, 1984 (39 years old)","6'2""",Ceske Budjovice,Czech Republic  ,6246,Jindrich Weiss,Brno,1,0,36,840.0, ,0,1,0
+"June 13, 1998 (25 years old)","5'11""",Basel,Switzerland  ,14785,Yves Haussener,SWITZERLAND,3,2,53,"6,309.0", ,0,4,3
+"July 30, 1996 (26 years old)","5'9""",Pieksamdki,Finland  ,13428,Anniina Parkkinen,Helsinki,0,1,43,"5,948.0", ,0,1,2
+"November 29, 1988 (34 years old)","6'5""",Madona,Latvia  ,12433,Edgars Tocs,Daugavpils,1,1,64,"9,211.0", ,0,1,2
+"November 11, 1995 (27 years old)","5'9""",,Italy  ,18727,Giada Godenzoni,,0,2,5,380.0,1,2,0,0
+"January 29, 1987 (36 years old)",,A Coruña,Venezuela  ,18545,Hernan Tovar,,1,0,4,490.0,0,1,0,0
+"April 28, 1991 (32 years old)","6'5""",Gelengzik,Russia  ,10745,Viacheslav Krasilnikov,Gelengzik,7,7,77,"16,416.0", ,0,7,5
+"May 24, 1998 (25 years old)","5'9""",Bucharest,Romania  ,16452,Adriana-Maria Matei,Satu-Mare,1,0,14,684.0,0,2,0,0
+"January 3, 1996 (27 years old)","6'5""",Geelong,Australia  ,15492,Stefanie Weiler,Bruce,0,0,18,920.0,1,3,0,1
+"May 22, 1995 (28 years old)","6'5""","Dakar, Senegal",Qatar  ,15097,Cherif Younousse Samba,Doha,5,0,74,"15,170.0", ,1,6,5
+"May 9, 1993 (30 years old)","6'7""",Jiangsu,China  ,13343,Jiaxin Wu,Beijing,4,0,59,"5,406.0", ,0,0,2
+"August 7, 2001 (21 years old)","6'1""",Shan Dong,China  ,17565,Jie Dong,Beijing,2,0,25,"3,085.0", ,1,1,1
+"December 7, 1995 (27 years old)","6'4""",Aktau,Kazakhstan  ,16429,Artem Petrossyants,Aktau,0,1,9,375.0,1,1,0,0
+"September 22, 1996 (26 years old)","6'3""",Praha,Czech Republic  ,15671,Vaclav Bercik,CZECH REPUBLIC,1,0,39,"3,640.0", ,4,0,0
+"April 2, 1997 (26 years old)","6'0""",Krasnodar,Russia  ,13715,Nadezda Makroguzova,Krasnodar,2,2,64,"9,086.0", ,1,4,1
+"March 20, 1999 (24 years old)","6'7""",Bressanone,Italy  ,16802,Jakob Windisch,ITALY,4,1,34,"3,065.0", ,3,1,1
+"November 9, 1997 (25 years old)","5'9""",Obninsk,Russia  ,15000,Svetlana Kholomina,Obninsk,2,1,39,"7,035.0", ,1,3,1
+"August 20, 1992 (30 years old)","5'11""",Fortaleza (CE),Brazil  ,11651,Carolina Horta Máximo,Fortaleza (CE),1,1,39,"4,975.0", ,1,3,0
+"February 12, 1977 (46 years old)","5'9""",Rio de Janeiro,Brazil  ,5147,"Vanilda ""Val"" dos Santos Leão",Rio de Janeiro,3,0,61,"5,240.0", ,5,4,2
+"May 14, 1992 (31 years old)","6'3""",Jastrzebie Zdroj,Poland  ,10444,Bartosz Losiak,Jastrzebie Zdroj,10,6,118,"21,549.0", ,0,8,7
+"January 10, 1997 (26 years old)","5'8""",Hyogo,Japan  ,16621,Reika Murakami,Tokyo,2,2,47,"4,570.0", ,1,2,2
+"February 17, 1997 (26 years old)","5'10""",Thessaloniki,Greece  ,15394,Dimitra Manavi,Thessaloniki,1,1,47,"2,526.0", ,3,1,2
+"September 26, 1995 (27 years old)","6'1""",Linz,Austria  ,13876,Philipp Waller,Feldbach,2,1,53,"9,239.0", ,0,1,0
+"May 12, 1992 (31 years old)","6'3""",Vilnius,Lithuania  ,10776,Artur Vasiljev,Vilnius,0,0,14,750.0,0,0,0,0
+"July 5, 1996 (26 years old)","6'0""",Nowe Miasto nad Pilica,Poland  ,18804,Michal Korycki,Przysucha,0,0,7,490.0,0,0,0,0
+"May 3, 1992 (31 years old)","6'7""",Sosnowiec,Poland  ,10443,Piotr Kantor,Sosnowiec,6,4,114,"19,215.0", ,0,7,6
+"October 27, 1996 (26 years old)","5'9""",João Pessoa,Brazil  ,14458,Andressa Cavalcanti Ramalho,João Pessoa,2,0,28,"5,404.0", ,2,1,4
+"May 10, 1990 (33 years old)","6'3""",Saint Petersburg,Russia  ,10968,Daniil Kuvichka,Saint Petersburg,1,1,15,"1,100.0",0,3,0,0
+"May 19, 1984 (39 years old)","6'6""",Istanbul,Türkiye  ,11422,Selçuk Sekerci,Istanbul,0,0,42,"1,956.0", ,1,2,1
+"January 4, 2000 (23 years old)","5'8""",Basel,Switzerland  ,17886,Anna Lutz,Basel,0,0,11,"1,090.0",0,0,0,0
+"July 12, 1993 (29 years old)","6'0""",Oslo,Norway  ,12445,Oda Johanne Ulveseth,Oslo,0,1,31,"2,637.0", ,0,0,0
+"January 18, 1998 (25 years old)",,Tokyo,Japan  ,20602,Ren Matsumoto,,0,0,7,910.0,0,0,1,0
+"March 13, 1997 (26 years old)","5'9""",Burlington,Canada  ,16617,Amanda Harnett,"Santa Rosa, CA",0,0,36,"$6,647.95","2,615.0", ,0,1
+"November 5, 2000 (22 years old)","6'3""",Padua,Italy  ,18440,Tobia Marchetto,Padua,0,0,3,180.0,0,0,0,0
+"August 1, 1997 (25 years old)","5'9""","Richmond, BC",Canada  ,14208,Nicole McNamara,"Toronto, ON",0,3,35,"5,290.0", ,0,1,2
+"December 21, 1988 (34 years old)","6'3""",Tonkabon,Iran  ,16039,Abbas Pourasgari,Ramsar,0,1,8,550.0,0,2,0,2
+"May 22, 2000 (23 years old)","5'10""",Feldkirchen,Austria  ,16881,Ronja Klinger,Deutschlandsberg,1,3,37,"3,695.0", ,1,1,1
+"December 25, 1995 (27 years old)","5'11""",Poltar,Slovakia  ,17413,Andrea Strbova,Frydek-Mistek,0,0,26,"4,370.0",0,8,0,1
+"October 16, 1998 (24 years old)","6'2""",Klaipeda,Lithuania  ,16270,Audrius Knasas,Kaunas,0,0,7,"1,120.0",1,1,0,0
+"November 23, 1988 (34 years old)","6'1""","Colfax, NC",United States  ,16898,Sarah Schermerhorn,"Colfax, NC",0,0,20,"3,130.0", ,1,2,0
+"May 6, 1990 (33 years old)","6'11""",Valthermond,Netherlands  ,9429,Christiaan Varenhorst,The Hague,3,4,110,"17,400.0", ,0,4,5
+"January 11, 1988 (35 years old)","5'9""",Santiago de Chile,Chile  ,12659,Maria Francisca Rivas Zapata,,0,0,3,0,€ 550,120.0,0,1
+"August 18, 1995 (27 years old)","6'1""",Bangkok,Thailand  ,18105,Kitti Duangjinda,Chonburi,0,1,13,665.0,3,1,0,0
+"February 12, 1998 (25 years old)","5'11""",Prague,Czech Republic  ,16594,Daniela Resova,Prague,0,0,24,"1,519.0", ,3,0,1
+"December 20, 1986 (36 years old)","6'4""",Roma,Italy  ,14966,Fabrizio Manni,Campagnano Romano,0,0,2,50.0,0,0,0,0
+"June 28, 1985 (37 years old)","5'10""",Kromeriz,Czech Republic  ,8191,Sarka Nakladalova,Kromeriz,0,1,27,"1,286.0", ,0,2,1
+"April 23, 1993 (30 years old)","5'9""",Fortaleza,Brazil  ,11610,Rebecca Cavalcanti Barbosa Silva,Fortaleza,3,2,42,"10,370.0", ,2,5,7
+"July 31, 1984 (38 years old)","6'4""",Ljubljana,Slovenia  ,11749,Danijel Pokeršnik,Ravne na KoroÅ¡kem,0,2,31,"1,780.0", ,6,0,1
+"January 3, 1997 (26 years old)","5'9""",Vladivostok,Russia  ,14577,Daria Rudykh,Vladivostok,1,1,51,"4,023.0", ,0,0,2
+"November 12, 1987 (35 years old)","6'0""",Melbourne,Australia  ,11185,Damien Schumann,Adelaide,2,2,54,"4,741.0", ,0,1,0
+"June 18, 1988 (35 years old)","6'0""",Adelaide,Australia  ,7920,Becchara Palmer,Sydney,2,3,82,"6,447.0", ,4,2,0
+"August 20, 1995 (27 years old)","6'2""",Bangkok,Thailand  ,13843,Intuch Techakijvorakul,Bangkok,2,0,28,"2,456.0",0,1,1,1
+"June 14, 1993 (30 years old)","5'9""",Villach,Austria  ,13125,Anja Dörfler,Graz,0,0,14,752.0,0,0,1,0
+"August 9, 1988 (34 years old)","6'2""",Khaboura,Oman  ,9621,Ahmed Khadoum Alhousni,Al-Khabourah,0,0,13,600.0,1,0,1,0
+"March 14, 1995 (28 years old)","6'9""","Rancho Palos Verdes, CA",United States  ,18352,Andy Benesh,"Palos Verdes Peninsula, CA",1,1,13,"$23,150.00","3,100.0", ,1,1
+"December 18, 1998 (24 years old)","5'11""",Breda,Netherlands  ,17054,Mexime van Driel,Breda,3,0,31,"3,301.0", ,1,2,0
+"September 12, 1994 (28 years old)","6'3""",Wien,Austria  ,17355,Mathias Seiser,Wien,0,0,6,750.0,1,2,0,0
+"January 21, 1986 (37 years old)","6'3""",Rybnik,Poland  ,6959,Mariusz Prudel,Rybnik,2,6,124,"18,108.0", ,3,4,6
+"February 13, 1990 (33 years old)","6'0""",Tottori,Japan  ,16034,Kensuke Shoji,"Shibuya-ku, Tokyo",1,0,24,"1,381.0",2,1,1,0
+"June 16, 1992 (31 years old)","5'11""",Pescara,Italy  ,10808,Silvia Costantini,Pescara,0,1,11,800.0,0,0,0,0
+"March 3, 1993 (30 years old)","6'3""",Jona,Switzerland  ,14338,Nico Beeler,Jona,1,2,45,"5,265.0", ,0,0,0
+"July 20, 1994 (28 years old)","6'0""",Kanagawa,Japan  ,18189,Yurika Sakaguchi,Yamato,2,4,37,"5,220.0", ,1,1,4
+"November 22, 1988 (34 years old)","5'10""",Heppenheim,Germany  ,9100,Karla Borger,Stuttgart,4,6,130,"21,870.0", ,2,2,6
+"January 16, 1993 (30 years old)","6'2""",Bangkok,Thailand  ,18166,Dunwinit Kaewsai,Bangkok,0,2,16,"1,190.0",0,1,1,0
+"July 25, 1985 (37 years old)","5'11""",Klagenfurt,Austria  ,6836,Alexander Huber,Feldkirchen,3,3,128,"10,231.0", ,1,3,3
+"June 12, 1997 (26 years old)","5'11""",Paranavaí,Brazil  ,16584,Adrielson Dos Santos Silva,Maringá,1,0,12,"1,370.0",1,0,1,0
+"May 20, 1996 (27 years old)","6'3""",Obninsk,Russia  ,14264,Artem Yarzutkin,Moscow,2,3,57,"6,152.0", ,0,4,3
+"August 20, 1981 (41 years old)","5'7""",Hiratsuka,Japan  ,7402,"Takemi ""Take"" Nishibori",kariya,1,1,156,"8,993.0", ,2,3,1
+"October 16, 1997 (25 years old)","6'0""",Tel Aviv,Israel  ,17258,Anita Dave,Ramal-Gan,1,3,48,"3,030.0", ,2,0,0
+"February 25, 1984 (39 years old)","5'9""",Resende,Brazil  ,8003,Maria Elisa Mendes Ticon Antonelli,Rio de Janerio,14,16,162,"34,463.0", ,6,19,16
+"November 3, 1989 (33 years old)","6'6""",Leiden,Netherlands  ,9129,Alexander Brouwer,Den Haag,7,7,131,"24,698.0", ,1,11,7
+"January 15, 1989 (34 years old)","6'3""",Gonbad-e Kavus,Iran  ,15951,Bahman Salemiinjehboroun,Gonbad-e Kavus,1,0,24,"1,712.0",0,3,3,2
+"May 3, 1989 (34 years old)","6'3""",Staszow,Poland  ,7843,Jakub Szalankiewicz,Staszow,6,3,152,"14,857.0", ,3,2,1
+"June 9, 1989 (34 years old)","6'11""",Tokmak. Kyrgyzstan,Russia  ,11053,Konstantin Semenov,Odinzovo,4,4,102,"15,895.0", ,1,4,5
+"February 6, 2002 (21 years old)","6'4""",Dachau,Germany  ,18436,Simon Pfretzschner,Karlsfeld,1,0,6,550.0,0,0,0,0
+"May 12, 1979 (44 years old)","6'4""",Fortaleza,Brazil  ,7508,Hevaldo André Sabino Moreira,Fortaleza,1,0,32,"1,698.0", ,1,0,1
+"July 16, 2002 (20 years old)",,,Czech Republic  ,18540,Michaela Brinková,,0,0,2,100.0,0,0,0,0
+"April 9, 1990 (33 years old)","5'5""",Orebro,Sweden  ,18707,Sara Cavretti,Orebro,0,0,2,125.0,0,0,1,0
+"November 19, 1992 (30 years old)","5'6""",Stockholm,Sweden  ,13942,Sanna Thurin,Stockholm,0,0,9,500.0,0,0,0,1
+"October 3, 2001 (21 years old)","5'9""",Gorichem,Netherlands  ,16919,Raïsa Schoon,Werkendam,5,0,38,"7,322.0", ,0,3,3
+"February 9, 1983 (40 years old)","6'1""",St. Petersburg,Russia  ,6711,Alexandra Shiryaeva Moiseeva,Leningrad,2,1,91,"7,251.0", ,4,2,1
+"April 17, 1990 (33 years old)","6'4""",Bregenz,Austria  ,16555,Simon Baldauf,Klagenfurt,0,1,9,380.0,1,2,0,0
+"January 6, 1975 (48 years old)","6'7""","Salvador, Brazil",Brazil  ,525,Ricardo Alex Costa Santos                                      ,"Joao Pessoa, FL",56,18,238,"43,081.0", ,4,31,23
+"May 24, 1990 (33 years old)","6'4""",Berlin,Germany  ,10953,Lars Flüggen,Hamburg,3,2,74,"10,850.0", ,0,5,0
+"October 16, 1992 (30 years old)","6'2""",Ljubljana,Slovenia  ,17653,Tjasa Kotnik,Ljubljana,1,1,34,"3,870.0", ,1,4,1
+"April 26, 1996 (27 years old)","5'9""",Taipei,Chinese Taipei  ,18176,Chin-Ju Wang,Pingtung,0,0,9,590.0,1,1,1,1
+"August 13, 1990 (32 years old)","6'8""",Joao Pessoa,Brazil  ,10960,"Joalisson ""Jô"" Laurindo Gomes",Joao Pessoa,0,1,9,540.0,0,0,0,0
+"September 13, 1983 (39 years old)","5'10""",Jyväskylä,Finland  ,4888,Erika Nystrom,CYPRUS,1,1,166,"9,771.0", ,6,2,1
+"October 25, 1991 (31 years old)","6'5""",Gijon,Spain  ,10401,César Menéndez Ortego,Lorca,0,0,30,"2,110.0", ,0,0,2
+"July 4, 1994 (28 years old)","6'6""",,Australia  ,14389,Thomas Hodges,,1,0,16,"3,388.0",0,2,1,1
+"March 2, 1980 (43 years old)","6'3""",Esmoriz,Portugal  ,2557,Roberto Mauro Silva Reis,S.M.Feira,0,0,7,463.0,0,2,0,0
+"February 3, 2002 (21 years old)","6'2""",Odense,Denmark  ,17201,Clara Windeleff,Odense,1,0,13,"1,040.0", ,0,0,0
+"November 2, 1990 (32 years old)","6'2""",Vantaa,Finland  ,13629,Jyrki Nurminen,Vantaa,2,1,29,"3,230.0", ,0,0,3
+"March 23, 1996 (27 years old)","6'4""",Graz,Austria  ,14710,Moritz Bernd Pristauz-Telsnigg,Wien,0,2,69,"9,556.0", ,1,2,2
+"September 23, 1992 (30 years old)","6'4""",Cesena ,Italy  ,15116,Marco Caminati,Cesena ,2,2,38,"5,005.0", ,0,1,0
+"February 6, 1985 (38 years old)","5'11""",Doetinchem,Netherlands  ,5292,Sanne Keizer,Haarlem,4,8,159,"19,519.0", ,7,2,6
+"December 13, 1994 (28 years old)","6'8""",Hengelo,Netherlands  ,18616,Stefan Boermans,The Hague,3,3,29,"6,170.0", ,2,2,1
+"December 31, 1998 (24 years old)","6'0""",Wien,Austria  ,15734,Moritz Fabian Kindl,Wien,1,3,35,"2,410.0", ,3,0,0
+"January 17, 1998 (25 years old)","6'4""",Munich,Germany  ,16263,Simon Kulzer,Baldham,1,2,28,"2,072.0", ,4,0,1
+"August 29, 1990 (32 years old)","6'4""","Baltimore, MD",United States  ,16000,Travis Mewhirter,"Hermosa Beach, CA",0,0,16,887.0, ,1,0,1
+"May 13, 1996 (27 years old)","5'10""","Hermosa Beach, CA",United States  ,14958,Zana Muno,"Manhattan Beach, CA",1,0,12,"1,135.0", ,0,0,1
+"July 28, 1998 (24 years old)","6'0""",Christchurch,New Zealand  ,20511,Alice Zeimann,,1,0,9,"1,600.0",0,1,0,0
+"November 11, 2001 (21 years old)",,,Netherlands  ,18966,Nadine Everaert,,0,2,5,265.0,1,1,0,0
+"January 1, 1990 (33 years old)","6'0""",Bangkok,Thailand  ,11021,Prathip Sukto,SISAKET,0,1,2,85.0,0,0,0,0
+"May 22, 2002 (21 years old)","6'1""",Berlin,Germany  ,19450,Lui Wüst,,0,0,4,190.0,0,0,0,0
+"August 28, 1995 (27 years old)","6'4""",Kortrijk,Belgium  ,19699,Gilles Vandecaveye,Gent,0,0,8,775.0,1,0,2,0
+"April 28, 1998 (25 years old)","6'2""",Rostov-on-Don,Russia  ,15112,Elizaveta Zayonchkovskaya,Rostov-on-Don,0,0,16,746.0,0,3,0,1
+"October 14, 1985 (37 years old)","6'8""",Gorkiy,Russia  ,15526,Nikita Liamin,Nizgny Novgorod,2,1,57,"9,485.0", ,0,2,2
+"August 30, 1991 (31 years old)",,,Japan  ,18178,Miyu Sakamoto,,0,1,2,300.0,0,0,0,1
+"August 1, 1997 (25 years old)","5'9""","Richmond, BC",Canada  ,14209,Megan McNamara,"Delta, BC",0,3,35,"5,290.0", ,0,1,2
+"October 3, 1998 (24 years old)","6'4""",Emmen,Netherlands  ,16917,Katja Stam,Den Haug,3,2,39,"$120,099.85","7,500.0", ,4,3
+"August 21, 1986 (36 years old)","6'4""",Moscow,Russia  ,6883,Serguei Prokopiev,Moscow,0,2,80,"4,316.0", ,3,0,2
+"April 25, 1992 (31 years old)","6'5""",St. Petersburg,Russia  ,10788,Andrey Bolgov,St. Petersburg,0,2,13,469.0, ,0,2,0
+"November 3, 1985 (37 years old)","6'7""","Lakewood, CA",United States  ,17443,Paul Lotman,"San Diego, CA",0,1,4,"1,280.0", ,0,0,1
+"September 22, 1992 (30 years old)","5'10""",Bremen,Germany  ,11760,Kim Behrens Van de Velde,Munster,0,1,52,"6,653.0", ,0,4,0
+"June 20, 1982 (41 years old)","6'1""","Newport Beach, CA",United States  ,7389,April Ross,"Costa Mesa, CA",27,9,152,"36,060.0", ,1,19,15
+"December 10, 1982 (40 years old)","6'6""",Itaboraí (RJ),Brazil  ,8000,Thiago Dealtry Barbosa,"Copacabana, Rio de Janeiro",0,1,77,"5,950.0", ,3,2,0
+"August 1, 1998 (24 years old)","5'11""",Sao Cristovao,Brazil  ,13802,"Eduarda ""Duda"" Santos Lisboa",Sergipe,20,5,81,"21,621.0", ,0,9,13
+"December 1, 1999 (23 years old)","5'10""",Belem,Brazil  ,18266,Rafael Andrew Lima de Carvalho,Joao Pessoa,2,0,2,200.0,0,0,0,0
+"March 26, 1991 (32 years old)","6'0""",Weilheim,Germany  ,10805,Victoria Bieneck,Berlin,3,4,95,"11,591.0", ,1,0,2
+"May 16, 1996 (27 years old)","6'1""","Temecula, CA",United States  ,14837,Jessica Gaffney,"Los Angeles, CA",0,0,9,"1,130.0", ,0,0,1
+"November 18, 1995 (27 years old)","5'11""",Mödling,Austria  ,13352,Teresa Strauss,Vienna,0,1,35,"2,151.0", ,0,0,2
+"January 21, 1995 (28 years old)","6'3""",Feldbach,Austria  ,13346,Florian Ertl,Graz,0,0,3,95.0,0,1,0,0
+"June 19, 1989 (34 years old)","6'4""",Montpellier,France  ,15029,Youssef Krou,Montpellier,3,2,73,"10,899.0", ,0,3,5
+"June 11, 2000 (23 years old)","5'10""",Breda,Netherlands  ,16918,Emi van Driel,Breda,3,0,35,"3,252.0", ,0,2,2
+"February 16, 1991 (32 years old)","6'5""","London, Canada",Poland  ,16787,Martin Chiniewicz,Warsaw,0,0,3,130.0,0,0,0,0
+"December 23, 1992 (30 years old)","6'4""",Odense,Denmark  ,13264,Morten Overgaard,Odense,1,0,5,322.0,1,0,0,0
+"September 30, 1986 (36 years old)","6'6""",Jastrzebie Zdrój,Poland  ,18187,Adrian Sdebel,Wroclaw,0,1,9,430.0,1,1,0,0
+"January 19, 2000 (23 years old)","6'4""",Brno,Czech Republic  ,17151,Jiri Sedlak,CZECH REPUBLIC,0,1,21,"1,730.0", ,3,0,0
+"November 19, 1992 (30 years old)","5'7""",Stockholm,Sweden  ,13941,Tina Thurin,Stockholm,0,0,8,460.0,0,0,0,1
+"June 21, 2002 (21 years old)","6'1""",Maschrauchen,Switzerland  ,18879,Annik Stähli,Bern,0,0,1,50.0,0,0,0,0
+"October 21, 1998 (24 years old)","6'4""",Narva,Estonia  ,15767,Dimitriy Korotkov,"Tallinn
+",0,0,4,170.0,0,0,0,0
+"May 22, 1992 (31 years old)","6'3""",Porto,Portugal  ,11764,Sebastiao Alves,Matosinhos,0,0,3,110.0,0,2,0,0
+"April 16, 1983 (40 years old)","6'4""",Cape Town,South Africa  ,7289,Grant Goldschmidt,Cape Town,0,0,25,"1,026.0",0,0,1,0
+"May 8, 1990 (33 years old)","6'6""","Richmond Hill, ON",Canada  ,9346,Sam Schachter,"Scarborough, ON",2,2,96,"$208,062.50","13,576.0", ,3,0
+"May 3, 1992 (31 years old)","6'2""","San Diego, CA",United States  ,15139,Kelley Larsen Kolinske,"Jamul, CA",3,3,53,"10,654.0", ,1,1,2
+"March 20, 1996 (27 years old)","5'11""",Waikerie,Australia  ,15386,Brittany Kendall,Adelaide,1,0,39,"3,122.0", ,3,0,1
+"July 1, 1991 (31 years old)","5'8""","Groveland, FL",United States  ,11148,Aurora Newgard Davis,"Groveland, FL",1,1,11,810.0, ,0,0,0
+"July 31, 1987 (35 years old)","6'3""",Kuldiga,Latvia  ,6874,Janis Smedins,Kuldiga,14,8,166,"27,641.0", ,4,7,10
+"October 15, 1994 (28 years old)","5'10""",Kremenchug,Ukraine  ,11813,Inna Makhno,Kyiv,2,1,51,"3,461.0", ,0,3,0
+"September 22, 1993 (29 years old)","5'9""",Oberwart,Austria  ,11649,Katharina Elisabeth Schützenhöfer,Wien,2,0,95,"11,728.0", ,0,3,2
+"February 20, 1998 (25 years old)","6'7""",Jurmala,Latvia  ,16268,Mihails Samoilovs,Jurmala,0,1,29,"$4,994.39","2,372.0", ,0,3
+"May 5, 2003 (20 years old)","6'0""",Sneek,Netherlands  ,19525,Brecht Piersma,Den Haag,0,0,4,610.0,0,0,0,0
+"August 31, 1989 (33 years old)","6'6""",Pambula,Australia  ,8410,Christopher McHugh,Adelaide,2,2,124,"12,730.0", ,2,2,2
+"November 9, 1983 (39 years old)","6'2""","Escuinapa, Sinaloa",Mexico  ,7145,Rodolfo Lombardo Ontiveros,"Mazatlan, Sinaloa",0,0,79,20,"$165,325.00","9,724.0",2,4
+"August 6, 1991 (31 years old)","6'2""",Zaporishya,Ukraine  ,9444,Sergiy Popov,Zaporishya,3,2,60,"6,106.0", ,0,3,1
+"October 17, 1992 (30 years old)","6'5""",Pancevo,Serbia  ,18536,Milos Milic,Pancevo,0,0,4,180.0,0,1,0,0
+"February 14, 2001 (22 years old)",,,Ukraine  ,18110,Anna Shumeiko,,0,1,1,70.0,0,0,0,0
+"September 12, 1996 (26 years old)","6'3""",João Pessoa,Brazil  ,14454,George Souto Maior Wanderley,João Pessoa,7,1,60,"12,496.0", ,1,3,4
+"June 18, 1987 (36 years old)","6'6""",Pordenone,Italy  ,11262,Alex Ranghieri,Rome,3,7,96,"14,911.0", ,1,2,3
+"November 1, 1998 (24 years old)","6'4""",Modena,Italy  ,17983,Samuele Cottafava,Modena,4,0,34,"6,685.0", ,2,1,3
+"April 12, 2003 (20 years old)",,Tunuyán,Argentina  ,20977,Maia Najul Rosas,,0,0,1,20.0,0,0,0,0
+"March 8, 1998 (25 years old)","5'11""",Prague,Czech Republic  ,15427,Tereza Pluharova,Prague,0,1,6,300.0,0,0,0,0
+"October 25, 2000 (22 years old)","6'3""",Moscow,Russia  ,17710,Pavel Shustrov,Moscow,0,0,5,230.0,0,0,0,2
+"March 17, 1990 (33 years old)","6'3""",Copenhagen,Denmark  ,15008,Jacob Cordua Stormly,Copenhagen,0,0,1,90.0,0,0,1,0
+"October 28, 1992 (30 years old)","6'3""",Kyiv,Ukraine  ,13532,Diana Mulenko Lunina,Kyiv,2,2,42,"3,948.0", ,0,4,2
+"July 27, 1994 (28 years old)","5'11""",Xinjiang,China  ,17591,Shuhui Wen,urumqi,6,0,9,"1,680.0",0,0,1,1
+"November 10, 1994 (28 years old)","6'8""",Aarhus,Denmark  ,15012,Kristoffer Abell,Odense,0,1,37,"$13,057.57","3,207.0", ,1,1
+"September 18, 1993 (29 years old)","6'4""",Minsk,Belarus  ,17357,Pavel Piatrushka,BELARUS,0,0,9,"$7,300","1,030.0",0,0,1
+"November 18, 2002 (20 years old)",,,Czech Republic  ,19395,Tomas Semerad,Czech Republic,0,1,15,"2,270.0",1,0,0,0
+"February 7, 1996 (27 years old)","6'3""",Moscow,Russia  ,15487,Taras Myskiv,RUSSIA,2,3,32,"4,989.0", ,0,3,0
+"August 17, 2000 (22 years old)","6'7""",Zurich,Switzerland  ,18580,Immanuel Zürcher,Zullilon,0,0,11,920.0,0,0,0,0
+"August 15, 1978 (44 years old)","6'3""","Santa Clara, CA",United States  ,1923,Kerri Walsh Jennings,"Manhattan Beach, CA",56,7,152,"35,896.0", ,0,20,13
+"March 17, 1985 (38 years old)","6'0""",Athens,Greece  ,4956,Vasiliki Arvaniti,Athens,3,7,184,"20,273.0", ,10,3,0
+"May 15, 1999 (24 years old)","6'8""",Muldestausee,Germany  ,16262,Robin Sowa,Berlin,0,2,31,"3,505.0", ,1,0,2
+"April 9, 1995 (28 years old)","6'6""",Uitgeest,Netherlands  ,15820,Jannes van der Ham,Den Haag,0,0,6,212.0,0,1,0,0
+"August 26, 1983 (39 years old)","6'6""",Almaty,Kazakhstan  ,8144,Alexey Sidorenko,Almaty,1,1,105,"6,513.0", ,3,1,0
+"February 21, 1993 (30 years old)","5'10""",Kiel,Germany  ,11615,Anna Behlen,Hamburg,1,0,14,"1,169.0", ,0,0,1
+"August 15, 1995 (27 years old)","6'6""",Tytuvenai,Lithuania  ,14472,Lukas Kazdailis,Vilnius,0,2,32,"2,943.0", ,0,0,0
+"April 10, 1997 (26 years old)","6'4""","Sioux Falls, SD",United States  ,20804,Taryn Kloth,"Sioux Falls, SD",4,1,14,"4,860.0",0,0,0,0
+"June 17, 1974 (49 years old)","5'9""",Santa Isabel (PA),Brazil  ,5885,Izabel Cristina Amaral Santos Bezerra,Santa Isabel (PA),0,1,8,172.0,0,1,1,0
+"March 10, 1991 (32 years old)","6'4""",Joao Pessoa,Brazil  ,9345,Vitor Araújo Gonçalves Felipe,Rio de janeiro,3,6,102,"17,623.0", ,3,6,2
+"February 13, 2002 (21 years old)",,Zaporizhia,Ukraine  ,20701,Veronika Zhukova,,0,1,1,70.0, ,0,0,0
+"August 9, 1987 (35 years old)","6'1""","Torrance, CA",United States  ,8458,Emily Day Capers,"Torrance, CA",3,2,99,"$226,711.24","12,864.0", ,3,1
+"February 23, 2002 (21 years old)","6'2""",Lipesk,Russia  ,16679,Mariia Bocharova,Obninsk,3,0,27,"2,960.0", ,0,1,0
+"June 24, 1996 (26 years old)","6'4""",Vienna,Austria  ,15466,Felix Friedl,Vienna,0,3,46,"2,870.0", ,4,0,0
+"September 2, 1997 (25 years old)","6'0""",Guasave,Mexico  ,15325,Josue Gaston Gaxiola Leyva,MEXICO,0,0,13,2,"$18,900","1,822.0",2,0
+"October 22, 1989 (33 years old)","5'9""",Bangkok,Thailand  ,8021,Manerat Tanarattha Udomchavee,Bangkok,1,1,85,"6,233.0", ,0,2,1
+"March 2, 1992 (31 years old)","6'5""",Chernigiv,Ukraine  ,15967,Oleksii Denin,Chernigiv,0,1,15,605.0,0,0,0,1
+"January 15, 1995 (28 years old)","6'8""",Rosario,Argentina  ,15252,Nicolás Capogrosso,Rosario,0,0,51,"$44,175.00","6,198.0", ,1,1
+"August 11, 1987 (35 years old)","5'11""",Bryansk,Russia  ,8994,Ekaterina Khomyakova Birlova,"Kaluwskaya oblast, Obninsk city",2,2,106,"12,090.0", ,1,1,3
+"May 7, 1995 (28 years old)",,,Denmark  ,21908,Mads Møllgaard,,0,0,2,160.0,0,0,0,0
+"July 15, 2004 (18 years old)","5'10""","Chicago, IL",Cyprus  ,17898,Daria Dasha Gusarova,Nicosia,0,0,13,"$3,500",930.0,0,0,0
+"May 17, 1989 (34 years old)","6'0""",Moscow,Russia  ,7757,Evgenia Ukolova,Moscow,2,2,133,"14,672.0", ,6,1,5
+"April 11, 1994 (29 years old)","6'8""",Innsbruck,Austria  ,13344,Martin Ermacora,Natters,0,3,64,"8,727.0", ,0,2,1
+"December 13, 1989 (33 years old)","6'0""",Sevilla,Spain  ,9599,Nazaret Florian Balbuena,Sevilla,0,0,6,84.0,0,2,0,0
+"May 7, 1996 (27 years old)","6'5""","Chicago, IL",United States  ,16410,Earl Schultz,"Chicago, IL",0,0,2,125.0,0,0,1,0
+"January 21, 1991 (32 years old)","5'8""","Novi, MI",United States  ,16015,Kimberly Hildreth,"Novi, MI",0,0,9,545.0, ,0,1,0
+"November 11, 2000 (22 years old)","6'1""",Maia,Portugal  ,17921,Hugo Campos,Maia,0,1,15,"2,210.0",0,1,0,0
+"October 15, 1990 (32 years old)","5'7""",Bogotá,Colombia  ,8462,"Claudia ""Gorda"" Patricia Galindo Rodriguez",Bogotá,1,1,32,"$10,375.30","1,795.0", ,0,0
+"August 29, 1998 (24 years old)","6'1""",Puck,Poland  ,18100,Agata Ceynowa,Puck,0,2,40,"2,650.0", ,3,1,0
+"March 21, 1988 (35 years old)","6'9""",Nieuwegein,Netherlands  ,9130,Robert Meeuwsen,Den Haag,7,7,122,"24,257.0", ,2,10,7
+"October 31, 1986 (36 years old)","6'6""",Tunisia,Qatar  ,17700,Benlouaer Ziad,Doha,0,1,7,535.0,1,0,0,0
+"February 14, 1985 (38 years old)","5'3""",Kanagawa Prefecture,Japan  ,10381,Miyuki Matsumura,"Shibuya-ku, Tokyo",0,2,15,576.0,1,1,0,0
+"July 30, 1988 (34 years old)","6'9""",Essen,Germany  ,9556,Alexander Walkenhorst,Essen,0,4,52,"6,393.0", ,0,1,2
+"October 23, 1980 (42 years old)","6'5""","Sumi, Ukraine",Kazakhstan  ,8249,Alexandr Dyachenko,Sumy,1,1,99,"7,153.0", ,5,1,1
+"January 24, 1994 (29 years old)","5'9""",Copenhagen,Denmark  ,17623,Signe Zibrandtsen Haaning,Copenhagen,0,0,3,165.0,0,1,1,0
+"December 14, 1991 (31 years old)","6'7""",Porsgrunn,Norway  ,13940,Daniel Bergerud,Oslo,0,1,27,"1,372.0", ,0,1,0
+"October 11, 1995 (27 years old)","6'3""",Wroclaw,Poland  ,20527,Jakub Zdybek,,0,1,11,"1,390.0",0,1,0,0
+"April 13, 1986 (37 years old)","6'1""",Turnov,Czech Republic  ,8231,Jan Dumek,Mnichovo Hradište,0,2,104,"5,766.0", ,5,0,0
+"May 1, 1996 (27 years old)","6'0""","Georgetown, ON",Canada  ,15321,Jake MacNeil,"Halton Hills, ON",0,0,39,6,"$3,621.96","2,618.0",1,0
+"January 17, 1996 (27 years old)","6'1""",Nantong,China  ,15495,Lvwen Yuan,Beijing,1,0,23,"2,521.0",1,4,1,0
+"November 14, 1997 (25 years old)","6'3""","Metairie, LA",United States  ,16101,Evan Cory,"Metairie, LA",0,1,8,"1,290.0", ,0,0,0
+"August 11, 1995 (27 years old)","6'0""",,Czech Republic  ,14698,Nicole Dostalova,,0,1,3,$200,127.0,0,0,0
+"August 17, 2004 (18 years old)",,,Italy  ,20317,Margherita Tega,,0,0,3,170.0,0,1,0,0
+"February 2, 1990 (33 years old)","6'6""",Vienna,Austria  ,13016,Daniel Müllner,Vienna,0,0,70,"3,998.0", ,0,1,0
+"January 11, 1997 (26 years old)","6'1""",Warsaw,Poland  ,17583,Marta Lodej,Warsaw,0,1,33,"2,540.0", ,2,3,0
+"August 19, 2000 (22 years old)","5'9""",Cham,Switzerland  ,17122,Mara Betschart,Steinhausen,0,0,20,$927.71,895.0, ,0,1
+"December 30, 1989 (33 years old)","6'5""","Manhattan Beach, CA",United States  ,7091,Alix Klineman,"Manhattan Beach, CA",6,1,26,"7,750.0", ,0,2,3
+"July 6, 1975 (47 years old)","6'4""","Brasilia, DF",Brazil  ,618,Harley Marques Silva,Joao Pessoa,16,12,147,"19,721.0", ,4,7,11
+"November 27, 1990 (32 years old)","6'1""",João Pessoa (PB),Brazil  ,9344,Álvaro Morais Filho,Joao Pessoa,5,5,99,"18,302.0", ,2,6,4
+"September 18, 1994 (28 years old)","6'9""",Kloten,Switzerland  ,14650,Adrian Heidrich,Kloten,1,2,65,"8,958.0", ,0,1,1
+"December 7, 1985 (37 years old)","6'8""",Vitoria,Brazil  ,7998,Alison Conte Cerutti,"Manhattan Beach, CA",28,9,152,"35,524.0", ,0,18,15
+"May 6, 1992 (31 years old)","6'5""",Mount Maunganui,New Zealand  ,11848,Ben O'Dea,Tauranga,0,1,4,400.0,0,1,0,0
+"February 3, 1996 (27 years old)","6'2""",Wroclaw,Poland  ,17374,Aleksandra Gromadowska,Wroclaw,0,1,19,"1,305.0",0,1,0,0
+"March 20, 1988 (35 years old)","5'10""",Bangkok,Thailand  ,8018,Julaluk Varapatsorn Radarong,Bangkod,1,0,90,"7,418.0", ,1,2,1
+"January 14, 1992 (31 years old)","6'0""",Milan,Italy  ,19081,Sara Breidenbach,Milan,0,0,1,30.0,0,0,0,0
+"February 11, 1998 (25 years old)","6'3""","Los Cristianos, Arona,Tenerife",Spain  ,15404,Alejandro Huerta Pastor,Lorca,1,2,34,"3,680.0", ,1,1,2
+"November 12, 1989 (33 years old)","6'4""","Santa Barbara, CA",United States  ,13467,Miles Evans,"Santa Barbara, CA",1,1,45,"5,680.0", ,0,5,1
+"October 21, 1991 (31 years old)","5'9""",Moscow,Russia  ,11303,Yulia Abalakina,Moscow,0,2,41,"3,026.0", ,0,0,0
+"July 4, 1993 (29 years old)","6'8""",Gothenburg,Sweden  ,17375,Alexander Annerstedt,Gothenburg,0,0,13,630.0,0,1,1,0
+"June 27, 1993 (29 years old)","6'5""",Ilawa,Poland  ,13069,Maciej Rudol,Ilawa,2,1,89,"9,932.0", ,1,1,2
+"April 14, 1997 (26 years old)","6'1""",Nuremberg,Germany  ,15727,Viktoria Seeber,Berlin,1,0,6,570.0,0,2,0,0
+"February 4, 1985 (38 years old)","6'7""",Odense,Denmark  ,8930,Daniel Thomsen,Odense,1,0,13,850.0,0,0,0,0
+"February 5, 1997 (26 years old)","6'0""",Milano,Italy  ,15783,Gaia Traballi,Senago,0,3,20,"1,916.0",0,4,1,0
+"March 22, 1997 (26 years old)","5'11""",Cugir,Romania  ,14793,Ioana-Alexandra Ordean,Timisoara,0,1,6,305.0,0,1,0,0
+"June 28, 1988 (34 years old)","5'11""",Prague,Czech Republic  ,7763,Marketa Slukova,Prague,6,4,123,"20,949.0", ,1,3,2
+"August 6, 1985 (37 years old)","6'6""",Havlickuv Brod,Czech Republic  ,14320,Marcel Myslivecek,Prague,0,0,7,330.0,1,0,1,0
+"October 4, 1989 (33 years old)","6'4""",Hartberg,Austria  ,9549,Jörg Wutzl,Wien,1,0,52,"2,634.0", ,0,1,0
+"February 18, 1989 (34 years old)","6'3""",Fujian,China  ,7238,Chen Xue,"Fuzhou, Fujian",18,7,151,"28,414.0", ,3,16,13
+"June 23, 1996 (26 years old)","5'8""","Naperville, IL",United States  ,16798,Molly Turner,"Naperville, IL",1,0,9,"1,300.0", ,0,2,1
+"July 20, 2000 (22 years old)","6'0""","Madrid, Spain",England  ,16932,Luis Javier Bello Fernandez Echevarria,London,1,0,39,"$9,471.00","2,795.0", ,0,3
+"April 9, 1978 (45 years old)","6'1""",Gonbad Kavoos,Iran  ,11808,Rahman Raoufi,Teheran,1,0,23,"1,501.0",1,2,4,4
+"October 5, 1989 (33 years old)","6'6""",Moscow,Russia  ,13027,Maksim Hudyakov,Moscow,4,0,42,"3,296.0", ,0,0,2
+"February 19, 1993 (30 years old)","6'8""",Sverdlovsk-45,Russia  ,19110,Anton Kislytsyn,Saint Petersburg,1,1,14,"1,100.0",0,3,0,0
+"June 11, 1982 (41 years old)","6'1""","Culver City, CA",United States  ,5323,John Mayer,"Los Angeles, CA",2,2,31,"3,212.0", ,0,0,0
+"July 15, 2001 (21 years old)","5'8""",Croyde,England  ,16712,Ellie Austin,Croyde,0,0,2,80.0,0,0,0,0
+"July 10, 2000 (22 years old)","6'4""",Valmiera,Latvia  ,18161,Ardis Daniels Bedritis,Sunisi,0,0,16,"1,130.0", ,0,0,1
+"June 24, 1994 (28 years old)","5'11""",München,Germany  ,13144,Sandra Ittlinger,Berlin,0,2,59,"$94,520.00","10,080.0", ,1,0
+"June 5, 1995 (28 years old)","6'6""",Victoria,Brazil  ,15356,Vinicius Rezende Costa Freitas,Victoria,1,0,19,"2,315.0",1,1,0,1
+"December 26, 2001 (21 years old)","6'1""","Palm Beach Gardens, FL",United States  ,18936,Madelyne May Anderson,"Palm Beach Gardens, FL",0,0,4,690.0,0,0,1,0
+"April 8, 2001 (22 years old)","5'10""",Nantong,China  ,17570,Jinjin Zeng,Beijing,1,1,47,"5,330.0", ,2,1,0
+"February 20, 1996 (27 years old)","5'10""",Praha,Czech Republic  ,14767,Anna Komarkova,Praha,0,1,3,$200,112.0,0,0,0
+"September 20, 2001 (21 years old)","6'4""","Boskoop
+",Netherlands  ,20383,Sam van Der Loo,"The Hague
+",0,0,8,645.0,0,1,1,0
+"March 10, 1984 (39 years old)","5'8""",Gislaved,Sweden  ,7916,Sofia Ögren,Stockholm,0,0,11,622.0,1,0,0,1
+"October 23, 1992 (30 years old)","5'6""",Odense,Denmark  ,11663,Line Trans Hansen,Odense,1,0,22,926.0, ,0,1,0
+"April 9, 1988 (35 years old)","5'8""",Gävle,Sweden  ,12487,Sigrid Simonsson,Goteborg,0,2,11,690.0,0,2,0,0
+"December 22, 1988 (34 years old)",,,Italy  ,16191,Eleonora Gili,,0,1,1,140.0,0,0,0,0
+"December 19, 2001 (21 years old)","6'6""",Moscow,Russia  ,18458,Dmitrii Veretiuk,Moscow,1,0,5,320.0,0,0,0,1
+"December 20, 2001 (21 years old)","6'3""",Umea,Sweden  ,17928,David Åhman,Umea,6,0,33,"6,230.0", ,0,2,3
+"December 8, 1982 (40 years old)","5'10""",Magosa,Türkiye  ,8862,Bugra Eryildiz,famagusta,0,0,3,225.0,1,0,1,0
+"May 9, 1997 (26 years old)","5'10""","Helsinki
+",Finland  ,14007,Ida Sinisalo,Helsinki,0,1,25,"1,696.0", ,1,0,0
+"January 4, 1989 (34 years old)","6'0""",Perugia,Italy  ,8503,Laura Giombini,Perugia,0,0,73,"4,501.0", ,1,0,1
+"September 10, 1984 (38 years old)","6'7""",Tunisia,Qatar  ,19678,Saifeddine Aziz Binaziz Elmajid,Doha,0,1,8,645.0,1,0,0,0
+"December 27, 1999 (23 years old)",,,Netherlands  ,17208,Esmee Priem,,0,0,3,210.0,0,0,1,0
+"May 16, 1992 (31 years old)","5'11""",Rio de Janeiro,Brazil  ,11628,Ramon Ferreira Gomes,Rido de Janeiro,0,0,4,283.0,0,0,0,1
+"August 11, 1990 (32 years old)","6'1""",St. Petersburg,Russia  ,12509,Ekaterina Syrtseva,St.-Petersburg,1,0,67,"5,859.0", ,1,2,1
+"November 23, 1993 (29 years old)","5'11""",Havana,Cuba  ,14092,Mailen Deliz Tamayo,LA HABANA ,0,0,1,60.0,0,0,0,0
