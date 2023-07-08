@@ -15,7 +15,7 @@ class PlayersSpider(scrapy.Spider):
             for line in file:
                 code = line.strip()
                 player_codes.append(code)
-        # player_codes = [11750, 1981]
+        # player_codes = [11750, 1981] Real range of players codes are in between 1 and to 22454 on July 5th. 2023
         for code in player_codes:
             url = f"http://www.bvbinfo.com/Player.asp?ID={code}"
             print("URL: ", url)
@@ -46,7 +46,6 @@ class PlayersSpider(scrapy.Spider):
             elif row_head == "Height":
                 player["height_in"] = row_data
         # total stats for international plays
-        # print("MARYNA total selecting stats")
         # getting all rows with attribute
         table_headers_selectors = response.xpath(
             "//td[@class='clsPlayerCategoryHeader']"
