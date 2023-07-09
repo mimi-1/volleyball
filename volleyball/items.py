@@ -45,9 +45,8 @@ class VolleyballPlayer(scrapy.Item):
     total_second = scrapy.Field()
     total_third = scrapy.Field()
     total_forth = scrapy.Field()
-    total_points1 = scrapy.Field()
-    total_points2 = scrapy.Field()
-    total_points3 = scrapy.Field()
+    total_points = scrapy.Field()
+    podium_percent = scrapy.Field()
 
 
 class VolleyballPlayerRecords(scrapy.Item):  # Only international records
