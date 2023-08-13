@@ -1,0 +1,301 @@
+,Finish,Country,Team_Name,Team_FIVB_ID,FIVB_ID,BVB_ID,FIVB_Name,TourniStartDate,TourniEndDate,TournLocation,TypeOfEvent,TournID,gender,isBlack_Challenge,isBlack_Elite16
+0,1,Brazil,Carolina Solberg Salgado / Barbara Seixas De Freitas,104079 / 104505,104079,5887,Carolina Solberg Salgado,2022-03-16,2022-03-20,"Tlaxcala, Mexico",Challenge,3986,F,True,False
+1,1,Brazil,Carolina Solberg Salgado / Barbara Seixas De Freitas,104079 / 104505,104505,8022,Barbara Seixas De Freitas,2022-03-16,2022-03-20,"Tlaxcala, Mexico",Challenge,3986,F,True,False
+2,2,Netherlands,Raisa Schoon / Katja Stam,153703 / 156328,153703,16919,Raisa Schoon,2022-03-16,2022-03-20,"Tlaxcala, Mexico",Challenge,3986,F,True,False
+3,2,Netherlands,Raisa Schoon / Katja Stam,153703 / 156328,156328,16917,Katja Stam,2022-03-16,2022-03-20,"Tlaxcala, Mexico",Challenge,3986,F,True,False
+4,3,Brazil,Elize Secomandi Maia / Thamela Coradello Galil,120937 / 163501,120937,9593,Elize Secomandi Maia,2022-03-16,2022-03-20,"Tlaxcala, Mexico",Challenge,3986,F,True,False
+5,3,Brazil,Elize Secomandi Maia / Thamela Coradello Galil,120937 / 163501,163501,18464,Thamela Coradello Galil,2022-03-16,2022-03-20,"Tlaxcala, Mexico",Challenge,3986,F,True,False
+6,1,United States,Sara Hughes / Kelley Kolinske,135571 / 146695,135571,13154,Sara Hughes,2022-04-14,2022-04-17,"Itapema, Brazil",Challenge,3988,F,True,False
+7,1,United States,Sara Hughes / Kelley Kolinske,135571 / 146695,146695,15139,Kelley Kolinske,2022-04-14,2022-04-17,"Itapema, Brazil",Challenge,3988,F,True,False
+8,2,Netherlands,Raisa Schoon / Katja Stam,153703 / 156328,153703,16919,Raisa Schoon,2022-04-14,2022-04-17,"Itapema, Brazil",Challenge,3988,F,True,False
+9,2,Netherlands,Raisa Schoon / Katja Stam,153703 / 156328,156328,16917,Katja Stam,2022-04-14,2022-04-17,"Itapema, Brazil",Challenge,3988,F,True,False
+10,3,Brazil,Andressa Cavalcanti Ramalho / Vitoria De Souza Rodrigues,142309 / 156492,142309,14458,Andressa Cavalcanti Ramalho,2022-04-14,2022-04-17,"Itapema, Brazil",Challenge,3988,F,True,False
+11,3,Brazil,Andressa Cavalcanti Ramalho / Vitoria De Souza Rodrigues,142309 / 156492,156492,16883,Vitoria De Souza Rodrigues,2022-04-14,2022-04-17,"Itapema, Brazil",Challenge,3988,F,True,False
+12,1,Brazil,Carolina Solberg Salgado / Barbara Seixas De Freitas,104079 / 104505,104079,5887,Carolina Solberg Salgado,2022-05-05,2022-05-08,"Doha, Qatar",Challenge,4054,F,True,False
+13,1,Brazil,Carolina Solberg Salgado / Barbara Seixas De Freitas,104079 / 104505,104505,8022,Barbara Seixas De Freitas,2022-05-05,2022-05-08,"Doha, Qatar",Challenge,4054,F,True,False
+14,2,Germany,Chantal Laboureur / Sarah Schulz,120750 / 153932,120750,9373,Chantal Laboureur,2022-05-05,2022-05-08,"Doha, Qatar",Challenge,4054,F,True,False
+15,2,Germany,Chantal Laboureur / Sarah Schulz,120750 / 153932,153932,16916,Sarah Schulz,2022-05-05,2022-05-08,"Doha, Qatar",Challenge,4054,F,True,False
+16,3,Switzerland,Tanja Huberli / Nina Brunner,132614 / 135579,132614,11625,Tanja Huberli,2022-05-05,2022-05-08,"Doha, Qatar",Challenge,4054,F,True,False
+17,3,Switzerland,Tanja Huberli / Nina Brunner,132614 / 135579,135579,13151,Nina Brunner,2022-05-05,2022-05-08,"Doha, Qatar",Challenge,4054,F,True,False
+18,1,United States,Kristen Nuss / Taryn Kloth,162432 / 184611,162432,17607,Kristen Nuss,2022-05-19,2022-05-22,"Kusadasi, Türkiye",Challenge,4056,F,True,False
+19,1,United States,Kristen Nuss / Taryn Kloth,162432 / 184611,184611,20804,Taryn Kloth,2022-05-19,2022-05-22,"Kusadasi, Türkiye",Challenge,4056,F,True,False
+20,2,Australia,Mariafe Artacho Del Solar / Taliqua Clancy,118988 / 125172,118988,8395,Mariafe Artacho Del Solar,2022-05-19,2022-05-22,"Kusadasi, Türkiye",Challenge,4056,F,True,False
+21,2,Australia,Mariafe Artacho Del Solar / Taliqua Clancy,118988 / 125172,125172,10795,Taliqua Clancy,2022-05-19,2022-05-22,"Kusadasi, Türkiye",Challenge,4056,F,True,False
+22,3,United States,Sarah Sponcil / Terese Cannon,139854 / 162448,139854,14959,Sarah Sponcil,2022-05-19,2022-05-22,"Kusadasi, Türkiye",Challenge,4056,F,True,False
+23,3,United States,Sarah Sponcil / Terese Cannon,139854 / 162448,162448,17069,Terese Cannon,2022-05-19,2022-05-22,"Kusadasi, Türkiye",Challenge,4056,F,True,False
+24,1,Australia,Mariafe Artacho Del Solar / Taliqua Clancy,118988 / 125172,118988,8395,Mariafe Artacho Del Solar,2022-07-14,2022-07-17,"Espinho, Portugal",Challenge,4058,F,True,False
+25,1,Australia,Mariafe Artacho Del Solar / Taliqua Clancy,118988 / 125172,125172,10795,Taliqua Clancy,2022-07-14,2022-07-17,"Espinho, Portugal",Challenge,4058,F,True,False
+26,2,United States,Sarah Schermerhorn / Corinne Quiggle,140553 / 157794,140553,16898,Sarah Schermerhorn,2022-07-14,2022-07-17,"Espinho, Portugal",Challenge,4058,F,True,False
+27,2,United States,Sarah Schermerhorn / Corinne Quiggle,140553 / 157794,157794,16376,Corinne Quiggle,2022-07-14,2022-07-17,"Espinho, Portugal",Challenge,4058,F,True,False
+28,3,Brazil,Andressa Cavalcanti Ramalho / Vitoria De Souza Rodrigues,142309 / 156492,142309,14458,Andressa Cavalcanti Ramalho,2022-07-14,2022-07-17,"Espinho, Portugal",Challenge,4058,F,True,False
+29,3,Brazil,Andressa Cavalcanti Ramalho / Vitoria De Souza Rodrigues,142309 / 156492,156492,16883,Vitoria De Souza Rodrigues,2022-07-14,2022-07-17,"Espinho, Portugal",Challenge,4058,F,True,False
+30,1,Netherlands,Mexime Van Driel / Emma Piersma,151976 / 163002,151976,17054,Mexime Van Driel,2022-07-21,2022-07-24,"Agadir, Morocco",Challenge,4060,F,True,False
+31,1,Netherlands,Mexime Van Driel / Emma Piersma,151976 / 163002,163002,17791,Emma Piersma,2022-07-21,2022-07-24,"Agadir, Morocco",Challenge,4060,F,True,False
+32,2,Czechia,Barbora Hermannova / Marie-Sara Stochlova,120746 / 148474,120746,9361,Barbora Hermannova,2022-07-21,2022-07-24,"Agadir, Morocco",Challenge,4060,F,True,False
+33,2,Czechia,Barbora Hermannova / Marie-Sara Stochlova,120746 / 148474,148474,15756,Marie-Sara Stochlova,2022-07-21,2022-07-24,"Agadir, Morocco",Challenge,4060,F,True,False
+34,3,Italy,Marta Menegatti / Valentina Gottardi,118204 / 181183,118204,7849,Marta Menegatti,2022-07-21,2022-07-24,"Agadir, Morocco",Challenge,4060,F,True,False
+35,3,Italy,Marta Menegatti / Valentina Gottardi,118204 / 181183,181183,20460,Valentina Gottardi,2022-07-21,2022-07-24,"Agadir, Morocco",Challenge,4060,F,True,False
+36,1,Finland,Taru Lahti-Liukkonen / Niina Ahtiainen,104781 / 139764,104781,7914,Taru Lahti-Liukkonen,2022-10-13,2022-10-16,"Sun Island, Maldives",Challenge,3996,F,True,False
+37,1,Finland,Taru Lahti-Liukkonen / Niina Ahtiainen,104781 / 139764,139764,14008,Niina Ahtiainen,2022-10-13,2022-10-16,"Sun Island, Maldives",Challenge,3996,F,True,False
+38,2,Austria,Lena Plesiutschnig / Katharina Schutzenhofer,132663 / 132706,132663,11650,Lena Plesiutschnig,2022-10-13,2022-10-16,"Sun Island, Maldives",Challenge,3996,F,True,False
+39,2,Austria,Lena Plesiutschnig / Katharina Schutzenhofer,132663 / 132706,132706,11649,Katharina Schutzenhofer,2022-10-13,2022-10-16,"Sun Island, Maldives",Challenge,3996,F,True,False
+40,3,Finland,Anniina Parkkinen / Sara Sinisalo,137416 / 173488,137416,13428,Anniina Parkkinen,2022-10-13,2022-10-16,"Sun Island, Maldives",Challenge,3996,F,True,False
+41,3,Finland,Anniina Parkkinen / Sara Sinisalo,137416 / 173488,173488,19512,Sara Sinisalo,2022-10-13,2022-10-16,"Sun Island, Maldives",Challenge,3996,F,True,False
+42,1,Czechia,Barbora Hermannova / Marie-Sara Stochlova,120746 / 148474,120746,9361,Barbora Hermannova,2022-10-22,2022-10-25,"Dubai, United Arab Emirates",Challenge,4128,F,True,False
+43,1,Czechia,Barbora Hermannova / Marie-Sara Stochlova,120746 / 148474,148474,15756,Marie-Sara Stochlova,2022-10-22,2022-10-25,"Dubai, United Arab Emirates",Challenge,4128,F,True,False
+44,2,China,Xinyi Xia / Meimei Lin,141784 / 168331,141784,14924,Xinyi Xia,2022-10-22,2022-10-25,"Dubai, United Arab Emirates",Challenge,4128,F,True,False
+45,2,China,Xinyi Xia / Meimei Lin,141784 / 168331,168331,14923,Meimei Lin,2022-10-22,2022-10-25,"Dubai, United Arab Emirates",Challenge,4128,F,True,False
+46,3,United States,Katie Horton / Julia Scoles,168577 / 182816,168577,15598,Katie Horton,2022-10-22,2022-10-25,"Dubai, United Arab Emirates",Challenge,4128,F,True,False
+47,3,United States,Katie Horton / Julia Scoles,168577 / 182816,182816,19577,Julia Scoles,2022-10-22,2022-10-25,"Dubai, United Arab Emirates",Challenge,4128,F,True,False
+48,1,Germany,Julia Sude / Isabel Schneider,105040 / 125057,105040,8417,Julia Sude,2022-10-27,2022-10-30,"Dubai, United Arab Emirates",Challenge,4130,F,True,False
+49,1,Germany,Julia Sude / Isabel Schneider,105040 / 125057,125057,10827,Isabel Schneider,2022-10-27,2022-10-30,"Dubai, United Arab Emirates",Challenge,4130,F,True,False
+50,2,United States,Molly Turner / Madelyne Anderson,170643 / 170672,170643,16798,Molly Turner,2022-10-27,2022-10-30,"Dubai, United Arab Emirates",Challenge,4130,F,True,False
+51,2,United States,Molly Turner / Madelyne Anderson,170643 / 170672,170672,18936,Madelyne Anderson,2022-10-27,2022-10-30,"Dubai, United Arab Emirates",Challenge,4130,F,True,False
+52,3,Thailand,Taravadee Naraphornrapat / Worapeerachayakorn Kongphopsarutawadee,138962 / 150542,138962,13873,Taravadee Naraphornrapat,2022-10-27,2022-10-30,"Dubai, United Arab Emirates",Challenge,4130,F,True,False
+53,3,Thailand,Taravadee Naraphornrapat / Worapeerachayakorn Kongphopsarutawadee,138962 / 150542,150542,18155,Worapeerachayakorn Kongphopsarutawadee,2022-10-27,2022-10-30,"Dubai, United Arab Emirates",Challenge,4130,F,True,False
+54,1,United States,Sara Hughes / Kelly Cheng,135571 / 140066,135571,13154,Sara Hughes,2022-11-23,2022-11-27,"Torquay, Australia",Challenge,3980,F,True,False
+55,1,United States,Sara Hughes / Kelly Cheng,135571 / 140066,140066,14478,Kelly Cheng,2022-11-23,2022-11-27,"Torquay, Australia",Challenge,3980,F,True,False
+56,2,China,Lvwen Yuan / Jie Dong,146052 / 162511,146052,15495,Lvwen Yuan,2022-11-23,2022-11-27,"Torquay, Australia",Challenge,3980,F,True,False
+57,2,China,Lvwen Yuan / Jie Dong,146052 / 162511,162511,17565,Jie Dong,2022-11-23,2022-11-27,"Torquay, Australia",Challenge,3980,F,True,False
+58,3,China,Xinyi Xia / Meimei Lin,141784 / 168331,141784,14924,Xinyi Xia,2022-11-23,2022-11-27,"Torquay, Australia",Challenge,3980,F,True,False
+59,3,China,Xinyi Xia / Meimei Lin,141784 / 168331,168331,14923,Meimei Lin,2022-11-23,2022-11-27,"Torquay, Australia",Challenge,3980,F,True,False
+60,1,China,Chen Xue / Xinyi Xia,104438 / 141784,104438,7238,Chen Xue,2023-03-06,2023-03-09,"Itapema, Brazil",Challenge,4169,F,True,False
+61,1,China,Chen Xue / Xinyi Xia,104438 / 141784,141784,14924,Xinyi Xia,2023-03-06,2023-03-09,"Itapema, Brazil",Challenge,4169,F,True,False
+62,2,Brazil,Carolina Solberg Salgado / Barbara Seixas De Freitas,104079 / 104505,104079,5887,Carolina Solberg Salgado,2023-03-06,2023-03-09,"Itapema, Brazil",Challenge,4169,F,True,False
+63,2,Brazil,Carolina Solberg Salgado / Barbara Seixas De Freitas,104079 / 104505,104505,8022,Barbara Seixas De Freitas,2023-03-06,2023-03-09,"Itapema, Brazil",Challenge,4169,F,True,False
+64,3,United States,Sarah Sponcil / Terese Cannon,139854 / 162448,139854,14959,Sarah Sponcil,2023-03-06,2023-03-09,"Itapema, Brazil",Challenge,4169,F,True,False
+65,3,United States,Sarah Sponcil / Terese Cannon,139854 / 162448,162448,17069,Terese Cannon,2023-03-06,2023-03-09,"Itapema, Brazil",Challenge,4169,F,True,False
+66,1,United States,Kristen Nuss / Taryn Kloth,162432 / 184611,162432,17607,Kristen Nuss,2023-03-16,2023-03-19,"La Paz, Mexico",Challenge,4167,F,True,False
+67,1,United States,Kristen Nuss / Taryn Kloth,162432 / 184611,184611,20804,Taryn Kloth,2023-03-16,2023-03-19,"La Paz, Mexico",Challenge,4167,F,True,False
+68,2,United States,Savannah Simo / Toni Rodriguez,162244 / 187527,162244,17552,Savannah Simo,2023-03-16,2023-03-19,"La Paz, Mexico",Challenge,4167,F,True,False
+69,2,United States,Savannah Simo / Toni Rodriguez,162244 / 187527,187527,19441,Toni Rodriguez,2023-03-16,2023-03-19,"La Paz, Mexico",Challenge,4167,F,True,False
+70,3,Brazil,Taina Silva Bigi / Victoria Lopes Pereira Tosta,142873 / 146801,142873,14460,Taina Silva Bigi,2023-03-16,2023-03-19,"La Paz, Mexico",Challenge,4167,F,True,False
+71,3,Brazil,Taina Silva Bigi / Victoria Lopes Pereira Tosta,142873 / 146801,146801,15283,Victoria Lopes Pereira Tosta,2023-03-16,2023-03-19,"La Paz, Mexico",Challenge,4167,F,True,False
+72,1,Italy,Marta Menegatti / Valentina Gottardi,118204 / 181183,118204,7849,Marta Menegatti,2023-04-13,2023-04-16,"Saquarema, Brazil",Challenge,4171,F,True,False
+73,1,Italy,Marta Menegatti / Valentina Gottardi,118204 / 181183,181183,20460,Valentina Gottardi,2023-04-13,2023-04-16,"Saquarema, Brazil",Challenge,4171,F,True,False
+74,2,Brazil,Taina Silva Bigi / Victoria Lopes Pereira Tosta,142873 / 146801,142873,14460,Taina Silva Bigi,2023-04-13,2023-04-16,"Saquarema, Brazil",Challenge,4171,F,True,False
+75,2,Brazil,Taina Silva Bigi / Victoria Lopes Pereira Tosta,142873 / 146801,146801,15283,Victoria Lopes Pereira Tosta,2023-04-13,2023-04-16,"Saquarema, Brazil",Challenge,4171,F,True,False
+76,3,Brazil,Andressa Cavalcanti Ramalho / Vitoria De Souza Rodrigues,142309 / 156492,142309,14458,Andressa Cavalcanti Ramalho,2023-04-13,2023-04-16,"Saquarema, Brazil",Challenge,4171,F,True,False
+77,3,Brazil,Andressa Cavalcanti Ramalho / Vitoria De Souza Rodrigues,142309 / 156492,156492,16883,Vitoria De Souza Rodrigues,2023-04-13,2023-04-16,"Saquarema, Brazil",Challenge,4171,F,True,False
+78,1,Poland,Bartosz Losiak / Michal Bryl,122846 / 137237,122846,10444,Bartosz Losiak,2022-03-16,2022-03-20,"Tlaxcala, Mexico",Challenge,3985,M,True,False
+79,1,Poland,Bartosz Losiak / Michal Bryl,122846 / 137237,137237,13340,Michal Bryl,2022-03-16,2022-03-20,"Tlaxcala, Mexico",Challenge,3985,M,True,False
+80,2,Chile,Vicente Orlando Droguett Torrealba / Noe Aravena,161785 / 172387,161785,18426,Vicente Orlando Droguett Torrealba,2022-03-16,2022-03-20,"Tlaxcala, Mexico",Challenge,3985,M,True,False
+81,2,Chile,Vicente Orlando Droguett Torrealba / Noe Aravena,161785 / 172387,172387,20973,Noe Aravena,2022-03-16,2022-03-20,"Tlaxcala, Mexico",Challenge,3985,M,True,False
+82,3,Latvia,Aleksandrs Samoilovs / Janis Smedins,104357 / 104449,104357,6770,Aleksandrs Samoilovs,2022-03-16,2022-03-20,"Tlaxcala, Mexico",Challenge,3985,M,True,False
+83,3,Latvia,Aleksandrs Samoilovs / Janis Smedins,104357 / 104449,104449,6874,Janis Smedins,2022-03-16,2022-03-20,"Tlaxcala, Mexico",Challenge,3985,M,True,False
+84,1,Brazil,George Souto Maior Wanderley / Andre Loyola Stein,142889 / 147009,142889,14454,George Souto Maior Wanderley,2022-04-14,2022-04-17,"Itapema, Brazil",Challenge,3987,M,True,False
+85,1,Brazil,George Souto Maior Wanderley / Andre Loyola Stein,142889 / 147009,147009,15355,Andre Loyola Stein,2022-04-14,2022-04-17,"Itapema, Brazil",Challenge,3987,M,True,False
+86,2,Czechia,Ondrej Perusic / David Schweiner,137346 / 153790,137346,13393,Ondrej Perusic,2022-04-14,2022-04-17,"Itapema, Brazil",Challenge,3987,M,True,False
+87,2,Czechia,Ondrej Perusic / David Schweiner,137346 / 153790,153790,16538,David Schweiner,2022-04-14,2022-04-17,"Itapema, Brazil",Challenge,3987,M,True,False
+88,3,Netherlands,Ruben Penninga / Leon Luini,144112 / 168204,144112,14713,Ruben Penninga,2022-04-14,2022-04-17,"Itapema, Brazil",Challenge,3987,M,True,False
+89,3,Netherlands,Ruben Penninga / Leon Luini,144112 / 168204,168204,20203,Leon Luini,2022-04-14,2022-04-17,"Itapema, Brazil",Challenge,3987,M,True,False
+90,1,Poland,Bartosz Losiak / Michal Bryl,122846 / 137237,122846,10444,Bartosz Losiak,2022-05-05,2022-05-08,"Doha, Qatar",Challenge,4053,M,True,False
+91,1,Poland,Bartosz Losiak / Michal Bryl,122846 / 137237,137237,13340,Michal Bryl,2022-05-05,2022-05-08,"Doha, Qatar",Challenge,4053,M,True,False
+92,2,Italy,Paolo Nicolai / Samuele Cottafava,118194 / 163923,118194,9059,Paolo Nicolai,2022-05-05,2022-05-08,"Doha, Qatar",Challenge,4053,M,True,False
+93,2,Italy,Paolo Nicolai / Samuele Cottafava,118194 / 163923,163923,17983,Samuele Cottafava,2022-05-05,2022-05-08,"Doha, Qatar",Challenge,4053,M,True,False
+94,3,Austria,Martin Ermacora / Moritz Pristauz,137297 / 142473,137297,13344,Martin Ermacora,2022-05-05,2022-05-08,"Doha, Qatar",Challenge,4053,M,True,False
+95,3,Austria,Martin Ermacora / Moritz Pristauz,137297 / 142473,142473,14710,Moritz Pristauz,2022-05-05,2022-05-08,"Doha, Qatar",Challenge,4053,M,True,False
+96,1,Sweden,David Ahman / Jonatan Hellvig,160555 / 166274,160555,17928,David Ahman,2022-05-19,2022-05-22,"Kusadasi, Türkiye",Challenge,4055,M,True,False
+97,1,Sweden,David Ahman / Jonatan Hellvig,160555 / 166274,166274,18278,Jonatan Hellvig,2022-05-19,2022-05-22,"Kusadasi, Türkiye",Challenge,4055,M,True,False
+98,2,Australia,Christopher Mchugh / Paul Burnett,118115 / 155747,118115,8410,Christopher Mchugh,2022-05-19,2022-05-22,"Kusadasi, Türkiye",Challenge,4055,M,True,False
+99,2,Australia,Christopher Mchugh / Paul Burnett,118115 / 155747,155747,16902,Paul Burnett,2022-05-19,2022-05-22,"Kusadasi, Türkiye",Challenge,4055,M,True,False
+100,3,Germany,Clemens Wickler / Nils Ehlers,139387 / 156567,139387,13767,Clemens Wickler,2022-05-19,2022-05-22,"Kusadasi, Türkiye",Challenge,4055,M,True,False
+101,3,Germany,Clemens Wickler / Nils Ehlers,139387 / 156567,156567,17592,Nils Ehlers,2022-05-19,2022-05-22,"Kusadasi, Türkiye",Challenge,4055,M,True,False
+102,1,Poland,Bartosz Losiak / Michal Bryl,122846 / 137237,122846,10444,Bartosz Losiak,2022-07-14,2022-07-17,"Espinho, Portugal",Challenge,4057,M,True,False
+103,1,Poland,Bartosz Losiak / Michal Bryl,122846 / 137237,137237,13340,Michal Bryl,2022-07-14,2022-07-17,"Espinho, Portugal",Challenge,4057,M,True,False
+104,2,Austria,Martin Ermacora / Moritz Pristauz,137297 / 142473,137297,13344,Martin Ermacora,2022-07-14,2022-07-17,"Espinho, Portugal",Challenge,4057,M,True,False
+105,2,Austria,Martin Ermacora / Moritz Pristauz,137297 / 142473,142473,14710,Moritz Pristauz,2022-07-14,2022-07-17,"Espinho, Portugal",Challenge,4057,M,True,False
+106,3,Latvia,Aleksandrs Samoilovs / Janis Smedins,104357 / 104449,104357,6770,Aleksandrs Samoilovs,2022-07-14,2022-07-17,"Espinho, Portugal",Challenge,4057,M,True,False
+107,3,Latvia,Aleksandrs Samoilovs / Janis Smedins,104357 / 104449,104449,6874,Janis Smedins,2022-07-14,2022-07-17,"Espinho, Portugal",Challenge,4057,M,True,False
+108,1,Netherlands,Matthew Immers / Stefan Boermans,166947 / 168503,166947,18143,Matthew Immers,2022-07-21,2022-07-24,"Agadir, Morocco",Challenge,4059,M,True,False
+109,1,Netherlands,Matthew Immers / Stefan Boermans,166947 / 168503,168503,18616,Stefan Boermans,2022-07-21,2022-07-24,"Agadir, Morocco",Challenge,4059,M,True,False
+110,2,Norway,Hendrik Nikolai Mol / Mathias Berntsen,137129 / 143189,137129,13275,Hendrik Nikolai Mol,2022-07-21,2022-07-24,"Agadir, Morocco",Challenge,4059,M,True,False
+111,2,Norway,Hendrik Nikolai Mol / Mathias Berntsen,137129 / 143189,143189,14738,Mathias Berntsen,2022-07-21,2022-07-24,"Agadir, Morocco",Challenge,4059,M,True,False
+112,3,Switzerland,Marco Krattiger / Florian Breer,143639 / 143685,143639,14651,Marco Krattiger,2022-07-21,2022-07-24,"Agadir, Morocco",Challenge,4059,M,True,False
+113,3,Switzerland,Marco Krattiger / Florian Breer,143639 / 143685,143685,14784,Florian Breer,2022-07-21,2022-07-24,"Agadir, Morocco",Challenge,4059,M,True,False
+114,1,Qatar,Ahmed Tijan / Cherif Younousse,146481 / 146488,146481,15096,Ahmed Tijan,2022-10-13,2022-10-16,"Sun Island, Maldives",Challenge,3995,M,True,False
+115,1,Qatar,Ahmed Tijan / Cherif Younousse,146481 / 146488,146488,15097,Cherif Younousse,2022-10-13,2022-10-16,"Sun Island, Maldives",Challenge,3995,M,True,False
+116,2,United States,Troy Field / Chase Budinger,166409 / 167494,166409,17820,Troy Field,2022-10-13,2022-10-16,"Sun Island, Maldives",Challenge,3995,M,True,False
+117,2,United States,Troy Field / Chase Budinger,166409 / 167494,167494,13452,Chase Budinger,2022-10-13,2022-10-16,"Sun Island, Maldives",Challenge,3995,M,True,False
+118,3,Sweden,David Ahman / Jonatan Hellvig,160555 / 166274,160555,17928,David Ahman,2022-10-13,2022-10-16,"Sun Island, Maldives",Challenge,3995,M,True,False
+119,3,Sweden,David Ahman / Jonatan Hellvig,160555 / 166274,166274,18278,Jonatan Hellvig,2022-10-13,2022-10-16,"Sun Island, Maldives",Challenge,3995,M,True,False
+120,1,United States,Andrew Benesh / Miles Partain,147719 / 162243,147719,18352,Andrew Benesh,2022-10-22,2022-10-25,"Dubai, United Arab Emirates",Challenge,4127,M,True,False
+121,1,United States,Andrew Benesh / Miles Partain,147719 / 162243,162243,17561,Miles Partain,2022-10-22,2022-10-25,"Dubai, United Arab Emirates",Challenge,4127,M,True,False
+122,2,Ukraine,Sergiy Popov / Eduard Reznik,120578 / 141524,120578,9444,Sergiy Popov,2022-10-22,2022-10-25,"Dubai, United Arab Emirates",Challenge,4127,M,True,False
+123,2,Ukraine,Sergiy Popov / Eduard Reznik,120578 / 141524,141524,14271,Eduard Reznik,2022-10-22,2022-10-25,"Dubai, United Arab Emirates",Challenge,4127,M,True,False
+124,3,Brazil,Pedro Solberg / Arthur Diego Mariano Lanci,104073 / 145393,104073,6767,Pedro Solberg,2022-10-22,2022-10-25,"Dubai, United Arab Emirates",Challenge,4127,M,True,False
+125,3,Brazil,Pedro Solberg / Arthur Diego Mariano Lanci,104073 / 145393,145393,15323,Arthur Diego Mariano Lanci,2022-10-22,2022-10-25,"Dubai, United Arab Emirates",Challenge,4127,M,True,False
+126,1,Sweden,David Ahman / Jonatan Hellvig,160555 / 166274,160555,17928,David Ahman,2022-10-27,2022-10-30,"Dubai, United Arab Emirates",Challenge,4129,M,True,False
+127,1,Sweden,David Ahman / Jonatan Hellvig,160555 / 166274,166274,18278,Jonatan Hellvig,2022-10-27,2022-10-30,"Dubai, United Arab Emirates",Challenge,4129,M,True,False
+128,2,Argentina,Nicolas Capogrosso / Tomas Capogrosso,145990 / 174855,145990,15252,Nicolas Capogrosso,2022-10-27,2022-10-30,"Dubai, United Arab Emirates",Challenge,4129,M,True,False
+129,2,Argentina,Nicolas Capogrosso / Tomas Capogrosso,145990 / 174855,174855,20605,Tomas Capogrosso,2022-10-27,2022-10-30,"Dubai, United Arab Emirates",Challenge,4129,M,True,False
+130,3,United States,Paul Lotman / Taylor Crabb,116065 / 124881,116065,17443,Paul Lotman,2022-10-27,2022-10-30,"Dubai, United Arab Emirates",Challenge,4129,M,True,False
+131,3,United States,Paul Lotman / Taylor Crabb,116065 / 124881,124881,13454,Taylor Crabb,2022-10-27,2022-10-30,"Dubai, United Arab Emirates",Challenge,4129,M,True,False
+132,1,Italy,Daniele Lupo / Enrico Rossi,120774 / 144114,120774,9422,Daniele Lupo,2022-11-23,2022-11-27,"Torquay, Australia",Challenge,3979,M,True,False
+133,1,Italy,Daniele Lupo / Enrico Rossi,120774 / 144114,144114,14706,Enrico Rossi,2022-11-23,2022-11-27,"Torquay, Australia",Challenge,3979,M,True,False
+134,2,Italy,Alex Ranghieri / Adrian Ignacio Carambula Raurich,132141 / 150379,132141,11262,Alex Ranghieri,2022-11-23,2022-11-27,"Torquay, Australia",Challenge,3979,M,True,False
+135,2,Italy,Alex Ranghieri / Adrian Ignacio Carambula Raurich,132141 / 150379,150379,8338,Adrian Ignacio Carambula Raurich,2022-11-23,2022-11-27,"Torquay, Australia",Challenge,3979,M,True,False
+136,3,Australia,Christopher Mchugh / Paul Burnett,118115 / 155747,118115,8410,Christopher Mchugh,2022-11-23,2022-11-27,"Torquay, Australia",Challenge,3979,M,True,False
+137,3,Australia,Christopher Mchugh / Paul Burnett,118115 / 155747,155747,16902,Paul Burnett,2022-11-23,2022-11-27,"Torquay, Australia",Challenge,3979,M,True,False
+138,1,Brazil,George Souto Maior Wanderley / Andre Loyola Stein,142889 / 147009,142889,14454,George Souto Maior Wanderley,2023-03-06,2023-03-09,"Itapema, Brazil",Challenge,4168,M,True,False
+139,1,Brazil,George Souto Maior Wanderley / Andre Loyola Stein,142889 / 147009,147009,15355,Andre Loyola Stein,2023-03-06,2023-03-09,"Itapema, Brazil",Challenge,4168,M,True,False
+140,2,France,Youssef Krou / Arnaud Gauthier-Rat,119795 / 146455,119795,15029,Youssef Krou,2023-03-06,2023-03-09,"Itapema, Brazil",Challenge,4168,M,True,False
+141,2,France,Youssef Krou / Arnaud Gauthier-Rat,119795 / 146455,146455,15475,Arnaud Gauthier-Rat,2023-03-06,2023-03-09,"Itapema, Brazil",Challenge,4168,M,True,False
+142,3,Norway,Hendrik Nikolai Mol / Mathias Berntsen,137129 / 143189,137129,13275,Hendrik Nikolai Mol,2023-03-06,2023-03-09,"Itapema, Brazil",Challenge,4168,M,True,False
+143,3,Norway,Hendrik Nikolai Mol / Mathias Berntsen,137129 / 143189,143189,14738,Mathias Berntsen,2023-03-06,2023-03-09,"Itapema, Brazil",Challenge,4168,M,True,False
+144,1,Spain,Pablo Herrera Allepuz / Adrian Gavira Collado,103311 / 116710,103311,2077,Pablo Herrera Allepuz,2023-03-16,2023-03-19,"La Paz, Mexico",Challenge,4166,M,True,False
+145,1,Spain,Pablo Herrera Allepuz / Adrian Gavira Collado,103311 / 116710,116710,7783,Adrian Gavira Collado,2023-03-16,2023-03-19,"La Paz, Mexico",Challenge,4166,M,True,False
+146,2,Netherlands,Yorick De Groot / Stefan Boermans,162761 / 168503,162761,17881,Yorick De Groot,2023-03-16,2023-03-19,"La Paz, Mexico",Challenge,4166,M,True,False
+147,2,Netherlands,Yorick De Groot / Stefan Boermans,162761 / 168503,168503,18616,Stefan Boermans,2023-03-16,2023-03-19,"La Paz, Mexico",Challenge,4166,M,True,False
+148,3,Austria,Robin Seidl / Moritz Pristauz,123528 / 142473,123528,10527,Robin Seidl,2023-03-16,2023-03-19,"La Paz, Mexico",Challenge,4166,M,True,False
+149,3,Austria,Robin Seidl / Moritz Pristauz,123528 / 142473,142473,14710,Moritz Pristauz,2023-03-16,2023-03-19,"La Paz, Mexico",Challenge,4166,M,True,False
+150,1,Brazil,Evandro Goncalves Oliveira Junior / Arthur Diego Mariano Lanci,133285 / 145393,133285,11854,Evandro Goncalves Oliveira Junior,2023-04-13,2023-04-16,"Saquarema, Brazil",Challenge,4170,M,True,False
+151,1,Brazil,Evandro Goncalves Oliveira Junior / Arthur Diego Mariano Lanci,133285 / 145393,145393,15323,Arthur Diego Mariano Lanci,2023-04-13,2023-04-16,"Saquarema, Brazil",Challenge,4170,M,True,False
+152,2,United States,Miles Evans / Chase Budinger,151673 / 167494,151673,13467,Miles Evans,2023-04-13,2023-04-16,"Saquarema, Brazil",Challenge,4170,M,True,False
+153,2,United States,Miles Evans / Chase Budinger,151673 / 167494,167494,13452,Chase Budinger,2023-04-13,2023-04-16,"Saquarema, Brazil",Challenge,4170,M,True,False
+154,3,Austria,Alexander Horst / Julian Horl,103677 / 137175,103677,5718,Alexander Horst,2023-04-13,2023-04-16,"Saquarema, Brazil",Challenge,4170,M,True,False
+155,3,Austria,Alexander Horst / Julian Horl,103677 / 137175,137175,13301,Julian Horl,2023-04-13,2023-04-16,"Saquarema, Brazil",Challenge,4170,M,True,False
+156,1,Netherlands,Raisa Schoon / Katja Stam,153703 / 156328,153703,16919,Raisa Schoon,2022-03-23,2022-03-27,"Rosarito, Mexico",Elite 16,3962,F,False,True
+157,1,Netherlands,Raisa Schoon / Katja Stam,153703 / 156328,156328,16917,Katja Stam,2022-03-23,2022-03-27,"Rosarito, Mexico",Elite 16,3962,F,False,True
+158,2,Latvia,Tina Graudina / Anastasija Samoilova,141983 / 141984,141983,14462,Tina Graudina,2022-03-23,2022-03-27,"Rosarito, Mexico",Elite 16,3962,F,False,True
+159,2,Latvia,Tina Graudina / Anastasija Samoilova,141983 / 141984,141984,14774,Anastasija Samoilova,2022-03-23,2022-03-27,"Rosarito, Mexico",Elite 16,3962,F,False,True
+160,3,Brazil,Talita Da Rocha Antunes / Rebecca Cavalcanti Barbosa Silva,103892 / 132686,103892,5146,Talita Da Rocha Antunes,2022-03-23,2022-03-27,"Rosarito, Mexico",Elite 16,3962,F,False,True
+161,3,Brazil,Talita Da Rocha Antunes / Rebecca Cavalcanti Barbosa Silva,103892 / 132686,132686,11610,Rebecca Cavalcanti Barbosa Silva,2022-03-23,2022-03-27,"Rosarito, Mexico",Elite 16,3962,F,False,True
+162,1,Germany,Cinja Tillmann / Svenja Muller,125549 / 153267,125549,11838,Cinja Tillmann,2022-05-25,2022-05-29,"Ostrava, Czech Republic",Elite 16,3968,F,False,True
+163,1,Germany,Cinja Tillmann / Svenja Muller,125549 / 153267,153267,17168,Svenja Muller,2022-05-25,2022-05-29,"Ostrava, Czech Republic",Elite 16,3968,F,False,True
+164,2,Brazil,Talita Da Rocha Antunes / Rebecca Cavalcanti Barbosa Silva,103892 / 132686,103892,5146,Talita Da Rocha Antunes,2022-05-25,2022-05-29,"Ostrava, Czech Republic",Elite 16,3968,F,False,True
+165,2,Brazil,Talita Da Rocha Antunes / Rebecca Cavalcanti Barbosa Silva,103892 / 132686,132686,11610,Rebecca Cavalcanti Barbosa Silva,2022-05-25,2022-05-29,"Ostrava, Czech Republic",Elite 16,3968,F,False,True
+166,3,Switzerland,Tanja Huberli / Nina Brunner,132614 / 135579,132614,11625,Tanja Huberli,2022-05-25,2022-05-29,"Ostrava, Czech Republic",Elite 16,3968,F,False,True
+167,3,Switzerland,Tanja Huberli / Nina Brunner,132614 / 135579,135579,13151,Nina Brunner,2022-05-25,2022-05-29,"Ostrava, Czech Republic",Elite 16,3968,F,False,True
+168,1,Canada,Sarah Pavan / Melissa Humana-Paredes,113895 / 124979,113895,14304,Sarah Pavan,2022-06-01,2022-06-05,"Jurmala, Latvia",Elite 16,3970,F,False,True
+169,1,Canada,Sarah Pavan / Melissa Humana-Paredes,113895 / 124979,124979,10798,Melissa Humana-Paredes,2022-06-01,2022-06-05,"Jurmala, Latvia",Elite 16,3970,F,False,True
+170,2,Brazil,Carolina Solberg Salgado / Barbara Seixas De Freitas,104079 / 104505,104079,5887,Carolina Solberg Salgado,2022-06-01,2022-06-05,"Jurmala, Latvia",Elite 16,3970,F,False,True
+171,2,Brazil,Carolina Solberg Salgado / Barbara Seixas De Freitas,104079 / 104505,104505,8022,Barbara Seixas De Freitas,2022-06-01,2022-06-05,"Jurmala, Latvia",Elite 16,3970,F,False,True
+172,3,Brazil,Eduarda Santos Lisboa / Ana Patricia Silva Ramos,139087 / 147073,139087,13802,Eduarda Santos Lisboa,2022-06-01,2022-06-05,"Jurmala, Latvia",Elite 16,3970,F,False,True
+173,3,Brazil,Eduarda Santos Lisboa / Ana Patricia Silva Ramos,139087 / 147073,147073,15329,Ana Patricia Silva Ramos,2022-06-01,2022-06-05,"Jurmala, Latvia",Elite 16,3970,F,False,True
+174,1,Brazil,Eduarda Santos Lisboa / Ana Patricia Silva Ramos,139087 / 147073,139087,13802,Eduarda Santos Lisboa,2022-07-06,2022-07-10,"Gstaad, Switzerland",Elite 16,3972,F,False,True
+175,1,Brazil,Eduarda Santos Lisboa / Ana Patricia Silva Ramos,139087 / 147073,147073,15329,Ana Patricia Silva Ramos,2022-07-06,2022-07-10,"Gstaad, Switzerland",Elite 16,3972,F,False,True
+176,2,Brazil,Carolina Solberg Salgado / Barbara Seixas De Freitas,104079 / 104505,104079,5887,Carolina Solberg Salgado,2022-07-06,2022-07-10,"Gstaad, Switzerland",Elite 16,3972,F,False,True
+177,2,Brazil,Carolina Solberg Salgado / Barbara Seixas De Freitas,104079 / 104505,104505,8022,Barbara Seixas De Freitas,2022-07-06,2022-07-10,"Gstaad, Switzerland",Elite 16,3972,F,False,True
+178,3,Australia,Mariafe Artacho Del Solar / Taliqua Clancy,118988 / 125172,118988,8395,Mariafe Artacho Del Solar,2022-07-06,2022-07-10,"Gstaad, Switzerland",Elite 16,3972,F,False,True
+179,3,Australia,Mariafe Artacho Del Solar / Taliqua Clancy,118988 / 125172,125172,10795,Taliqua Clancy,2022-07-06,2022-07-10,"Gstaad, Switzerland",Elite 16,3972,F,False,True
+180,1,United States,Kelly Cheng / Betsi Flint,140066 / 146693,140066,14478,Kelly Cheng,2022-08-10,2022-08-14,"Hamburg, Germany",Elite 16,3992,F,False,True
+181,1,United States,Kelly Cheng / Betsi Flint,140066 / 146693,146693,12974,Betsi Flint,2022-08-10,2022-08-14,"Hamburg, Germany",Elite 16,3992,F,False,True
+182,2,Switzerland,Tanja Huberli / Nina Brunner,132614 / 135579,132614,11625,Tanja Huberli,2022-08-10,2022-08-14,"Hamburg, Germany",Elite 16,3992,F,False,True
+183,2,Switzerland,Tanja Huberli / Nina Brunner,132614 / 135579,135579,13151,Nina Brunner,2022-08-10,2022-08-14,"Hamburg, Germany",Elite 16,3992,F,False,True
+184,3,Germany,Julia Sude / Karla Borger,105040 / 119108,105040,8417,Julia Sude,2022-08-10,2022-08-14,"Hamburg, Germany",Elite 16,3992,F,False,True
+185,3,Germany,Julia Sude / Karla Borger,105040 / 119108,119108,9100,Karla Borger,2022-08-10,2022-08-14,"Hamburg, Germany",Elite 16,3992,F,False,True
+186,1,Netherlands,Raisa Schoon / Katja Stam,153703 / 156328,153703,16919,Raisa Schoon,2022-09-28,2022-10-02,"Paris, France",Elite 16,3994,F,False,True
+187,1,Netherlands,Raisa Schoon / Katja Stam,153703 / 156328,156328,16917,Katja Stam,2022-09-28,2022-10-02,"Paris, France",Elite 16,3994,F,False,True
+188,2,Latvia,Tina Graudina / Anastasija Samoilova,141983 / 141984,141983,14462,Tina Graudina,2022-09-28,2022-10-02,"Paris, France",Elite 16,3994,F,False,True
+189,2,Latvia,Tina Graudina / Anastasija Samoilova,141983 / 141984,141984,14774,Anastasija Samoilova,2022-09-28,2022-10-02,"Paris, France",Elite 16,3994,F,False,True
+190,3,Brazil,Eduarda Santos Lisboa / Ana Patricia Silva Ramos,139087 / 147073,139087,13802,Eduarda Santos Lisboa,2022-09-28,2022-10-02,"Paris, France",Elite 16,3994,F,False,True
+191,3,Brazil,Eduarda Santos Lisboa / Ana Patricia Silva Ramos,139087 / 147073,147073,15329,Ana Patricia Silva Ramos,2022-09-28,2022-10-02,"Paris, France",Elite 16,3994,F,False,True
+192,1,Brazil,Talita Da Rocha Antunes / Thamela Coradello Galil,103892 / 163501,103892,5146,Talita Da Rocha Antunes,2022-11-03,2022-11-06,"Cape Town, South Africa",Elite 16,3964,F,False,True
+193,1,Brazil,Talita Da Rocha Antunes / Thamela Coradello Galil,103892 / 163501,163501,18464,Thamela Coradello Galil,2022-11-03,2022-11-06,"Cape Town, South Africa",Elite 16,3964,F,False,True
+194,2,United States,Sarah Sponcil / Terese Cannon,139854 / 162448,139854,14959,Sarah Sponcil,2022-11-03,2022-11-06,"Cape Town, South Africa",Elite 16,3964,F,False,True
+195,2,United States,Sarah Sponcil / Terese Cannon,139854 / 162448,162448,17069,Terese Cannon,2022-11-03,2022-11-06,"Cape Town, South Africa",Elite 16,3964,F,False,True
+196,3,Brazil,Eduarda Santos Lisboa / Ana Patricia Silva Ramos,139087 / 147073,139087,13802,Eduarda Santos Lisboa,2022-11-03,2022-11-06,"Cape Town, South Africa",Elite 16,3964,F,False,True
+197,3,Brazil,Eduarda Santos Lisboa / Ana Patricia Silva Ramos,139087 / 147073,147073,15329,Ana Patricia Silva Ramos,2022-11-03,2022-11-06,"Cape Town, South Africa",Elite 16,3964,F,False,True
+198,1,Brazil,Eduarda Santos Lisboa / Ana Patricia Silva Ramos,139087 / 147073,139087,13802,Eduarda Santos Lisboa,2022-11-10,2022-11-13,"Uberlandia, Brazil",Elite 16,3960,F,False,True
+199,1,Brazil,Eduarda Santos Lisboa / Ana Patricia Silva Ramos,139087 / 147073,147073,15329,Ana Patricia Silva Ramos,2022-11-10,2022-11-13,"Uberlandia, Brazil",Elite 16,3960,F,False,True
+200,2,Brazil,Andressa Cavalcanti Ramalho / Vitoria De Souza Rodrigues,142309 / 156492,142309,14458,Andressa Cavalcanti Ramalho,2022-11-10,2022-11-13,"Uberlandia, Brazil",Elite 16,3960,F,False,True
+201,2,Brazil,Andressa Cavalcanti Ramalho / Vitoria De Souza Rodrigues,142309 / 156492,156492,16883,Vitoria De Souza Rodrigues,2022-11-10,2022-11-13,"Uberlandia, Brazil",Elite 16,3960,F,False,True
+202,3,Brazil,Carolina Solberg Salgado / Barbara Seixas De Freitas,104079 / 104505,104079,5887,Carolina Solberg Salgado,2022-11-10,2022-11-13,"Uberlandia, Brazil",Elite 16,3960,F,False,True
+203,3,Brazil,Carolina Solberg Salgado / Barbara Seixas De Freitas,104079 / 104505,104505,8022,Barbara Seixas De Freitas,2022-11-10,2022-11-13,"Uberlandia, Brazil",Elite 16,3960,F,False,True
+204,1,United States,Sara Hughes / Kelly Cheng,135571 / 140066,135571,13154,Sara Hughes,2022-11-29,2022-12-03,"Torquay, Australia",Elite 16,3982,F,False,True
+205,1,United States,Sara Hughes / Kelly Cheng,135571 / 140066,140066,14478,Kelly Cheng,2022-11-29,2022-12-03,"Torquay, Australia",Elite 16,3982,F,False,True
+206,2,United States,Betsi Flint / Julia Scoles,146693 / 182816,146693,12974,Betsi Flint,2022-11-29,2022-12-03,"Torquay, Australia",Elite 16,3982,F,False,True
+207,2,United States,Betsi Flint / Julia Scoles,146693 / 182816,182816,19577,Julia Scoles,2022-11-29,2022-12-03,"Torquay, Australia",Elite 16,3982,F,False,True
+208,3,Australia,Mariafe Artacho Del Solar / Taliqua Clancy,118988 / 125172,118988,8395,Mariafe Artacho Del Solar,2022-11-29,2022-12-03,"Torquay, Australia",Elite 16,3982,F,False,True
+209,3,Australia,Mariafe Artacho Del Solar / Taliqua Clancy,118988 / 125172,125172,10795,Taliqua Clancy,2022-11-29,2022-12-03,"Torquay, Australia",Elite 16,3982,F,False,True
+210,1,Netherlands,Raisa Schoon / Katja Stam,153703 / 156328,153703,16919,Raisa Schoon,2023-02-01,2023-02-05,"Doha, Qatar",Elite 16,4147,F,False,True
+211,1,Netherlands,Raisa Schoon / Katja Stam,153703 / 156328,156328,16917,Katja Stam,2023-02-01,2023-02-05,"Doha, Qatar",Elite 16,4147,F,False,True
+212,2,Switzerland,Tanja Huberli / Nina Brunner,132614 / 135579,132614,11625,Tanja Huberli,2023-02-01,2023-02-05,"Doha, Qatar",Elite 16,4147,F,False,True
+213,2,Switzerland,Tanja Huberli / Nina Brunner,132614 / 135579,135579,13151,Nina Brunner,2023-02-01,2023-02-05,"Doha, Qatar",Elite 16,4147,F,False,True
+214,3,Australia,Mariafe Artacho Del Solar / Taliqua Clancy,118988 / 125172,118988,8395,Mariafe Artacho Del Solar,2023-02-01,2023-02-05,"Doha, Qatar",Elite 16,4147,F,False,True
+215,3,Australia,Mariafe Artacho Del Solar / Taliqua Clancy,118988 / 125172,125172,10795,Taliqua Clancy,2023-02-01,2023-02-05,"Doha, Qatar",Elite 16,4147,F,False,True
+216,1,United States,Sara Hughes / Kelly Cheng,135571 / 140066,135571,13154,Sara Hughes,2023-03-22,2023-03-26,"Tepic, Mexico",Elite 16,4149,F,False,True
+217,1,United States,Sara Hughes / Kelly Cheng,135571 / 140066,140066,14478,Kelly Cheng,2023-03-22,2023-03-26,"Tepic, Mexico",Elite 16,4149,F,False,True
+218,2,Brazil,Eduarda Santos Lisboa / Ana Patricia Silva Ramos,139087 / 147073,139087,13802,Eduarda Santos Lisboa,2023-03-22,2023-03-26,"Tepic, Mexico",Elite 16,4149,F,False,True
+219,2,Brazil,Eduarda Santos Lisboa / Ana Patricia Silva Ramos,139087 / 147073,147073,15329,Ana Patricia Silva Ramos,2023-03-22,2023-03-26,"Tepic, Mexico",Elite 16,4149,F,False,True
+220,3,Australia,Mariafe Artacho Del Solar / Taliqua Clancy,118988 / 125172,118988,8395,Mariafe Artacho Del Solar,2023-03-22,2023-03-26,"Tepic, Mexico",Elite 16,4149,F,False,True
+221,3,Australia,Mariafe Artacho Del Solar / Taliqua Clancy,118988 / 125172,125172,10795,Taliqua Clancy,2023-03-22,2023-03-26,"Tepic, Mexico",Elite 16,4149,F,False,True
+222,1,United States,Kristen Nuss / Taryn Kloth,162432 / 184611,162432,17607,Kristen Nuss,2023-04-26,2023-04-30,"Uberlandia, Brazil",Elite 16,4151,F,False,True
+223,1,United States,Kristen Nuss / Taryn Kloth,162432 / 184611,184611,20804,Taryn Kloth,2023-04-26,2023-04-30,"Uberlandia, Brazil",Elite 16,4151,F,False,True
+224,2,Australia,Mariafe Artacho Del Solar / Taliqua Clancy,118988 / 125172,118988,8395,Mariafe Artacho Del Solar,2023-04-26,2023-04-30,"Uberlandia, Brazil",Elite 16,4151,F,False,True
+225,2,Australia,Mariafe Artacho Del Solar / Taliqua Clancy,118988 / 125172,125172,10795,Taliqua Clancy,2023-04-26,2023-04-30,"Uberlandia, Brazil",Elite 16,4151,F,False,True
+226,3,Brazil,Eduarda Santos Lisboa / Ana Patricia Silva Ramos,139087 / 147073,139087,13802,Eduarda Santos Lisboa,2023-04-26,2023-04-30,"Uberlandia, Brazil",Elite 16,4151,F,False,True
+227,3,Brazil,Eduarda Santos Lisboa / Ana Patricia Silva Ramos,139087 / 147073,147073,15329,Ana Patricia Silva Ramos,2023-04-26,2023-04-30,"Uberlandia, Brazil",Elite 16,4151,F,False,True
+228,1,Qatar,Ahmed Tijan / Cherif Younousse,146481 / 146488,146481,15096,Ahmed Tijan,2022-03-23,2022-03-27,"Rosarito, Mexico",Elite 16,3961,M,False,True
+229,1,Qatar,Ahmed Tijan / Cherif Younousse,146481 / 146488,146488,15097,Cherif Younousse,2022-03-23,2022-03-27,"Rosarito, Mexico",Elite 16,3961,M,False,True
+230,2,Netherlands,Alexander Brouwer / Robert Meeuwsen,118317 / 119991,118317,9129,Alexander Brouwer,2022-03-23,2022-03-27,"Rosarito, Mexico",Elite 16,3961,M,False,True
+231,2,Netherlands,Alexander Brouwer / Robert Meeuwsen,118317 / 119991,119991,9130,Robert Meeuwsen,2022-03-23,2022-03-27,"Rosarito, Mexico",Elite 16,3961,M,False,True
+232,3,Norway,Christian Sandlie Sorum / Anders Berntsen Mol,137127 / 143192,137127,13274,Christian Sandlie Sorum,2022-03-23,2022-03-27,"Rosarito, Mexico",Elite 16,3961,M,False,True
+233,3,Norway,Christian Sandlie Sorum / Anders Berntsen Mol,137127 / 143192,143192,14741,Anders Berntsen Mol,2022-03-23,2022-03-27,"Rosarito, Mexico",Elite 16,3961,M,False,True
+234,1,Norway,Christian Sandlie Sorum / Anders Berntsen Mol,137127 / 143192,137127,13274,Christian Sandlie Sorum,2022-05-25,2022-05-29,"Ostrava, Czech Republic",Elite 16,3967,M,False,True
+235,1,Norway,Christian Sandlie Sorum / Anders Berntsen Mol,137127 / 143192,143192,14741,Anders Berntsen Mol,2022-05-25,2022-05-29,"Ostrava, Czech Republic",Elite 16,3967,M,False,True
+236,2,Czechia,Ondrej Perusic / David Schweiner,137346 / 153790,137346,13393,Ondrej Perusic,2022-05-25,2022-05-29,"Ostrava, Czech Republic",Elite 16,3967,M,False,True
+237,2,Czechia,Ondrej Perusic / David Schweiner,137346 / 153790,153790,16538,David Schweiner,2022-05-25,2022-05-29,"Ostrava, Czech Republic",Elite 16,3967,M,False,True
+238,3,Netherlands,Alexander Brouwer / Robert Meeuwsen,118317 / 119991,118317,9129,Alexander Brouwer,2022-05-25,2022-05-29,"Ostrava, Czech Republic",Elite 16,3967,M,False,True
+239,3,Netherlands,Alexander Brouwer / Robert Meeuwsen,118317 / 119991,119991,9130,Robert Meeuwsen,2022-05-25,2022-05-29,"Ostrava, Czech Republic",Elite 16,3967,M,False,True
+240,1,Italy,Paolo Nicolai / Samuele Cottafava,118194 / 163923,118194,9059,Paolo Nicolai,2022-06-01,2022-06-05,"Jurmala, Latvia",Elite 16,3969,M,False,True
+241,1,Italy,Paolo Nicolai / Samuele Cottafava,118194 / 163923,163923,17983,Samuele Cottafava,2022-06-01,2022-06-05,"Jurmala, Latvia",Elite 16,3969,M,False,True
+242,2,Qatar,Ahmed Tijan / Cherif Younousse,146481 / 146488,146481,15096,Ahmed Tijan,2022-06-01,2022-06-05,"Jurmala, Latvia",Elite 16,3969,M,False,True
+243,2,Qatar,Ahmed Tijan / Cherif Younousse,146481 / 146488,146488,15097,Cherif Younousse,2022-06-01,2022-06-05,"Jurmala, Latvia",Elite 16,3969,M,False,True
+244,3,Brazil,George Souto Maior Wanderley / Andre Loyola Stein,142889 / 147009,142889,14454,George Souto Maior Wanderley,2022-06-01,2022-06-05,"Jurmala, Latvia",Elite 16,3969,M,False,True
+245,3,Brazil,George Souto Maior Wanderley / Andre Loyola Stein,142889 / 147009,147009,15355,Andre Loyola Stein,2022-06-01,2022-06-05,"Jurmala, Latvia",Elite 16,3969,M,False,True
+246,1,Chile,Marco Grimalt / Esteban Grimalt,125329 / 134415,125329,12656,Marco Grimalt,2022-07-06,2022-07-09,"Gstaad, Switzerland",Elite 16,3971,M,False,True
+247,1,Chile,Marco Grimalt / Esteban Grimalt,125329 / 134415,134415,12583,Esteban Grimalt,2022-07-06,2022-07-09,"Gstaad, Switzerland",Elite 16,3971,M,False,True
+248,2,Czechia,Ondrej Perusic / David Schweiner,137346 / 153790,137346,13393,Ondrej Perusic,2022-07-06,2022-07-09,"Gstaad, Switzerland",Elite 16,3971,M,False,True
+249,2,Czechia,Ondrej Perusic / David Schweiner,137346 / 153790,153790,16538,David Schweiner,2022-07-06,2022-07-09,"Gstaad, Switzerland",Elite 16,3971,M,False,True
+250,3,Netherlands,Christiaan Varenhorst / Steven Van De Velde,119235 / 138207,119235,9429,Christiaan Varenhorst,2022-07-06,2022-07-09,"Gstaad, Switzerland",Elite 16,3971,M,False,True
+251,3,Netherlands,Christiaan Varenhorst / Steven Van De Velde,119235 / 138207,138207,13566,Steven Van De Velde,2022-07-06,2022-07-09,"Gstaad, Switzerland",Elite 16,3971,M,False,True
+252,1,Poland,Bartosz Losiak / Michal Bryl,122846 / 137237,122846,10444,Bartosz Losiak,2022-08-10,2022-08-14,"Hamburg, Germany",Elite 16,3991,M,False,True
+253,1,Poland,Bartosz Losiak / Michal Bryl,122846 / 137237,137237,13340,Michal Bryl,2022-08-10,2022-08-14,"Hamburg, Germany",Elite 16,3991,M,False,True
+254,2,Netherlands,Alexander Brouwer / Robert Meeuwsen,118317 / 119991,118317,9129,Alexander Brouwer,2022-08-10,2022-08-14,"Hamburg, Germany",Elite 16,3991,M,False,True
+255,2,Netherlands,Alexander Brouwer / Robert Meeuwsen,118317 / 119991,119991,9130,Robert Meeuwsen,2022-08-10,2022-08-14,"Hamburg, Germany",Elite 16,3991,M,False,True
+256,3,Germany,Clemens Wickler / Nils Ehlers,139387 / 156567,139387,13767,Clemens Wickler,2022-08-10,2022-08-14,"Hamburg, Germany",Elite 16,3991,M,False,True
+257,3,Germany,Clemens Wickler / Nils Ehlers,139387 / 156567,156567,17592,Nils Ehlers,2022-08-10,2022-08-14,"Hamburg, Germany",Elite 16,3991,M,False,True
+258,1,Norway,Christian Sandlie Sorum / Anders Berntsen Mol,137127 / 143192,137127,13274,Christian Sandlie Sorum,2022-09-28,2022-10-02,"Paris, France",Elite 16,3993,M,False,True
+259,1,Norway,Christian Sandlie Sorum / Anders Berntsen Mol,137127 / 143192,143192,14741,Anders Berntsen Mol,2022-09-28,2022-10-02,"Paris, France",Elite 16,3993,M,False,True
+260,2,Netherlands,Alexander Brouwer / Robert Meeuwsen,118317 / 119991,118317,9129,Alexander Brouwer,2022-09-28,2022-10-02,"Paris, France",Elite 16,3993,M,False,True
+261,2,Netherlands,Alexander Brouwer / Robert Meeuwsen,118317 / 119991,119991,9130,Robert Meeuwsen,2022-09-28,2022-10-02,"Paris, France",Elite 16,3993,M,False,True
+262,3,Italy,Paolo Nicolai / Samuele Cottafava,118194 / 163923,118194,9059,Paolo Nicolai,2022-09-28,2022-10-02,"Paris, France",Elite 16,3993,M,False,True
+263,3,Italy,Paolo Nicolai / Samuele Cottafava,118194 / 163923,163923,17983,Samuele Cottafava,2022-09-28,2022-10-02,"Paris, France",Elite 16,3993,M,False,True
+264,1,Norway,Christian Sandlie Sorum / Anders Berntsen Mol,137127 / 143192,137127,13274,Christian Sandlie Sorum,2022-11-02,2022-11-06,"Cape Town, South Africa",Elite 16,3963,M,False,True
+265,1,Norway,Christian Sandlie Sorum / Anders Berntsen Mol,137127 / 143192,143192,14741,Anders Berntsen Mol,2022-11-02,2022-11-06,"Cape Town, South Africa",Elite 16,3963,M,False,True
+266,2,Sweden,David Ahman / Jonatan Hellvig,160555 / 166274,160555,17928,David Ahman,2022-11-02,2022-11-06,"Cape Town, South Africa",Elite 16,3963,M,False,True
+267,2,Sweden,David Ahman / Jonatan Hellvig,160555 / 166274,166274,18278,Jonatan Hellvig,2022-11-02,2022-11-06,"Cape Town, South Africa",Elite 16,3963,M,False,True
+268,3,Qatar,Ahmed Tijan / Cherif Younousse,146481 / 146488,146481,15096,Ahmed Tijan,2022-11-02,2022-11-06,"Cape Town, South Africa",Elite 16,3963,M,False,True
+269,3,Qatar,Ahmed Tijan / Cherif Younousse,146481 / 146488,146488,15097,Cherif Younousse,2022-11-02,2022-11-06,"Cape Town, South Africa",Elite 16,3963,M,False,True
+270,1,Brazil,George Souto Maior Wanderley / Andre Loyola Stein,142889 / 147009,142889,14454,George Souto Maior Wanderley,2022-11-09,2022-11-13,"Uberlandia, Brazil",Elite 16,3959,M,False,True
+271,1,Brazil,George Souto Maior Wanderley / Andre Loyola Stein,142889 / 147009,147009,15355,Andre Loyola Stein,2022-11-09,2022-11-13,"Uberlandia, Brazil",Elite 16,3959,M,False,True
+272,2,Brazil,Pedro Solberg / Arthur Diego Mariano Lanci,104073 / 145393,104073,6767,Pedro Solberg,2022-11-09,2022-11-13,"Uberlandia, Brazil",Elite 16,3959,M,False,True
+273,2,Brazil,Pedro Solberg / Arthur Diego Mariano Lanci,104073 / 145393,145393,15323,Arthur Diego Mariano Lanci,2022-11-09,2022-11-13,"Uberlandia, Brazil",Elite 16,3959,M,False,True
+274,3,Norway,Christian Sandlie Sorum / Anders Berntsen Mol,137127 / 143192,137127,13274,Christian Sandlie Sorum,2022-11-09,2022-11-13,"Uberlandia, Brazil",Elite 16,3959,M,False,True
+275,3,Norway,Christian Sandlie Sorum / Anders Berntsen Mol,137127 / 143192,143192,14741,Anders Berntsen Mol,2022-11-09,2022-11-13,"Uberlandia, Brazil",Elite 16,3959,M,False,True
+276,1,France,Youssef Krou / Arnaud Gauthier-Rat,119795 / 146455,119795,15029,Youssef Krou,2022-11-29,2022-12-03,"Torquay, Australia",Elite 16,3981,M,False,True
+277,1,France,Youssef Krou / Arnaud Gauthier-Rat,119795 / 146455,146455,15475,Arnaud Gauthier-Rat,2022-11-29,2022-12-03,"Torquay, Australia",Elite 16,3981,M,False,True
+278,2,Australia,Thomas Hodges / Zachery Schubert,142130 / 142151,142130,14389,Thomas Hodges,2022-11-29,2022-12-03,"Torquay, Australia",Elite 16,3981,M,False,True
+279,2,Australia,Thomas Hodges / Zachery Schubert,142130 / 142151,142151,14444,Zachery Schubert,2022-11-29,2022-12-03,"Torquay, Australia",Elite 16,3981,M,False,True
+280,3,Italy,Alex Ranghieri / Adrian Ignacio Carambula Raurich,132141 / 150379,132141,11262,Alex Ranghieri,2022-11-29,2022-12-03,"Torquay, Australia",Elite 16,3981,M,False,True
+281,3,Italy,Alex Ranghieri / Adrian Ignacio Carambula Raurich,132141 / 150379,150379,8338,Adrian Ignacio Carambula Raurich,2022-11-29,2022-12-03,"Torquay, Australia",Elite 16,3981,M,False,True
+282,1,Norway,Christian Sandlie Sorum / Anders Berntsen Mol,137127 / 143192,137127,13274,Christian Sandlie Sorum,2023-02-01,2023-02-05,"Doha, Qatar",Elite 16,4146,M,False,True
+283,1,Norway,Christian Sandlie Sorum / Anders Berntsen Mol,137127 / 143192,143192,14741,Anders Berntsen Mol,2023-02-01,2023-02-05,"Doha, Qatar",Elite 16,4146,M,False,True
+284,2,Sweden,David Ahman / Jonatan Hellvig,160555 / 166274,160555,17928,David Ahman,2023-02-01,2023-02-05,"Doha, Qatar",Elite 16,4146,M,False,True
+285,2,Sweden,David Ahman / Jonatan Hellvig,160555 / 166274,166274,18278,Jonatan Hellvig,2023-02-01,2023-02-05,"Doha, Qatar",Elite 16,4146,M,False,True
+286,3,Italy,Alex Ranghieri / Adrian Ignacio Carambula Raurich,132141 / 150379,132141,11262,Alex Ranghieri,2023-02-01,2023-02-05,"Doha, Qatar",Elite 16,4146,M,False,True
+287,3,Italy,Alex Ranghieri / Adrian Ignacio Carambula Raurich,132141 / 150379,150379,8338,Adrian Ignacio Carambula Raurich,2023-02-01,2023-02-05,"Doha, Qatar",Elite 16,4146,M,False,True
+288,1,Sweden,David Ahman / Jonatan Hellvig,160555 / 166274,160555,17928,David Ahman,2023-03-22,2023-03-26,"Tepic, Mexico",Elite 16,4148,M,False,True
+289,1,Sweden,David Ahman / Jonatan Hellvig,160555 / 166274,166274,18278,Jonatan Hellvig,2023-03-22,2023-03-26,"Tepic, Mexico",Elite 16,4148,M,False,True
+290,2,Norway,Christian Sandlie Sorum / Anders Berntsen Mol,137127 / 143192,137127,13274,Christian Sandlie Sorum,2023-03-22,2023-03-26,"Tepic, Mexico",Elite 16,4148,M,False,True
+291,2,Norway,Christian Sandlie Sorum / Anders Berntsen Mol,137127 / 143192,143192,14741,Anders Berntsen Mol,2023-03-22,2023-03-26,"Tepic, Mexico",Elite 16,4148,M,False,True
+292,3,Germany,Clemens Wickler / Nils Ehlers,139387 / 156567,139387,13767,Clemens Wickler,2023-03-22,2023-03-26,"Tepic, Mexico",Elite 16,4148,M,False,True
+293,3,Germany,Clemens Wickler / Nils Ehlers,139387 / 156567,156567,17592,Nils Ehlers,2023-03-22,2023-03-26,"Tepic, Mexico",Elite 16,4148,M,False,True
+294,1,Czechia,Ondrej Perusic / David Schweiner,137346 / 153790,137346,13393,Ondrej Perusic,2023-04-26,2023-04-30,"Uberlandia, Brazil",Elite 16,4150,M,False,True
+295,1,Czechia,Ondrej Perusic / David Schweiner,137346 / 153790,153790,16538,David Schweiner,2023-04-26,2023-04-30,"Uberlandia, Brazil",Elite 16,4150,M,False,True
+296,2,Norway,Christian Sandlie Sorum / Anders Berntsen Mol,137127 / 143192,137127,13274,Christian Sandlie Sorum,2023-04-26,2023-04-30,"Uberlandia, Brazil",Elite 16,4150,M,False,True
+297,2,Norway,Christian Sandlie Sorum / Anders Berntsen Mol,137127 / 143192,143192,14741,Anders Berntsen Mol,2023-04-26,2023-04-30,"Uberlandia, Brazil",Elite 16,4150,M,False,True
+298,3,Poland,Bartosz Losiak / Michal Bryl,122846 / 137237,122846,10444,Bartosz Losiak,2023-04-26,2023-04-30,"Uberlandia, Brazil",Elite 16,4150,M,False,True
+299,3,Poland,Bartosz Losiak / Michal Bryl,122846 / 137237,137237,13340,Michal Bryl,2023-04-26,2023-04-30,"Uberlandia, Brazil",Elite 16,4150,M,False,True
